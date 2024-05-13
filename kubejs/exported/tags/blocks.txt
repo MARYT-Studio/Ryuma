@@ -1,0 +1,3273 @@
+To refresh this file, delete it and run /reload command again! Last updated: May 13, 2024, 5:39:45 PM
+
+#dynamictrees:wart_blocks
+- dynamictrees:crimson_wart
+- dynamictrees:warped_wart
+
+#lootr:convert/shulkers
+- minecraft:shulker_box
+
+#forge:cobblestone/mossy
+- minecraft:mossy_cobblestone
+
+#minecraft:soul_fire_base_blocks
+- minecraft:soul_sand
+- minecraft:soul_soil
+
+#forge:glass_panes/magenta
+- minecraft:magenta_stained_glass_pane
+
+#forge:glass/tinted
+- minecraft:tinted_glass
+
+#farmersdelight:unaffected_by_rich_soil
+- minecraft:grass_block
+- minecraft:grass
+- minecraft:fern
+- minecraft:twisting_vines
+- minecraft:twisting_vines_plant
+- farmersdelight:sandy_shrub
+- farmersdelight:brown_mushroom_colony
+- farmersdelight:red_mushroom_colony
+- #farmersdelight:wild_crops
+
+#minecraft:occludes_vibration_signals
+- #minecraft:wool
+
+#umapyoi:track/turf
+- minecraft:grass_block
+- minecraft:dirt_path
+- minecraft:crimson_nylium
+- minecraft:warped_nylium
+
+#forge:storage_blocks/netherite
+- minecraft:netherite_block
+
+#forge:glass_panes/white
+- minecraft:white_stained_glass_pane
+
+#lostcities:notbreakable
+- minecraft:bedrock
+- minecraft:end_portal
+- minecraft:end_portal_frame
+- minecraft:end_gateway
+
+#forge:gravel
+- minecraft:gravel
+
+#forge:glass_panes/cyan
+- minecraft:cyan_stained_glass_pane
+
+#forge:glass_panes/light_gray
+- minecraft:light_gray_stained_glass_pane
+
+#minecraft:wool
+- minecraft:white_wool
+- minecraft:orange_wool
+- minecraft:magenta_wool
+- minecraft:light_blue_wool
+- minecraft:yellow_wool
+- minecraft:lime_wool
+- minecraft:pink_wool
+- minecraft:gray_wool
+- minecraft:light_gray_wool
+- minecraft:cyan_wool
+- minecraft:purple_wool
+- minecraft:blue_wool
+- minecraft:brown_wool
+- minecraft:green_wool
+- minecraft:red_wool
+- minecraft:black_wool
+
+#forge:glass/colorless
+- minecraft:glass
+
+#forge:glass_panes/light_blue
+- minecraft:light_blue_stained_glass_pane
+
+#minecraft:beehives
+- minecraft:bee_nest
+- minecraft:beehive
+
+#minecraft:ice
+- minecraft:ice
+- minecraft:packed_ice
+- minecraft:blue_ice
+- minecraft:frosted_ice
+
+#forge:ores/netherite_scrap
+- minecraft:ancient_debris
+
+#minecraft:dragon_immune
+- minecraft:barrier
+- minecraft:bedrock
+- minecraft:end_portal
+- minecraft:end_portal_frame
+- minecraft:end_gateway
+- minecraft:command_block
+- minecraft:repeating_command_block
+- minecraft:chain_command_block
+- minecraft:structure_block
+- minecraft:jigsaw
+- minecraft:moving_piston
+- minecraft:obsidian
+- minecraft:crying_obsidian
+- minecraft:end_stone
+- minecraft:iron_bars
+- minecraft:respawn_anchor
+
+#minecraft:crops
+- minecraft:beetroots
+- minecraft:carrots
+- minecraft:potatoes
+- minecraft:wheat
+- minecraft:melon_stem
+- minecraft:pumpkin_stem
+- farmersdelight:cabbages
+- farmersdelight:onions
+- farmersdelight:rice_panicles
+- farmersdelight:budding_tomatoes
+- farmersdelight:tomatoes
+- croptopia:artichoke_crop
+- croptopia:asparagus_crop
+- croptopia:barley_crop
+- croptopia:basil_crop
+- croptopia:bellpepper_crop
+- croptopia:blackbean_crop
+- croptopia:blackberry_crop
+- croptopia:blueberry_crop
+- croptopia:broccoli_crop
+- croptopia:cabbage_crop
+- croptopia:cantaloupe_crop
+- croptopia:cauliflower_crop
+- croptopia:celery_crop
+- croptopia:chile_pepper_crop
+- croptopia:coffee_crop
+- croptopia:corn_crop
+- croptopia:cranberry_crop
+- croptopia:cucumber_crop
+- croptopia:currant_crop
+- croptopia:eggplant_crop
+- croptopia:elderberry_crop
+- croptopia:garlic_crop
+- croptopia:ginger_crop
+- croptopia:grape_crop
+- croptopia:greenbean_crop
+- croptopia:greenonion_crop
+- croptopia:honeydew_crop
+- croptopia:hops_crop
+- croptopia:kale_crop
+- croptopia:kiwi_crop
+- croptopia:leek_crop
+- croptopia:lettuce_crop
+- croptopia:mustard_crop
+- croptopia:oat_crop
+- croptopia:olive_crop
+- croptopia:onion_crop
+- croptopia:peanut_crop
+- croptopia:pepper_crop
+- croptopia:pineapple_crop
+- croptopia:radish_crop
+- croptopia:raspberry_crop
+- croptopia:rhubarb_crop
+- croptopia:rice_crop
+- croptopia:rutabaga_crop
+- croptopia:saguaro_crop
+- croptopia:soybean_crop
+- croptopia:spinach_crop
+- croptopia:squash_crop
+- croptopia:strawberry_crop
+- croptopia:sweetpotato_crop
+- croptopia:tea_crop
+- croptopia:tomatillo_crop
+- croptopia:tomato_crop
+- croptopia:turmeric_crop
+- croptopia:turnip_crop
+- croptopia:vanilla_crop
+- croptopia:yam_crop
+- croptopia:zucchini_crop
+- croptopia:almond_crop
+- croptopia:apple_crop
+- croptopia:apricot_crop
+- croptopia:avocado_crop
+- croptopia:banana_crop
+- croptopia:cashew_crop
+- croptopia:cherry_crop
+- croptopia:coconut_crop
+- croptopia:date_crop
+- croptopia:dragonfruit_crop
+- croptopia:fig_crop
+- croptopia:grapefruit_crop
+- croptopia:kumquat_crop
+- croptopia:lemon_crop
+- croptopia:lime_crop
+- croptopia:mango_crop
+- croptopia:nectarine_crop
+- croptopia:nutmeg_crop
+- croptopia:orange_crop
+- croptopia:peach_crop
+- croptopia:pear_crop
+- croptopia:pecan_crop
+- croptopia:persimmon_crop
+- croptopia:plum_crop
+- croptopia:starfruit_crop
+- croptopia:walnut_crop
+- sakura:rice_crop
+- sakura:buckwheat_crop
+- sakura:cabbage_crop
+- sakura:eggplant_crop
+- sakura:onion_crop
+- sakura:radish_crop
+- sakura:rapeseed_crop
+- sakura:redbean_crop
+- sakura:rice_crop_root
+- sakura:taro_crop
+- sakura:tomato_crop
+- corn_delight:corn_crop
+
+#farmersdelight:heat_sources
+- minecraft:magma_block
+- minecraft:lava_cauldron
+- farmersdelight:stove
+- #farmersdelight:tray_heat_sources
+
+#forge:stained_glass
+- minecraft:white_stained_glass
+- minecraft:orange_stained_glass
+- minecraft:magenta_stained_glass
+- minecraft:light_blue_stained_glass
+- minecraft:yellow_stained_glass
+- minecraft:lime_stained_glass
+- minecraft:pink_stained_glass
+- minecraft:gray_stained_glass
+- minecraft:light_gray_stained_glass
+- minecraft:cyan_stained_glass
+- minecraft:purple_stained_glass
+- minecraft:blue_stained_glass
+- minecraft:brown_stained_glass
+- minecraft:green_stained_glass
+- minecraft:red_stained_glass
+- minecraft:black_stained_glass
+
+#forge:glass/pink
+- minecraft:pink_stained_glass
+
+#forge:chests
+- #forge:chests/ender
+- #forge:chests/trapped
+- #forge:chests/wooden
+
+#forge:storage_blocks/emerald
+- minecraft:emerald_block
+
+#forge:ores/redstone
+- #minecraft:redstone_ores
+
+#minecraft:features_cannot_replace
+- minecraft:bedrock
+- minecraft:spawner
+- minecraft:chest
+- minecraft:end_portal_frame
+
+#minecraft:crystal_sound_blocks
+- minecraft:amethyst_block
+- minecraft:budding_amethyst
+
+#minecraft:warped_stems
+- minecraft:warped_stem
+- minecraft:stripped_warped_stem
+- minecraft:warped_hyphae
+- minecraft:stripped_warped_hyphae
+
+#farmersdelight:ropes
+- farmersdelight:rope
+- quark:rope?
+- supplementaries:rope?
+
+#forge:glass/red
+- minecraft:red_stained_glass
+
+#forge:storage_blocks/iron
+- minecraft:iron_block
+
+#forge:glass_panes/brown
+- minecraft:brown_stained_glass_pane
+
+#minecraft:lava_pool_stone_cannot_replace
+- #minecraft:features_cannot_replace
+- #minecraft:leaves
+- #minecraft:logs
+
+#forge:cobblestone/deepslate
+- minecraft:cobbled_deepslate
+
+#minecraft:inside_step_sound_blocks
+- minecraft:snow
+- minecraft:powder_snow
+
+#forge:glass_panes/green
+- minecraft:green_stained_glass_pane
+
+#lostcities:foliage
+- minecraft:oak_planks
+- minecraft:spruce_planks
+- minecraft:birch_planks
+- minecraft:jungle_planks
+- minecraft:acacia_planks
+- minecraft:dark_oak_planks
+- minecraft:oak_sapling
+- minecraft:spruce_sapling
+- minecraft:birch_sapling
+- minecraft:jungle_sapling
+- minecraft:acacia_sapling
+- minecraft:dark_oak_sapling
+- minecraft:oak_log
+- minecraft:spruce_log
+- minecraft:birch_log
+- minecraft:jungle_log
+- minecraft:acacia_log
+- minecraft:dark_oak_log
+- minecraft:stripped_spruce_log
+- minecraft:stripped_birch_log
+- minecraft:stripped_jungle_log
+- minecraft:stripped_acacia_log
+- minecraft:stripped_dark_oak_log
+- minecraft:stripped_oak_log
+- minecraft:oak_wood
+- minecraft:spruce_wood
+- minecraft:birch_wood
+- minecraft:jungle_wood
+- minecraft:acacia_wood
+- minecraft:dark_oak_wood
+- minecraft:stripped_oak_wood
+- minecraft:stripped_spruce_wood
+- minecraft:stripped_birch_wood
+- minecraft:stripped_jungle_wood
+- minecraft:stripped_acacia_wood
+- minecraft:stripped_dark_oak_wood
+- minecraft:oak_leaves
+- minecraft:spruce_leaves
+- minecraft:birch_leaves
+- minecraft:jungle_leaves
+- minecraft:acacia_leaves
+- minecraft:dark_oak_leaves
+- minecraft:azalea_leaves
+- minecraft:flowering_azalea_leaves
+- minecraft:note_block
+- minecraft:grass
+- minecraft:fern
+- minecraft:dead_bush
+- minecraft:seagrass
+- minecraft:tall_seagrass
+- minecraft:dandelion
+- minecraft:poppy
+- minecraft:blue_orchid
+- minecraft:allium
+- minecraft:azure_bluet
+- minecraft:red_tulip
+- minecraft:orange_tulip
+- minecraft:white_tulip
+- minecraft:pink_tulip
+- minecraft:oxeye_daisy
+- minecraft:cornflower
+- minecraft:wither_rose
+- minecraft:lily_of_the_valley
+- minecraft:brown_mushroom
+- minecraft:red_mushroom
+- minecraft:bookshelf
+- minecraft:oak_stairs
+- minecraft:chest
+- minecraft:crafting_table
+- minecraft:wheat
+- minecraft:oak_sign
+- minecraft:spruce_sign
+- minecraft:birch_sign
+- minecraft:acacia_sign
+- minecraft:jungle_sign
+- minecraft:dark_oak_sign
+- minecraft:oak_door
+- minecraft:oak_wall_sign
+- minecraft:spruce_wall_sign
+- minecraft:birch_wall_sign
+- minecraft:acacia_wall_sign
+- minecraft:jungle_wall_sign
+- minecraft:dark_oak_wall_sign
+- minecraft:oak_pressure_plate
+- minecraft:spruce_pressure_plate
+- minecraft:birch_pressure_plate
+- minecraft:jungle_pressure_plate
+- minecraft:acacia_pressure_plate
+- minecraft:dark_oak_pressure_plate
+- minecraft:sugar_cane
+- minecraft:jukebox
+- minecraft:oak_fence
+- minecraft:oak_trapdoor
+- minecraft:spruce_trapdoor
+- minecraft:birch_trapdoor
+- minecraft:jungle_trapdoor
+- minecraft:acacia_trapdoor
+- minecraft:dark_oak_trapdoor
+- minecraft:brown_mushroom_block
+- minecraft:red_mushroom_block
+- minecraft:mushroom_stem
+- minecraft:attached_pumpkin_stem
+- minecraft:attached_melon_stem
+- minecraft:pumpkin_stem
+- minecraft:melon_stem
+- minecraft:vine
+- minecraft:glow_lichen
+- minecraft:oak_fence_gate
+- minecraft:lily_pad
+- minecraft:nether_wart
+- minecraft:cocoa
+- minecraft:spruce_stairs
+- minecraft:birch_stairs
+- minecraft:jungle_stairs
+- minecraft:carrots
+- minecraft:potatoes
+- minecraft:trapped_chest
+- minecraft:daylight_detector
+- minecraft:acacia_stairs
+- minecraft:dark_oak_stairs
+- minecraft:sunflower
+- minecraft:lilac
+- minecraft:rose_bush
+- minecraft:peony
+- minecraft:tall_grass
+- minecraft:large_fern
+- minecraft:white_banner
+- minecraft:orange_banner
+- minecraft:magenta_banner
+- minecraft:light_blue_banner
+- minecraft:yellow_banner
+- minecraft:lime_banner
+- minecraft:pink_banner
+- minecraft:gray_banner
+- minecraft:light_gray_banner
+- minecraft:cyan_banner
+- minecraft:purple_banner
+- minecraft:blue_banner
+- minecraft:brown_banner
+- minecraft:green_banner
+- minecraft:red_banner
+- minecraft:black_banner
+- minecraft:white_wall_banner
+- minecraft:orange_wall_banner
+- minecraft:magenta_wall_banner
+- minecraft:light_blue_wall_banner
+- minecraft:yellow_wall_banner
+- minecraft:lime_wall_banner
+- minecraft:pink_wall_banner
+- minecraft:gray_wall_banner
+- minecraft:light_gray_wall_banner
+- minecraft:cyan_wall_banner
+- minecraft:purple_wall_banner
+- minecraft:blue_wall_banner
+- minecraft:brown_wall_banner
+- minecraft:green_wall_banner
+- minecraft:red_wall_banner
+- minecraft:black_wall_banner
+- minecraft:oak_slab
+- minecraft:spruce_slab
+- minecraft:birch_slab
+- minecraft:jungle_slab
+- minecraft:acacia_slab
+- minecraft:dark_oak_slab
+- minecraft:spruce_fence_gate
+- minecraft:birch_fence_gate
+- minecraft:jungle_fence_gate
+- minecraft:acacia_fence_gate
+- minecraft:dark_oak_fence_gate
+- minecraft:spruce_fence
+- minecraft:birch_fence
+- minecraft:jungle_fence
+- minecraft:acacia_fence
+- minecraft:dark_oak_fence
+- minecraft:spruce_door
+- minecraft:birch_door
+- minecraft:jungle_door
+- minecraft:acacia_door
+- minecraft:dark_oak_door
+- minecraft:chorus_plant
+- minecraft:chorus_flower
+- minecraft:beetroots
+- minecraft:kelp
+- minecraft:kelp_plant
+- minecraft:tube_coral
+- minecraft:brain_coral
+- minecraft:bubble_coral
+- minecraft:fire_coral
+- minecraft:horn_coral
+- minecraft:tube_coral_fan
+- minecraft:brain_coral_fan
+- minecraft:bubble_coral_fan
+- minecraft:fire_coral_fan
+- minecraft:horn_coral_fan
+- minecraft:tube_coral_wall_fan
+- minecraft:brain_coral_wall_fan
+- minecraft:bubble_coral_wall_fan
+- minecraft:fire_coral_wall_fan
+- minecraft:horn_coral_wall_fan
+- minecraft:sea_pickle
+- minecraft:bamboo_sapling
+- minecraft:bamboo
+- minecraft:loom
+- minecraft:barrel
+- minecraft:cartography_table
+- minecraft:fletching_table
+- minecraft:lectern
+- minecraft:smithing_table
+- minecraft:campfire
+- minecraft:soul_campfire
+- minecraft:sweet_berry_bush
+- minecraft:warped_fungus
+- minecraft:warped_roots
+- minecraft:nether_sprouts
+- minecraft:crimson_fungus
+- minecraft:weeping_vines
+- minecraft:weeping_vines_plant
+- minecraft:twisting_vines
+- minecraft:twisting_vines_plant
+- minecraft:crimson_roots
+- minecraft:composter
+- minecraft:bee_nest
+- minecraft:beehive
+- minecraft:cave_vines
+- minecraft:cave_vines_plant
+- minecraft:spore_blossom
+- minecraft:azalea
+- minecraft:flowering_azalea
+- minecraft:moss_carpet
+- minecraft:big_dripleaf
+- minecraft:big_dripleaf_stem
+- minecraft:small_dripleaf
+- minecraft:hanging_roots
+
+#minecraft:prevent_mob_spawning_inside
+- #minecraft:rails
+
+#minecraft:climbable
+- minecraft:ladder
+- minecraft:vine
+- minecraft:scaffolding
+- minecraft:weeping_vines
+- minecraft:weeping_vines_plant
+- minecraft:twisting_vines
+- minecraft:twisting_vines_plant
+- minecraft:cave_vines
+- minecraft:cave_vines_plant
+- farmersdelight:rope
+- farmersdelight:tomatoes
+
+#forge:chests/trapped
+- lootr:lootr_trapped_chest
+- minecraft:trapped_chest
+
+#forge:fence_gates
+- #forge:fence_gates/wooden
+
+#buildinggadgets:whitelist/generic
+
+#minecraft:parrots_spawnable_on
+- minecraft:grass_block
+- minecraft:air
+- #minecraft:leaves
+- #minecraft:logs
+
+#minecraft:dark_oak_logs
+- minecraft:dark_oak_log
+- minecraft:dark_oak_wood
+- minecraft:stripped_dark_oak_log
+- minecraft:stripped_dark_oak_wood
+
+#farmersdelight:compost_activators
+- minecraft:brown_mushroom
+- minecraft:red_mushroom
+- minecraft:podzol
+- minecraft:mycelium
+- farmersdelight:organic_compost
+- farmersdelight:rich_soil
+- farmersdelight:rich_soil_farmland
+- farmersdelight:brown_mushroom_colony
+- farmersdelight:red_mushroom_colony
+
+#farmersdelight:tray_heat_sources
+- minecraft:lava
+- #minecraft:campfires
+- #minecraft:fire
+
+#forge:glass_panes
+- #forge:glass_panes/colorless
+- #forge:stained_glass_panes
+
+#minecraft:coral_plants
+- minecraft:tube_coral
+- minecraft:brain_coral
+- minecraft:bubble_coral
+- minecraft:fire_coral
+- minecraft:horn_coral
+
+#minecraft:non_flammable_wood
+- minecraft:warped_stem
+- minecraft:stripped_warped_stem
+- minecraft:warped_hyphae
+- minecraft:stripped_warped_hyphae
+- minecraft:crimson_stem
+- minecraft:stripped_crimson_stem
+- minecraft:crimson_hyphae
+- minecraft:stripped_crimson_hyphae
+- minecraft:crimson_planks
+- minecraft:warped_planks
+- minecraft:crimson_slab
+- minecraft:warped_slab
+- minecraft:crimson_pressure_plate
+- minecraft:warped_pressure_plate
+- minecraft:crimson_fence
+- minecraft:warped_fence
+- minecraft:crimson_trapdoor
+- minecraft:warped_trapdoor
+- minecraft:crimson_fence_gate
+- minecraft:warped_fence_gate
+- minecraft:crimson_stairs
+- minecraft:warped_stairs
+- minecraft:crimson_button
+- minecraft:warped_button
+- minecraft:crimson_door
+- minecraft:warped_door
+- minecraft:crimson_sign
+- minecraft:warped_sign
+- minecraft:crimson_wall_sign
+- minecraft:warped_wall_sign
+
+#buildinggadgets:blacklist/generic
+- #minecraft:doors
+- #minecraft:beds
+
+#forge:sandstone
+- minecraft:sandstone
+- minecraft:cut_sandstone
+- minecraft:chiseled_sandstone
+- minecraft:smooth_sandstone
+- minecraft:red_sandstone
+- minecraft:cut_red_sandstone
+- minecraft:chiseled_red_sandstone
+- minecraft:smooth_red_sandstone
+
+#minecraft:goats_spawnable_on
+- minecraft:stone
+- minecraft:snow
+- minecraft:snow_block
+- minecraft:packed_ice
+- minecraft:gravel
+
+#forge:storage_blocks/copper
+- minecraft:copper_block
+
+#forge:glass_panes/colorless
+- minecraft:glass_pane
+
+#minecraft:lapis_ores
+- minecraft:lapis_ore
+- minecraft:deepslate_lapis_ore
+
+#forge:cobblestone/infested
+- minecraft:infested_cobblestone
+
+#minecraft:lush_ground_replaceable
+- #minecraft:moss_replaceable
+- minecraft:clay
+- minecraft:gravel
+- minecraft:sand
+
+#dynamictrees:branches
+- #dynamictrees:branches_that_burn
+- #dynamictrees:fungus_branches
+
+#lostcities:lights
+- minecraft:lava
+- minecraft:brown_mushroom
+- minecraft:torch
+- minecraft:wall_torch
+- minecraft:fire
+- minecraft:soul_fire
+- minecraft:redstone_torch
+- minecraft:redstone_wall_torch
+- minecraft:soul_torch
+- minecraft:soul_wall_torch
+- minecraft:glowstone
+- minecraft:nether_portal
+- minecraft:jack_o_lantern
+- minecraft:enchanting_table
+- minecraft:brewing_stand
+- minecraft:lava_cauldron
+- minecraft:end_portal
+- minecraft:end_portal_frame
+- minecraft:dragon_egg
+- minecraft:ender_chest
+- minecraft:beacon
+- minecraft:light
+- minecraft:sea_lantern
+- minecraft:end_rod
+- minecraft:end_gateway
+- minecraft:magma_block
+- minecraft:sea_pickle
+- minecraft:conduit
+- minecraft:lantern
+- minecraft:soul_lantern
+- minecraft:campfire
+- minecraft:soul_campfire
+- minecraft:shroomlight
+- minecraft:crying_obsidian
+- minecraft:amethyst_cluster
+- minecraft:large_amethyst_bud
+- minecraft:medium_amethyst_bud
+- minecraft:small_amethyst_bud
+- minecraft:sculk_sensor
+
+#buildinggadgets:blacklist/destruction
+
+#minecraft:fences
+- #minecraft:wooden_fences
+- minecraft:nether_brick_fence
+
+#minecraft:saplings
+- minecraft:oak_sapling
+- minecraft:spruce_sapling
+- minecraft:birch_sapling
+- minecraft:jungle_sapling
+- minecraft:acacia_sapling
+- minecraft:dark_oak_sapling
+- minecraft:azalea
+- minecraft:flowering_azalea
+- croptopia:almond_sapling
+- croptopia:apple_sapling
+- croptopia:apricot_sapling
+- croptopia:avocado_sapling
+- croptopia:banana_sapling
+- croptopia:cashew_sapling
+- croptopia:cherry_sapling
+- croptopia:coconut_sapling
+- croptopia:date_sapling
+- croptopia:dragonfruit_sapling
+- croptopia:fig_sapling
+- croptopia:grapefruit_sapling
+- croptopia:kumquat_sapling
+- croptopia:lemon_sapling
+- croptopia:lime_sapling
+- croptopia:mango_sapling
+- croptopia:nectarine_sapling
+- croptopia:nutmeg_sapling
+- croptopia:orange_sapling
+- croptopia:peach_sapling
+- croptopia:pear_sapling
+- croptopia:pecan_sapling
+- croptopia:persimmon_sapling
+- croptopia:plum_sapling
+- croptopia:starfruit_sapling
+- croptopia:walnut_sapling
+- croptopia:cinnamon_sapling
+- sakura:sakura_sapling
+- sakura:maple_sapling_red
+- sakura:maple_sapling_green
+- sakura:maple_sapling_orange
+- sakura:maple_sapling_yellow
+- #dynamictrees:saplings
+
+#forge:storage_blocks/lapis
+- minecraft:lapis_block
+
+#forge:ores/copper
+- #minecraft:copper_ores
+
+#minecraft:mineable/pickaxe
+- minecraft:stone
+- minecraft:granite
+- minecraft:polished_granite
+- minecraft:diorite
+- minecraft:polished_diorite
+- minecraft:andesite
+- minecraft:polished_andesite
+- minecraft:cobblestone
+- minecraft:gold_ore
+- minecraft:deepslate_gold_ore
+- minecraft:iron_ore
+- minecraft:deepslate_iron_ore
+- minecraft:coal_ore
+- minecraft:deepslate_coal_ore
+- minecraft:nether_gold_ore
+- minecraft:lapis_ore
+- minecraft:deepslate_lapis_ore
+- minecraft:lapis_block
+- minecraft:dispenser
+- minecraft:sandstone
+- minecraft:chiseled_sandstone
+- minecraft:cut_sandstone
+- minecraft:gold_block
+- minecraft:iron_block
+- minecraft:bricks
+- minecraft:mossy_cobblestone
+- minecraft:obsidian
+- minecraft:spawner
+- minecraft:diamond_ore
+- minecraft:deepslate_diamond_ore
+- minecraft:diamond_block
+- minecraft:furnace
+- minecraft:cobblestone_stairs
+- minecraft:stone_pressure_plate
+- minecraft:iron_door
+- minecraft:redstone_ore
+- minecraft:deepslate_redstone_ore
+- minecraft:netherrack
+- minecraft:basalt
+- minecraft:polished_basalt
+- minecraft:stone_bricks
+- minecraft:mossy_stone_bricks
+- minecraft:cracked_stone_bricks
+- minecraft:chiseled_stone_bricks
+- minecraft:iron_bars
+- minecraft:chain
+- minecraft:brick_stairs
+- minecraft:stone_brick_stairs
+- minecraft:nether_bricks
+- minecraft:nether_brick_fence
+- minecraft:nether_brick_stairs
+- minecraft:enchanting_table
+- minecraft:brewing_stand
+- minecraft:end_stone
+- minecraft:sandstone_stairs
+- minecraft:emerald_ore
+- minecraft:deepslate_emerald_ore
+- minecraft:ender_chest
+- minecraft:emerald_block
+- minecraft:light_weighted_pressure_plate
+- minecraft:heavy_weighted_pressure_plate
+- minecraft:redstone_block
+- minecraft:nether_quartz_ore
+- minecraft:hopper
+- minecraft:quartz_block
+- minecraft:chiseled_quartz_block
+- minecraft:quartz_pillar
+- minecraft:quartz_stairs
+- minecraft:dropper
+- minecraft:white_terracotta
+- minecraft:orange_terracotta
+- minecraft:magenta_terracotta
+- minecraft:light_blue_terracotta
+- minecraft:yellow_terracotta
+- minecraft:lime_terracotta
+- minecraft:pink_terracotta
+- minecraft:gray_terracotta
+- minecraft:light_gray_terracotta
+- minecraft:cyan_terracotta
+- minecraft:purple_terracotta
+- minecraft:blue_terracotta
+- minecraft:brown_terracotta
+- minecraft:green_terracotta
+- minecraft:red_terracotta
+- minecraft:black_terracotta
+- minecraft:iron_trapdoor
+- minecraft:prismarine
+- minecraft:prismarine_bricks
+- minecraft:dark_prismarine
+- minecraft:prismarine_stairs
+- minecraft:prismarine_brick_stairs
+- minecraft:dark_prismarine_stairs
+- minecraft:prismarine_slab
+- minecraft:prismarine_brick_slab
+- minecraft:dark_prismarine_slab
+- minecraft:terracotta
+- minecraft:coal_block
+- minecraft:red_sandstone
+- minecraft:chiseled_red_sandstone
+- minecraft:cut_red_sandstone
+- minecraft:red_sandstone_stairs
+- minecraft:stone_slab
+- minecraft:smooth_stone_slab
+- minecraft:sandstone_slab
+- minecraft:cut_sandstone_slab
+- minecraft:petrified_oak_slab
+- minecraft:cobblestone_slab
+- minecraft:brick_slab
+- minecraft:stone_brick_slab
+- minecraft:nether_brick_slab
+- minecraft:quartz_slab
+- minecraft:red_sandstone_slab
+- minecraft:cut_red_sandstone_slab
+- minecraft:purpur_slab
+- minecraft:smooth_stone
+- minecraft:smooth_sandstone
+- minecraft:smooth_quartz
+- minecraft:smooth_red_sandstone
+- minecraft:purpur_block
+- minecraft:purpur_pillar
+- minecraft:purpur_stairs
+- minecraft:end_stone_bricks
+- minecraft:magma_block
+- minecraft:red_nether_bricks
+- minecraft:bone_block
+- minecraft:observer
+- minecraft:white_glazed_terracotta
+- minecraft:orange_glazed_terracotta
+- minecraft:magenta_glazed_terracotta
+- minecraft:light_blue_glazed_terracotta
+- minecraft:yellow_glazed_terracotta
+- minecraft:lime_glazed_terracotta
+- minecraft:pink_glazed_terracotta
+- minecraft:gray_glazed_terracotta
+- minecraft:light_gray_glazed_terracotta
+- minecraft:cyan_glazed_terracotta
+- minecraft:purple_glazed_terracotta
+- minecraft:blue_glazed_terracotta
+- minecraft:brown_glazed_terracotta
+- minecraft:green_glazed_terracotta
+- minecraft:red_glazed_terracotta
+- minecraft:black_glazed_terracotta
+- minecraft:white_concrete
+- minecraft:orange_concrete
+- minecraft:magenta_concrete
+- minecraft:light_blue_concrete
+- minecraft:yellow_concrete
+- minecraft:lime_concrete
+- minecraft:pink_concrete
+- minecraft:gray_concrete
+- minecraft:light_gray_concrete
+- minecraft:cyan_concrete
+- minecraft:purple_concrete
+- minecraft:blue_concrete
+- minecraft:brown_concrete
+- minecraft:green_concrete
+- minecraft:red_concrete
+- minecraft:black_concrete
+- minecraft:dead_tube_coral_block
+- minecraft:dead_brain_coral_block
+- minecraft:dead_bubble_coral_block
+- minecraft:dead_fire_coral_block
+- minecraft:dead_horn_coral_block
+- minecraft:tube_coral_block
+- minecraft:brain_coral_block
+- minecraft:bubble_coral_block
+- minecraft:fire_coral_block
+- minecraft:horn_coral_block
+- minecraft:dead_tube_coral
+- minecraft:dead_brain_coral
+- minecraft:dead_bubble_coral
+- minecraft:dead_fire_coral
+- minecraft:dead_horn_coral
+- minecraft:dead_tube_coral_fan
+- minecraft:dead_brain_coral_fan
+- minecraft:dead_bubble_coral_fan
+- minecraft:dead_fire_coral_fan
+- minecraft:dead_horn_coral_fan
+- minecraft:dead_tube_coral_wall_fan
+- minecraft:dead_brain_coral_wall_fan
+- minecraft:dead_bubble_coral_wall_fan
+- minecraft:dead_fire_coral_wall_fan
+- minecraft:dead_horn_coral_wall_fan
+- minecraft:polished_granite_stairs
+- minecraft:smooth_red_sandstone_stairs
+- minecraft:mossy_stone_brick_stairs
+- minecraft:polished_diorite_stairs
+- minecraft:mossy_cobblestone_stairs
+- minecraft:end_stone_brick_stairs
+- minecraft:stone_stairs
+- minecraft:smooth_sandstone_stairs
+- minecraft:smooth_quartz_stairs
+- minecraft:granite_stairs
+- minecraft:andesite_stairs
+- minecraft:red_nether_brick_stairs
+- minecraft:polished_andesite_stairs
+- minecraft:diorite_stairs
+- minecraft:polished_granite_slab
+- minecraft:smooth_red_sandstone_slab
+- minecraft:mossy_stone_brick_slab
+- minecraft:polished_diorite_slab
+- minecraft:mossy_cobblestone_slab
+- minecraft:end_stone_brick_slab
+- minecraft:smooth_sandstone_slab
+- minecraft:smooth_quartz_slab
+- minecraft:granite_slab
+- minecraft:andesite_slab
+- minecraft:red_nether_brick_slab
+- minecraft:polished_andesite_slab
+- minecraft:diorite_slab
+- minecraft:smoker
+- minecraft:blast_furnace
+- minecraft:grindstone
+- minecraft:stonecutter
+- minecraft:bell
+- minecraft:lantern
+- minecraft:soul_lantern
+- minecraft:warped_nylium
+- minecraft:crimson_nylium
+- minecraft:netherite_block
+- minecraft:ancient_debris
+- minecraft:crying_obsidian
+- minecraft:respawn_anchor
+- minecraft:lodestone
+- minecraft:blackstone
+- minecraft:blackstone_stairs
+- minecraft:blackstone_slab
+- minecraft:polished_blackstone
+- minecraft:polished_blackstone_bricks
+- minecraft:cracked_polished_blackstone_bricks
+- minecraft:chiseled_polished_blackstone
+- minecraft:polished_blackstone_brick_slab
+- minecraft:polished_blackstone_brick_stairs
+- minecraft:gilded_blackstone
+- minecraft:polished_blackstone_stairs
+- minecraft:polished_blackstone_slab
+- minecraft:polished_blackstone_pressure_plate
+- minecraft:chiseled_nether_bricks
+- minecraft:cracked_nether_bricks
+- minecraft:quartz_bricks
+- minecraft:tuff
+- minecraft:calcite
+- minecraft:oxidized_copper
+- minecraft:weathered_copper
+- minecraft:exposed_copper
+- minecraft:copper_block
+- minecraft:copper_ore
+- minecraft:deepslate_copper_ore
+- minecraft:oxidized_cut_copper
+- minecraft:weathered_cut_copper
+- minecraft:exposed_cut_copper
+- minecraft:cut_copper
+- minecraft:oxidized_cut_copper_stairs
+- minecraft:weathered_cut_copper_stairs
+- minecraft:exposed_cut_copper_stairs
+- minecraft:cut_copper_stairs
+- minecraft:oxidized_cut_copper_slab
+- minecraft:weathered_cut_copper_slab
+- minecraft:exposed_cut_copper_slab
+- minecraft:cut_copper_slab
+- minecraft:waxed_copper_block
+- minecraft:waxed_weathered_copper
+- minecraft:waxed_exposed_copper
+- minecraft:waxed_oxidized_copper
+- minecraft:waxed_oxidized_cut_copper
+- minecraft:waxed_weathered_cut_copper
+- minecraft:waxed_exposed_cut_copper
+- minecraft:waxed_cut_copper
+- minecraft:waxed_oxidized_cut_copper_stairs
+- minecraft:waxed_weathered_cut_copper_stairs
+- minecraft:waxed_exposed_cut_copper_stairs
+- minecraft:waxed_cut_copper_stairs
+- minecraft:waxed_oxidized_cut_copper_slab
+- minecraft:waxed_weathered_cut_copper_slab
+- minecraft:waxed_exposed_cut_copper_slab
+- minecraft:waxed_cut_copper_slab
+- minecraft:lightning_rod
+- minecraft:pointed_dripstone
+- minecraft:dripstone_block
+- minecraft:deepslate
+- minecraft:cobbled_deepslate
+- minecraft:cobbled_deepslate_stairs
+- minecraft:cobbled_deepslate_slab
+- minecraft:polished_deepslate
+- minecraft:polished_deepslate_stairs
+- minecraft:polished_deepslate_slab
+- minecraft:deepslate_tiles
+- minecraft:deepslate_tile_stairs
+- minecraft:deepslate_tile_slab
+- minecraft:deepslate_bricks
+- minecraft:deepslate_brick_stairs
+- minecraft:deepslate_brick_slab
+- minecraft:chiseled_deepslate
+- minecraft:cracked_deepslate_bricks
+- minecraft:cracked_deepslate_tiles
+- minecraft:smooth_basalt
+- minecraft:raw_iron_block
+- minecraft:raw_copper_block
+- minecraft:raw_gold_block
+- minecraft:ice
+- minecraft:packed_ice
+- minecraft:blue_ice
+- minecraft:stone_button
+- minecraft:piston
+- minecraft:sticky_piston
+- minecraft:piston_head
+- minecraft:amethyst_cluster
+- minecraft:small_amethyst_bud
+- minecraft:medium_amethyst_bud
+- minecraft:large_amethyst_bud
+- minecraft:amethyst_block
+- minecraft:budding_amethyst
+- minecraft:infested_cobblestone
+- minecraft:infested_chiseled_stone_bricks
+- minecraft:infested_cracked_stone_bricks
+- minecraft:infested_deepslate
+- minecraft:infested_stone
+- minecraft:infested_mossy_stone_bricks
+- minecraft:infested_stone_bricks
+- #minecraft:walls
+- #minecraft:shulker_boxes
+- #minecraft:anvil
+- #minecraft:cauldrons
+- #minecraft:rails
+- minecraft:conduit
+- farmersdelight:stove
+- farmersdelight:cooking_pot
+- farmersdelight:skillet
+- torchmaster:feral_flare_lantern
+- torchmaster:dreadlamp
+- sakura:stone_mortar
+- umapyoi:three_goddess
+- umapyoi:support_album_pedestal
+- umapyoi:uma_pedestal
+- umapyoi:silver_support_album_pedestal
+- umapyoi:silver_uma_pedestal
+- umapyoi:uma_statues
+- umapyoi:three_goddess_upper
+- umapyoi:training_facility
+- lootr:trophy
+
+#minecraft:beds
+- minecraft:red_bed
+- minecraft:black_bed
+- minecraft:blue_bed
+- minecraft:brown_bed
+- minecraft:cyan_bed
+- minecraft:gray_bed
+- minecraft:green_bed
+- minecraft:light_blue_bed
+- minecraft:light_gray_bed
+- minecraft:lime_bed
+- minecraft:magenta_bed
+- minecraft:orange_bed
+- minecraft:pink_bed
+- minecraft:purple_bed
+- minecraft:white_bed
+- minecraft:yellow_bed
+
+#mmlib:heat_conductors
+- minecraft:hopper
+- #farmersdelight:heat_conductors
+- minecraft:hopper
+- #farmersdelight:heat_conductors
+
+#minecraft:unstable_bottom_center
+- #minecraft:fence_gates
+
+#forge:ores/diamond
+- #minecraft:diamond_ores
+
+#minecraft:doors
+- #minecraft:wooden_doors
+- minecraft:iron_door
+
+#minecraft:enderman_holdable
+- #minecraft:small_flowers
+- #minecraft:dirt
+- minecraft:sand
+- minecraft:red_sand
+- minecraft:gravel
+- minecraft:brown_mushroom
+- minecraft:red_mushroom
+- minecraft:tnt
+- minecraft:cactus
+- minecraft:clay
+- minecraft:pumpkin
+- minecraft:carved_pumpkin
+- minecraft:melon
+- minecraft:crimson_fungus
+- minecraft:crimson_nylium
+- minecraft:crimson_roots
+- minecraft:warped_fungus
+- minecraft:warped_nylium
+- minecraft:warped_roots
+- croptopia:salt_ore
+- #dynamictrees:fungus_caps
+
+#minecraft:banners
+- minecraft:white_banner
+- minecraft:orange_banner
+- minecraft:magenta_banner
+- minecraft:light_blue_banner
+- minecraft:yellow_banner
+- minecraft:lime_banner
+- minecraft:pink_banner
+- minecraft:gray_banner
+- minecraft:light_gray_banner
+- minecraft:cyan_banner
+- minecraft:purple_banner
+- minecraft:blue_banner
+- minecraft:brown_banner
+- minecraft:green_banner
+- minecraft:red_banner
+- minecraft:black_banner
+- minecraft:white_wall_banner
+- minecraft:orange_wall_banner
+- minecraft:magenta_wall_banner
+- minecraft:light_blue_wall_banner
+- minecraft:yellow_wall_banner
+- minecraft:lime_wall_banner
+- minecraft:pink_wall_banner
+- minecraft:gray_wall_banner
+- minecraft:light_gray_wall_banner
+- minecraft:cyan_wall_banner
+- minecraft:purple_wall_banner
+- minecraft:blue_wall_banner
+- minecraft:brown_wall_banner
+- minecraft:green_wall_banner
+- minecraft:red_wall_banner
+- minecraft:black_wall_banner
+
+#minecraft:infiniburn_overworld
+- minecraft:netherrack
+- minecraft:magma_block
+
+#minecraft:flower_pots
+- minecraft:flower_pot
+- minecraft:potted_poppy
+- minecraft:potted_blue_orchid
+- minecraft:potted_allium
+- minecraft:potted_azure_bluet
+- minecraft:potted_red_tulip
+- minecraft:potted_orange_tulip
+- minecraft:potted_white_tulip
+- minecraft:potted_pink_tulip
+- minecraft:potted_oxeye_daisy
+- minecraft:potted_dandelion
+- minecraft:potted_oak_sapling
+- minecraft:potted_spruce_sapling
+- minecraft:potted_birch_sapling
+- minecraft:potted_jungle_sapling
+- minecraft:potted_acacia_sapling
+- minecraft:potted_dark_oak_sapling
+- minecraft:potted_red_mushroom
+- minecraft:potted_brown_mushroom
+- minecraft:potted_dead_bush
+- minecraft:potted_fern
+- minecraft:potted_cactus
+- minecraft:potted_cornflower
+- minecraft:potted_lily_of_the_valley
+- minecraft:potted_wither_rose
+- minecraft:potted_bamboo
+- minecraft:potted_crimson_fungus
+- minecraft:potted_warped_fungus
+- minecraft:potted_crimson_roots
+- minecraft:potted_warped_roots
+- minecraft:potted_azalea_bush
+- minecraft:potted_flowering_azalea_bush
+- dynamictrees:potted_sapling
+
+#minecraft:wooden_fences
+- minecraft:oak_fence
+- minecraft:acacia_fence
+- minecraft:dark_oak_fence
+- minecraft:spruce_fence
+- minecraft:birch_fence
+- minecraft:jungle_fence
+- minecraft:crimson_fence
+- minecraft:warped_fence
+
+#forge:ore_rates/dense
+- minecraft:copper_ore
+- minecraft:deepslate_copper_ore
+- minecraft:deepslate_lapis_ore
+- minecraft:deepslate_redstone_ore
+- minecraft:lapis_ore
+- minecraft:redstone_ore
+
+#minecraft:wall_post_override
+- minecraft:torch
+- minecraft:soul_torch
+- minecraft:redstone_torch
+- minecraft:tripwire
+- #minecraft:signs
+- #minecraft:banners
+- #minecraft:pressure_plates
+
+#forge:obsidian
+- minecraft:obsidian
+
+#forge:enderman_place_on_blacklist
+
+#farmersdelight:drops_cake_slice
+- minecraft:candle_cake
+- minecraft:white_candle_cake
+- minecraft:orange_candle_cake
+- minecraft:magenta_candle_cake
+- minecraft:light_blue_candle_cake
+- minecraft:yellow_candle_cake
+- minecraft:lime_candle_cake
+- minecraft:pink_candle_cake
+- minecraft:gray_candle_cake
+- minecraft:light_gray_candle_cake
+- minecraft:cyan_candle_cake
+- minecraft:purple_candle_cake
+- minecraft:blue_candle_cake
+- minecraft:brown_candle_cake
+- minecraft:green_candle_cake
+- minecraft:red_candle_cake
+- minecraft:black_candle_cake
+
+#minecraft:cauldrons
+- minecraft:cauldron
+- minecraft:water_cauldron
+- minecraft:lava_cauldron
+- minecraft:powder_snow_cauldron
+
+#buildinggadgets:blacklist/building
+- #buildinggadgets:blacklist/generic
+
+#minecraft:big_dripleaf_placeable
+- #minecraft:small_dripleaf_placeable
+- #minecraft:dirt
+- minecraft:farmland
+
+#minecraft:polar_bears_spawnable_on_in_frozen_ocean
+- minecraft:ice
+
+#forge:ore_rates/singular
+- minecraft:ancient_debris
+- minecraft:coal_ore
+- minecraft:deepslate_coal_ore
+- minecraft:deepslate_diamond_ore
+- minecraft:deepslate_emerald_ore
+- minecraft:deepslate_gold_ore
+- minecraft:deepslate_iron_ore
+- minecraft:diamond_ore
+- minecraft:emerald_ore
+- minecraft:gold_ore
+- minecraft:iron_ore
+- minecraft:nether_quartz_ore
+
+#buildinggadgets:whitelist/building
+- #buildinggadgets:whitelist/generic
+
+#forge:glass/white
+- minecraft:white_stained_glass
+
+#dynamictrees:branches_that_burn
+- dynamictrees:acacia_branch
+- dynamictrees:birch_branch
+- dynamictrees:dark_oak_branch
+- dynamictrees:jungle_branch
+- dynamictrees:oak_branch
+- dynamictrees:spruce_branch
+
+#minecraft:signs
+- #minecraft:standing_signs
+- #minecraft:wall_signs
+
+#forge:glass_panes/red
+- minecraft:red_stained_glass_pane
+
+#farmersdelight:mushroom_colony_growable_on
+- farmersdelight:rich_soil
+
+#minecraft:wither_summon_base_blocks
+- minecraft:soul_sand
+- minecraft:soul_soil
+
+#forge:glass/magenta
+- minecraft:magenta_stained_glass
+
+#minecraft:dripstone_replaceable_blocks
+- #minecraft:base_stone_overworld
+- croptopia:salt_ore
+
+#forge:ores/coal
+- #minecraft:coal_ores
+
+#minecraft:hoglin_repellents
+- minecraft:warped_fungus
+- minecraft:potted_warped_fungus
+- minecraft:nether_portal
+- minecraft:respawn_anchor
+- dynamictrees:warped_sapling
+
+#minecraft:fire
+- minecraft:fire
+- minecraft:soul_fire
+
+#minecraft:needs_diamond_tool
+- minecraft:obsidian
+- minecraft:crying_obsidian
+- minecraft:netherite_block
+- minecraft:respawn_anchor
+- minecraft:ancient_debris
+
+#minecraft:base_stone_nether
+- minecraft:netherrack
+- minecraft:basalt
+- minecraft:blackstone
+
+#minecraft:wall_signs
+- minecraft:oak_wall_sign
+- minecraft:spruce_wall_sign
+- minecraft:birch_wall_sign
+- minecraft:acacia_wall_sign
+- minecraft:jungle_wall_sign
+- minecraft:dark_oak_wall_sign
+- minecraft:crimson_wall_sign
+- minecraft:warped_wall_sign
+- farmersdelight:canvas_wall_sign
+- farmersdelight:white_canvas_wall_sign
+- farmersdelight:orange_canvas_wall_sign
+- farmersdelight:magenta_canvas_wall_sign
+- farmersdelight:light_blue_canvas_wall_sign
+- farmersdelight:yellow_canvas_wall_sign
+- farmersdelight:lime_canvas_wall_sign
+- farmersdelight:pink_canvas_wall_sign
+- farmersdelight:gray_canvas_wall_sign
+- farmersdelight:light_gray_canvas_wall_sign
+- farmersdelight:cyan_canvas_wall_sign
+- farmersdelight:purple_canvas_wall_sign
+- farmersdelight:blue_canvas_wall_sign
+- farmersdelight:brown_canvas_wall_sign
+- farmersdelight:green_canvas_wall_sign
+- farmersdelight:red_canvas_wall_sign
+- farmersdelight:black_canvas_wall_sign
+
+#forge:cobblestone/normal
+- minecraft:cobblestone
+
+#minecraft:mineable/shovel
+- minecraft:clay
+- minecraft:dirt
+- minecraft:coarse_dirt
+- minecraft:podzol
+- minecraft:farmland
+- minecraft:grass_block
+- minecraft:gravel
+- minecraft:mycelium
+- minecraft:sand
+- minecraft:red_sand
+- minecraft:snow_block
+- minecraft:snow
+- minecraft:soul_sand
+- minecraft:dirt_path
+- minecraft:white_concrete_powder
+- minecraft:orange_concrete_powder
+- minecraft:magenta_concrete_powder
+- minecraft:light_blue_concrete_powder
+- minecraft:yellow_concrete_powder
+- minecraft:lime_concrete_powder
+- minecraft:pink_concrete_powder
+- minecraft:gray_concrete_powder
+- minecraft:light_gray_concrete_powder
+- minecraft:cyan_concrete_powder
+- minecraft:purple_concrete_powder
+- minecraft:blue_concrete_powder
+- minecraft:brown_concrete_powder
+- minecraft:green_concrete_powder
+- minecraft:red_concrete_powder
+- minecraft:black_concrete_powder
+- minecraft:soul_soil
+- minecraft:rooted_dirt
+- farmersdelight:organic_compost
+- farmersdelight:rich_soil
+- farmersdelight:rich_soil_farmland
+- croptopia:salt_ore
+
+#forge:sand/colorless
+- minecraft:sand
+
+#minecraft:trapdoors
+- #minecraft:wooden_trapdoors
+- minecraft:iron_trapdoor
+
+#minecraft:redstone_ores
+- minecraft:redstone_ore
+- minecraft:deepslate_redstone_ore
+
+#croptopia:crops
+- croptopia:apple_crop
+- croptopia:banana_crop
+- croptopia:orange_crop
+- croptopia:persimmon_crop
+- croptopia:plum_crop
+- croptopia:cherry_crop
+- croptopia:lemon_crop
+- croptopia:grapefruit_crop
+- croptopia:kumquat_crop
+- croptopia:peach_crop
+- croptopia:coconut_crop
+- croptopia:nutmeg_crop
+- croptopia:fig_crop
+- croptopia:nectarine_crop
+- croptopia:mango_crop
+- croptopia:dragonfruit_crop
+- croptopia:starfruit_crop
+- croptopia:avocado_crop
+- croptopia:apricot_crop
+- croptopia:pear_crop
+- croptopia:lime_crop
+- croptopia:date_crop
+- croptopia:artichoke_crop
+- croptopia:asparagus_crop
+- croptopia:barley_crop
+- croptopia:basil_crop
+- croptopia:bellpepper_crop
+- croptopia:blackbean_crop
+- croptopia:blackberry_crop
+- croptopia:blueberry_crop
+- croptopia:broccoli_crop
+- croptopia:cabbage_crop
+- croptopia:cantaloupe_crop
+- croptopia:cauliflower_crop
+- croptopia:celery_crop
+- croptopia:coffee_crop
+- croptopia:corn_crop
+- croptopia:cranberry_crop
+- croptopia:cucumber_crop
+- croptopia:currant_crop
+- croptopia:eggplant_crop
+- croptopia:elderberry_crop
+- croptopia:garlic_crop
+- croptopia:ginger_crop
+- croptopia:grape_crop
+- croptopia:greenbean_crop
+- croptopia:greenonion_crop
+- croptopia:honeydew_crop
+- croptopia:hops_crop
+- croptopia:kale_crop
+- croptopia:kiwi_crop
+- croptopia:leek_crop
+- croptopia:lettuce_crop
+- croptopia:mustard_crop
+- croptopia:oat_crop
+- croptopia:olive_crop
+- croptopia:onion_crop
+- croptopia:peanut_crop
+- croptopia:chile_pepper_crop
+- croptopia:pineapple_crop
+- croptopia:radish_crop
+- croptopia:raspberry_crop
+- croptopia:rhubarb_crop
+- croptopia:rice_crop
+- croptopia:rutabaga_crop
+- croptopia:saguaro_crop
+- croptopia:soybean_crop
+- croptopia:spinach_crop
+- croptopia:squash_crop
+- croptopia:strawberry_crop
+- croptopia:sweetpotato_crop
+- croptopia:tomatillo_crop
+- croptopia:tomato_crop
+- croptopia:turmeric_crop
+- croptopia:turnip_crop
+- croptopia:yam_crop
+- croptopia:zucchini_crop
+
+#farmersdelight:straw_blocks
+- farmersdelight:rice_bag
+- farmersdelight:rope
+- farmersdelight:safety_net
+- farmersdelight:canvas_rug
+- farmersdelight:tatami
+- farmersdelight:full_tatami_mat
+- farmersdelight:half_tatami_mat
+
+#forge:glass/cyan
+- minecraft:cyan_stained_glass
+
+#lootr:barrels
+- lootr:lootr_barrel
+
+#minecraft:fall_damage_resetting
+- #minecraft:climbable
+- minecraft:sweet_berry_bush
+- minecraft:cobweb
+
+#forge:glass
+- #forge:glass/colorless
+- #forge:stained_glass
+- #forge:glass/tinted
+
+#lootr:convert/blocks
+- #lootr:convert/barrels
+- #lootr:convert/chests
+- #lootr:convert/trapped_chests
+- #lootr:convert/shulkers
+
+#minecraft:soul_speed_blocks
+- minecraft:soul_sand
+- minecraft:soul_soil
+
+#minecraft:geode_invalid_blocks
+- minecraft:bedrock
+- minecraft:water
+- minecraft:lava
+- minecraft:ice
+- minecraft:packed_ice
+- minecraft:blue_ice
+
+#umapyoi:pedestal/uma
+- umapyoi:silver_uma_pedestal
+- umapyoi:uma_pedestal
+
+#minecraft:leaves
+- minecraft:jungle_leaves
+- minecraft:oak_leaves
+- minecraft:spruce_leaves
+- minecraft:dark_oak_leaves
+- minecraft:acacia_leaves
+- minecraft:birch_leaves
+- minecraft:azalea_leaves
+- minecraft:flowering_azalea_leaves
+- croptopia:almond_crop
+- croptopia:apple_crop
+- croptopia:apricot_crop
+- croptopia:avocado_crop
+- croptopia:banana_crop
+- croptopia:cashew_crop
+- croptopia:cherry_crop
+- croptopia:coconut_crop
+- croptopia:date_crop
+- croptopia:dragonfruit_crop
+- croptopia:fig_crop
+- croptopia:grapefruit_crop
+- croptopia:kumquat_crop
+- croptopia:lemon_crop
+- croptopia:lime_crop
+- croptopia:mango_crop
+- croptopia:nectarine_crop
+- croptopia:nutmeg_crop
+- croptopia:orange_crop
+- croptopia:peach_crop
+- croptopia:pear_crop
+- croptopia:pecan_crop
+- croptopia:persimmon_crop
+- croptopia:plum_crop
+- croptopia:starfruit_crop
+- croptopia:walnut_crop
+- croptopia:cinnamon_leaves
+- sakura:sakuraleaves
+- sakura:mapleleaves_red
+- sakura:mapleleaves_green
+- sakura:mapleleaves_orange
+- sakura:mapleleaves_yellow
+- #dynamictrees:leaves
+
+#minecraft:walls
+- minecraft:cobblestone_wall
+- minecraft:mossy_cobblestone_wall
+- minecraft:brick_wall
+- minecraft:prismarine_wall
+- minecraft:red_sandstone_wall
+- minecraft:mossy_stone_brick_wall
+- minecraft:granite_wall
+- minecraft:stone_brick_wall
+- minecraft:nether_brick_wall
+- minecraft:andesite_wall
+- minecraft:red_nether_brick_wall
+- minecraft:sandstone_wall
+- minecraft:end_stone_brick_wall
+- minecraft:diorite_wall
+- minecraft:blackstone_wall
+- minecraft:polished_blackstone_brick_wall
+- minecraft:polished_blackstone_wall
+- minecraft:cobbled_deepslate_wall
+- minecraft:polished_deepslate_wall
+- minecraft:deepslate_tile_wall
+- minecraft:deepslate_brick_wall
+
+#forge:ores_in_ground/netherrack
+- minecraft:nether_gold_ore
+- minecraft:nether_quartz_ore
+
+#minecraft:coral_blocks
+- minecraft:tube_coral_block
+- minecraft:brain_coral_block
+- minecraft:bubble_coral_block
+- minecraft:fire_coral_block
+- minecraft:horn_coral_block
+
+#minecraft:cave_vines
+- minecraft:cave_vines_plant
+- minecraft:cave_vines
+
+#forge:glass/green
+- minecraft:green_stained_glass
+
+#forge:glass_panes/gray
+- minecraft:gray_stained_glass_pane
+
+#minecraft:wither_immune
+- minecraft:barrier
+- minecraft:bedrock
+- minecraft:end_portal
+- minecraft:end_portal_frame
+- minecraft:end_gateway
+- minecraft:command_block
+- minecraft:repeating_command_block
+- minecraft:chain_command_block
+- minecraft:structure_block
+- minecraft:jigsaw
+- minecraft:moving_piston
+
+#minecraft:acacia_logs
+- minecraft:acacia_log
+- minecraft:acacia_wood
+- minecraft:stripped_acacia_log
+- minecraft:stripped_acacia_wood
+
+#forge:stained_glass_panes
+- minecraft:white_stained_glass_pane
+- minecraft:orange_stained_glass_pane
+- minecraft:magenta_stained_glass_pane
+- minecraft:light_blue_stained_glass_pane
+- minecraft:yellow_stained_glass_pane
+- minecraft:lime_stained_glass_pane
+- minecraft:pink_stained_glass_pane
+- minecraft:gray_stained_glass_pane
+- minecraft:light_gray_stained_glass_pane
+- minecraft:cyan_stained_glass_pane
+- minecraft:purple_stained_glass_pane
+- minecraft:blue_stained_glass_pane
+- minecraft:brown_stained_glass_pane
+- minecraft:green_stained_glass_pane
+- minecraft:red_stained_glass_pane
+- minecraft:black_stained_glass_pane
+
+#minecraft:underwater_bonemeals
+- minecraft:seagrass
+- #minecraft:corals
+- #minecraft:wall_corals
+
+#forge:sand/red
+- minecraft:red_sand
+
+#minecraft:impermeable
+- minecraft:glass
+- minecraft:white_stained_glass
+- minecraft:orange_stained_glass
+- minecraft:magenta_stained_glass
+- minecraft:light_blue_stained_glass
+- minecraft:yellow_stained_glass
+- minecraft:lime_stained_glass
+- minecraft:pink_stained_glass
+- minecraft:gray_stained_glass
+- minecraft:light_gray_stained_glass
+- minecraft:cyan_stained_glass
+- minecraft:purple_stained_glass
+- minecraft:blue_stained_glass
+- minecraft:brown_stained_glass
+- minecraft:green_stained_glass
+- minecraft:red_stained_glass
+- minecraft:black_stained_glass
+- minecraft:tinted_glass
+
+#minecraft:sand
+- minecraft:sand
+- minecraft:red_sand
+
+#forge:end_stones
+- minecraft:end_stone
+
+#minecraft:copper_ores
+- minecraft:copper_ore
+- minecraft:deepslate_copper_ore
+
+#forge:glass/brown
+- minecraft:brown_stained_glass
+
+#minecraft:small_dripleaf_placeable
+- minecraft:clay
+- minecraft:moss_block
+
+#minecraft:logs_that_burn
+- #minecraft:dark_oak_logs
+- #minecraft:oak_logs
+- #minecraft:acacia_logs
+- #minecraft:birch_logs
+- #minecraft:jungle_logs
+- #minecraft:spruce_logs
+- #croptopia:cinnamon_logs
+- sakura:stripped_sakura_wood
+- sakura:stripped_maple_wood
+- sakura:sakura_wood
+- sakura:maple_wood
+- sakura:stripped_sakura_log
+- sakura:stripped_maple_log
+- sakura:sakura_log
+- sakura:maple_log
+- sakura:maple_sap_log
+- #dynamictrees:branches_that_burn
+- #dynamictrees:stripped_branches_that_burn
+
+#minecraft:mineable/hoe
+- minecraft:nether_wart_block
+- minecraft:warped_wart_block
+- minecraft:hay_block
+- minecraft:dried_kelp_block
+- minecraft:target
+- minecraft:shroomlight
+- minecraft:sponge
+- minecraft:wet_sponge
+- minecraft:jungle_leaves
+- minecraft:oak_leaves
+- minecraft:spruce_leaves
+- minecraft:dark_oak_leaves
+- minecraft:acacia_leaves
+- minecraft:birch_leaves
+- minecraft:azalea_leaves
+- minecraft:flowering_azalea_leaves
+- minecraft:sculk_sensor
+- minecraft:moss_block
+- minecraft:moss_carpet
+- farmersdelight:rice_bale
+- farmersdelight:straw_bale
+- croptopia:almond_crop
+- croptopia:apple_crop
+- croptopia:apricot_crop
+- croptopia:avocado_crop
+- croptopia:banana_crop
+- croptopia:cashew_crop
+- croptopia:cherry_crop
+- croptopia:coconut_crop
+- croptopia:date_crop
+- croptopia:dragonfruit_crop
+- croptopia:fig_crop
+- croptopia:grapefruit_crop
+- croptopia:kumquat_crop
+- croptopia:lemon_crop
+- croptopia:lime_crop
+- croptopia:mango_crop
+- croptopia:nectarine_crop
+- croptopia:nutmeg_crop
+- croptopia:orange_crop
+- croptopia:peach_crop
+- croptopia:pear_crop
+- croptopia:pecan_crop
+- croptopia:persimmon_crop
+- croptopia:plum_crop
+- croptopia:starfruit_crop
+- croptopia:walnut_crop
+- croptopia:cinnamon_leaves
+
+#minecraft:needs_iron_tool
+- minecraft:diamond_block
+- minecraft:diamond_ore
+- minecraft:deepslate_diamond_ore
+- minecraft:emerald_ore
+- minecraft:deepslate_emerald_ore
+- minecraft:emerald_block
+- minecraft:gold_block
+- minecraft:raw_gold_block
+- minecraft:gold_ore
+- minecraft:deepslate_gold_ore
+- minecraft:redstone_ore
+- minecraft:deepslate_redstone_ore
+
+#forge:fences/wooden
+- #minecraft:wooden_fences
+
+#sereneseasons:summer_crops
+- farmersdelight:budding_tomatoes
+- farmersdelight:tomatoes
+- farmersdelight:rice
+- farmersdelight:rice_panicles
+- croptopia:artichoke_crop
+- croptopia:asparagus_crop
+- croptopia:artichoke_crop
+- croptopia:asparagus_crop
+- croptopia:bellpepper_crop
+- croptopia:saguaro_crop
+- croptopia:blackbean_crop
+- croptopia:blackberry_crop
+- croptopia:blueberry_crop
+- croptopia:cranberry_crop
+- croptopia:cantaloupe_crop
+- croptopia:elderberry_crop
+- croptopia:coffee_crop
+- croptopia:greenbean_crop
+- croptopia:greenonion_crop
+- croptopia:honeydew_crop
+- croptopia:kiwi_crop
+- croptopia:onion_crop
+- croptopia:pineapple_crop
+- croptopia:raspberry_crop
+- croptopia:rice_crop
+- croptopia:strawberry_crop
+- croptopia:tomatillo_crop
+- croptopia:tomato_crop
+- croptopia:zucchini_crop
+- croptopia:oat_crop
+- croptopia:barley_crop
+- croptopia:soybean_crop
+- croptopia:mustard_crop
+- croptopia:turmeric_crop
+- croptopia:ginger_crop
+- croptopia:basil_crop
+- croptopia:apple_crop
+- croptopia:banana_crop
+- croptopia:orange_crop
+- croptopia:persimmon_crop
+- croptopia:plum_crop
+- croptopia:cherry_crop
+- croptopia:lemon_crop
+- croptopia:grapefruit_crop
+- croptopia:kumquat_crop
+- croptopia:peach_crop
+- croptopia:coconut_crop
+- croptopia:nutmeg_crop
+- croptopia:fig_crop
+- croptopia:nectarine_crop
+- croptopia:mango_crop
+- croptopia:dragonfruit_crop
+- croptopia:starfruit_crop
+- croptopia:avocado_crop
+- croptopia:apricot_crop
+- croptopia:pear_crop
+- croptopia:lime_crop
+- croptopia:date_crop
+- croptopia:almond_crop
+- croptopia:cashew_crop
+- croptopia:pecan_crop
+- croptopia:walnut_crop
+- corn_delight:corn_crop
+
+#forge:storage_blocks
+- #forge:storage_blocks/amethyst
+- #forge:storage_blocks/coal
+- #forge:storage_blocks/copper
+- #forge:storage_blocks/diamond
+- #forge:storage_blocks/emerald
+- #forge:storage_blocks/gold
+- #forge:storage_blocks/iron
+- #forge:storage_blocks/lapis
+- #forge:storage_blocks/quartz
+- #forge:storage_blocks/raw_copper
+- #forge:storage_blocks/raw_gold
+- #forge:storage_blocks/raw_iron
+- #forge:storage_blocks/redstone
+- #forge:storage_blocks/netherite
+
+#forge:glass/gray
+- minecraft:gray_stained_glass
+
+#minecraft:campfires
+- minecraft:campfire
+- minecraft:soul_campfire
+
+#minecraft:infiniburn_nether
+- #minecraft:infiniburn_overworld
+
+#umapyoi:track/snow
+- #minecraft:snow
+
+#forge:glass_panes/orange
+- minecraft:orange_stained_glass_pane
+
+#forge:glass/light_gray
+- minecraft:light_gray_stained_glass
+
+#forge:ores/quartz
+- minecraft:nether_quartz_ore
+
+#minecraft:wooden_slabs
+- minecraft:oak_slab
+- minecraft:spruce_slab
+- minecraft:birch_slab
+- minecraft:jungle_slab
+- minecraft:acacia_slab
+- minecraft:dark_oak_slab
+- minecraft:crimson_slab
+- minecraft:warped_slab
+
+#forge:glass/blue
+- minecraft:blue_stained_glass
+
+#minecraft:coal_ores
+- minecraft:coal_ore
+- minecraft:deepslate_coal_ore
+
+#umapyoi:track/dirt
+- minecraft:dirt
+- minecraft:podzol
+- minecraft:rooted_dirt
+- minecraft:coarse_dirt
+- #minecraft:sand
+
+#minecraft:small_flowers
+- minecraft:dandelion
+- minecraft:poppy
+- minecraft:blue_orchid
+- minecraft:allium
+- minecraft:azure_bluet
+- minecraft:red_tulip
+- minecraft:orange_tulip
+- minecraft:white_tulip
+- minecraft:pink_tulip
+- minecraft:oxeye_daisy
+- minecraft:cornflower
+- minecraft:lily_of_the_valley
+- minecraft:wither_rose
+- farmersdelight:wild_carrots
+- farmersdelight:wild_potatoes
+- farmersdelight:wild_beetroots
+- farmersdelight:wild_cabbages
+- farmersdelight:wild_tomatoes
+- farmersdelight:wild_onions
+- corn_delight:wild_corn
+
+#minecraft:replaceable_plants
+- minecraft:grass
+- minecraft:fern
+- minecraft:dead_bush
+- minecraft:vine
+- minecraft:glow_lichen
+- minecraft:sunflower
+- minecraft:lilac
+- minecraft:rose_bush
+- minecraft:peony
+- minecraft:tall_grass
+- minecraft:large_fern
+- minecraft:hanging_roots
+- farmersdelight:sandy_shrub
+
+#farmersdelight:mineable/knife
+- minecraft:cobweb
+- minecraft:cake
+- farmersdelight:apple_pie
+- farmersdelight:sweet_berry_cheesecake
+- farmersdelight:chocolate_pie
+- farmersdelight:roast_chicken_block
+- farmersdelight:honey_glazed_ham_block
+- farmersdelight:shepherds_pie_block
+- farmersdelight:rice_roll_medley_block
+- #minecraft:carpets
+- #minecraft:wool
+- #minecraft:candle_cakes
+- #farmersdelight:straw_blocks
+- #forge:mineable/knife
+
+#minecraft:azalea_root_replaceable
+- #minecraft:base_stone_overworld
+- #minecraft:dirt
+- #minecraft:terracotta
+- minecraft:red_sand
+- minecraft:clay
+- minecraft:gravel
+- minecraft:sand
+- minecraft:snow_block
+- minecraft:powder_snow
+- croptopia:salt_ore
+
+#minecraft:wooden_trapdoors
+- minecraft:acacia_trapdoor
+- minecraft:birch_trapdoor
+- minecraft:dark_oak_trapdoor
+- minecraft:jungle_trapdoor
+- minecraft:oak_trapdoor
+- minecraft:spruce_trapdoor
+- minecraft:crimson_trapdoor
+- minecraft:warped_trapdoor
+
+#forge:ore_bearing_ground/stone
+- minecraft:stone
+
+#lootr:trapped_chests
+- lootr:lootr_trapped_chest
+
+#buildinggadgets:blacklist/copy_paste
+
+#forge:storage_blocks/coal
+- minecraft:coal_block
+
+#forge:glass_panes/black
+- minecraft:black_stained_glass_pane
+
+#forge:glass/light_blue
+- minecraft:light_blue_stained_glass
+
+#farmersdelight:wild_crops
+- farmersdelight:wild_carrots
+- farmersdelight:wild_potatoes
+- farmersdelight:wild_beetroots
+- farmersdelight:wild_cabbages
+- farmersdelight:wild_tomatoes
+- farmersdelight:wild_onions
+- farmersdelight:wild_rice
+- corn_delight:wild_corn
+
+#minecraft:wolves_spawnable_on
+- minecraft:grass_block
+- minecraft:snow
+- minecraft:snow_block
+
+#minecraft:foxes_spawnable_on
+- minecraft:grass_block
+- minecraft:snow
+- minecraft:snow_block
+- minecraft:podzol
+- minecraft:coarse_dirt
+
+#forge:storage_blocks/redstone
+- minecraft:redstone_block
+
+#croptopia:cinnamon_logs
+- croptopia:cinnamon_log
+- croptopia:stripped_cinnamon_log
+- croptopia:cinnamon_wood
+- croptopia:stripped_cinnamon_wood
+
+#sereneseasons:winter_crops
+- farmersdelight:cabbages
+- croptopia:rhubarb_crop
+- croptopia:rutabaga_crop
+- croptopia:squash_crop
+- croptopia:yam_crop
+- croptopia:turnip_crop
+
+#forge:storage_blocks/amethyst
+- minecraft:amethyst_block
+
+#minecraft:stairs
+- #minecraft:wooden_stairs
+- minecraft:cobblestone_stairs
+- minecraft:sandstone_stairs
+- minecraft:nether_brick_stairs
+- minecraft:stone_brick_stairs
+- minecraft:brick_stairs
+- minecraft:purpur_stairs
+- minecraft:quartz_stairs
+- minecraft:red_sandstone_stairs
+- minecraft:prismarine_brick_stairs
+- minecraft:prismarine_stairs
+- minecraft:dark_prismarine_stairs
+- minecraft:polished_granite_stairs
+- minecraft:smooth_red_sandstone_stairs
+- minecraft:mossy_stone_brick_stairs
+- minecraft:polished_diorite_stairs
+- minecraft:mossy_cobblestone_stairs
+- minecraft:end_stone_brick_stairs
+- minecraft:stone_stairs
+- minecraft:smooth_sandstone_stairs
+- minecraft:smooth_quartz_stairs
+- minecraft:granite_stairs
+- minecraft:andesite_stairs
+- minecraft:red_nether_brick_stairs
+- minecraft:polished_andesite_stairs
+- minecraft:diorite_stairs
+- minecraft:blackstone_stairs
+- minecraft:polished_blackstone_brick_stairs
+- minecraft:polished_blackstone_stairs
+- minecraft:cobbled_deepslate_stairs
+- minecraft:polished_deepslate_stairs
+- minecraft:deepslate_tile_stairs
+- minecraft:deepslate_brick_stairs
+- minecraft:oxidized_cut_copper_stairs
+- minecraft:weathered_cut_copper_stairs
+- minecraft:exposed_cut_copper_stairs
+- minecraft:cut_copper_stairs
+- minecraft:waxed_weathered_cut_copper_stairs
+- minecraft:waxed_exposed_cut_copper_stairs
+- minecraft:waxed_cut_copper_stairs
+- minecraft:waxed_oxidized_cut_copper_stairs
+
+#forge:glass_panes/blue
+- minecraft:blue_stained_glass_pane
+
+#sereneseasons:unbreakable_infertile_crops
+- farmersdelight:onions
+
+#minecraft:logs
+- #minecraft:logs_that_burn
+- #minecraft:crimson_stems
+- #minecraft:warped_stems
+- sakura:stripped_sakura_wood
+- sakura:stripped_maple_wood
+- sakura:sakura_wood
+- sakura:maple_wood
+- sakura:stripped_sakura_log
+- sakura:stripped_maple_log
+- sakura:sakura_log
+- sakura:maple_log
+- sakura:maple_sap_log
+- #dynamictrees:branches
+
+#lootr:shulkers
+- lootr:lootr_shulker
+
+#minecraft:azalea_grows_on
+- #minecraft:dirt
+- #minecraft:sand
+- #minecraft:terracotta
+- minecraft:snow_block
+- minecraft:powder_snow
+
+#create:passive_boiler_heaters
+- farmersdelight:stove
+
+#buildinggadgets:blacklist/exchanging
+- #buildinggadgets:blacklist/generic
+- minecraft:torch
+- minecraft:wall_torch
+
+#forge:stone
+- minecraft:andesite
+- minecraft:diorite
+- minecraft:granite
+- minecraft:infested_stone
+- minecraft:stone
+- minecraft:polished_andesite
+- minecraft:polished_diorite
+- minecraft:polished_granite
+- minecraft:deepslate
+- minecraft:polished_deepslate
+- minecraft:infested_deepslate
+- minecraft:tuff
+
+#minecraft:valid_spawn
+- minecraft:grass_block
+- minecraft:podzol
+
+#dynamictrees:foliage
+- #minecraft:flowers
+- minecraft:grass
+- minecraft:tall_grass
+- minecraft:fern
+- minecraft:crimson_roots
+- minecraft:warped_roots
+- minecraft:nether_sprouts
+- minecraft:moss_carpet
+
+#minecraft:mushroom_grow_block
+- minecraft:mycelium
+- minecraft:podzol
+- minecraft:crimson_nylium
+- minecraft:warped_nylium
+- farmersdelight:organic_compost
+- farmersdelight:rich_soil
+
+#minecraft:wooden_doors
+- minecraft:oak_door
+- minecraft:spruce_door
+- minecraft:birch_door
+- minecraft:jungle_door
+- minecraft:acacia_door
+- minecraft:dark_oak_door
+- minecraft:crimson_door
+- minecraft:warped_door
+
+#dynamictrees:stripped_branches
+- #dynamictrees:stripped_branches_that_burn
+- #dynamictrees:stripped_fungus_branches
+
+#minecraft:standing_signs
+- minecraft:oak_sign
+- minecraft:spruce_sign
+- minecraft:birch_sign
+- minecraft:acacia_sign
+- minecraft:jungle_sign
+- minecraft:dark_oak_sign
+- minecraft:crimson_sign
+- minecraft:warped_sign
+- farmersdelight:canvas_sign
+- farmersdelight:white_canvas_sign
+- farmersdelight:orange_canvas_sign
+- farmersdelight:magenta_canvas_sign
+- farmersdelight:light_blue_canvas_sign
+- farmersdelight:yellow_canvas_sign
+- farmersdelight:lime_canvas_sign
+- farmersdelight:pink_canvas_sign
+- farmersdelight:gray_canvas_sign
+- farmersdelight:light_gray_canvas_sign
+- farmersdelight:cyan_canvas_sign
+- farmersdelight:purple_canvas_sign
+- farmersdelight:blue_canvas_sign
+- farmersdelight:brown_canvas_sign
+- farmersdelight:green_canvas_sign
+- farmersdelight:red_canvas_sign
+- farmersdelight:black_canvas_sign
+
+#minecraft:infiniburn_end
+- #minecraft:infiniburn_overworld
+- minecraft:bedrock
+
+#forge:glass_panes/yellow
+- minecraft:yellow_stained_glass_pane
+
+#minecraft:emerald_ores
+- minecraft:emerald_ore
+- minecraft:deepslate_emerald_ore
+
+#sereneseasons:autumn_crops
+- farmersdelight:cabbages
+- farmersdelight:onions
+- farmersdelight:rice
+- farmersdelight:rice_panicles
+- croptopia:cauliflower_crop
+- croptopia:broccoli_crop
+- croptopia:corn_crop
+- croptopia:cucumber_crop
+- croptopia:currant_crop
+- croptopia:eggplant_crop
+- croptopia:grape_crop
+- croptopia:hops_crop
+- croptopia:kale_crop
+- croptopia:olive_crop
+- croptopia:peanut_crop
+- croptopia:sweetpotato_crop
+- croptopia:chile_pepper_crop
+- croptopia:apple_crop
+- croptopia:banana_crop
+- croptopia:orange_crop
+- croptopia:persimmon_crop
+- croptopia:plum_crop
+- croptopia:cherry_crop
+- croptopia:lemon_crop
+- croptopia:grapefruit_crop
+- croptopia:kumquat_crop
+- croptopia:peach_crop
+- croptopia:coconut_crop
+- croptopia:nutmeg_crop
+- croptopia:fig_crop
+- croptopia:nectarine_crop
+- croptopia:mango_crop
+- croptopia:dragonfruit_crop
+- croptopia:starfruit_crop
+- croptopia:avocado_crop
+- croptopia:apricot_crop
+- croptopia:pear_crop
+- croptopia:lime_crop
+- croptopia:date_crop
+- croptopia:almond_crop
+- croptopia:cashew_crop
+- croptopia:pecan_crop
+- croptopia:walnut_crop
+- corn_delight:corn_crop
+
+#buildinggadgets:whitelist/destruction
+
+#forge:glass/purple
+- minecraft:purple_stained_glass
+
+#minecraft:crimson_stems
+- minecraft:crimson_stem
+- minecraft:stripped_crimson_stem
+- minecraft:crimson_hyphae
+- minecraft:stripped_crimson_hyphae
+
+#minecraft:needs_stone_tool
+- minecraft:iron_block
+- minecraft:raw_iron_block
+- minecraft:iron_ore
+- minecraft:deepslate_iron_ore
+- minecraft:lapis_block
+- minecraft:lapis_ore
+- minecraft:deepslate_lapis_ore
+- minecraft:copper_block
+- minecraft:raw_copper_block
+- minecraft:copper_ore
+- minecraft:deepslate_copper_ore
+- minecraft:cut_copper_slab
+- minecraft:cut_copper_stairs
+- minecraft:cut_copper
+- minecraft:weathered_copper
+- minecraft:weathered_cut_copper_slab
+- minecraft:weathered_cut_copper_stairs
+- minecraft:weathered_cut_copper
+- minecraft:oxidized_copper
+- minecraft:oxidized_cut_copper_slab
+- minecraft:oxidized_cut_copper_stairs
+- minecraft:oxidized_cut_copper
+- minecraft:exposed_copper
+- minecraft:exposed_cut_copper_slab
+- minecraft:exposed_cut_copper_stairs
+- minecraft:exposed_cut_copper
+- minecraft:waxed_copper_block
+- minecraft:waxed_cut_copper_slab
+- minecraft:waxed_cut_copper_stairs
+- minecraft:waxed_cut_copper
+- minecraft:waxed_weathered_copper
+- minecraft:waxed_weathered_cut_copper_slab
+- minecraft:waxed_weathered_cut_copper_stairs
+- minecraft:waxed_weathered_cut_copper
+- minecraft:waxed_exposed_copper
+- minecraft:waxed_exposed_cut_copper_slab
+- minecraft:waxed_exposed_cut_copper_stairs
+- minecraft:waxed_exposed_cut_copper
+- minecraft:waxed_oxidized_copper
+- minecraft:waxed_oxidized_cut_copper_slab
+- minecraft:waxed_oxidized_cut_copper_stairs
+- minecraft:waxed_oxidized_cut_copper
+- minecraft:lightning_rod
+
+#farmersdelight:terrain
+- #minecraft:dirt
+- #minecraft:sand
+
+#minecraft:wart_blocks
+- minecraft:nether_wart_block
+- minecraft:warped_wart_block
+- #dynamictrees:wart_blocks
+
+#minecraft:terracotta
+- minecraft:terracotta
+- minecraft:white_terracotta
+- minecraft:orange_terracotta
+- minecraft:magenta_terracotta
+- minecraft:light_blue_terracotta
+- minecraft:yellow_terracotta
+- minecraft:lime_terracotta
+- minecraft:pink_terracotta
+- minecraft:gray_terracotta
+- minecraft:light_gray_terracotta
+- minecraft:cyan_terracotta
+- minecraft:purple_terracotta
+- minecraft:blue_terracotta
+- minecraft:brown_terracotta
+- minecraft:green_terracotta
+- minecraft:red_terracotta
+- minecraft:black_terracotta
+
+#lostcities:needspoi
+- minecraft:brewing_stand
+- minecraft:cauldron
+- minecraft:barrel
+- minecraft:blast_furnace
+- minecraft:smoker
+- minecraft:composter
+- minecraft:fletching_table
+- minecraft:lectern
+- minecraft:stonecutter
+- minecraft:loom
+- minecraft:smithing_table
+- minecraft:grindstone
+
+#farmersdelight:heat_conductors
+- minecraft:hopper
+- create:chute?
+
+#forge:ore_rates/sparse
+- minecraft:nether_gold_ore
+
+#forge:ore_bearing_ground/netherrack
+- minecraft:netherrack
+
+#minecraft:beacon_base_blocks
+- minecraft:netherite_block
+- minecraft:emerald_block
+- minecraft:diamond_block
+- minecraft:gold_block
+- minecraft:iron_block
+
+#minecraft:shulker_boxes
+- minecraft:shulker_box
+- minecraft:black_shulker_box
+- minecraft:blue_shulker_box
+- minecraft:brown_shulker_box
+- minecraft:cyan_shulker_box
+- minecraft:gray_shulker_box
+- minecraft:green_shulker_box
+- minecraft:light_blue_shulker_box
+- minecraft:light_gray_shulker_box
+- minecraft:lime_shulker_box
+- minecraft:magenta_shulker_box
+- minecraft:orange_shulker_box
+- minecraft:pink_shulker_box
+- minecraft:purple_shulker_box
+- minecraft:red_shulker_box
+- minecraft:white_shulker_box
+- minecraft:yellow_shulker_box
+- lootr:lootr_shulker
+
+#mmlib:heat_sources
+- minecraft:magma_block
+- #mmlib:tray_heat_sources
+- #farmersdelight:heat_sources
+- minecraft:magma_block
+- #mmlib:tray_heat_sources
+- #farmersdelight:heat_sources
+
+#forge:ores_in_ground/deepslate
+- minecraft:deepslate_coal_ore
+- minecraft:deepslate_copper_ore
+- minecraft:deepslate_diamond_ore
+- minecraft:deepslate_emerald_ore
+- minecraft:deepslate_gold_ore
+- minecraft:deepslate_iron_ore
+- minecraft:deepslate_lapis_ore
+- minecraft:deepslate_redstone_ore
+
+#dynamictrees:stripped_branches_that_burn
+- dynamictrees:stripped_acacia_branch
+- dynamictrees:stripped_birch_branch
+- dynamictrees:stripped_dark_oak_branch
+- dynamictrees:stripped_jungle_branch
+- dynamictrees:stripped_oak_branch
+- dynamictrees:stripped_spruce_branch
+
+#minecraft:anvil
+- minecraft:anvil
+- minecraft:chipped_anvil
+- minecraft:damaged_anvil
+
+#minecraft:birch_logs
+- minecraft:birch_log
+- minecraft:birch_wood
+- minecraft:stripped_birch_log
+- minecraft:stripped_birch_wood
+
+#minecraft:moss_replaceable
+- #minecraft:base_stone_overworld
+- #minecraft:cave_vines
+- #minecraft:dirt
+
+#forge:sand
+- #forge:sand/colorless
+- #forge:sand/red
+
+#minecraft:wall_corals
+- minecraft:tube_coral_wall_fan
+- minecraft:brain_coral_wall_fan
+- minecraft:bubble_coral_wall_fan
+- minecraft:fire_coral_wall_fan
+- minecraft:horn_coral_wall_fan
+
+#create:fan_heaters
+- farmersdelight:stove
+
+#forge:glass_panes/purple
+- minecraft:purple_stained_glass_pane
+
+#lootr:convert/chests
+- minecraft:chest
+
+#forge:glass/yellow
+- minecraft:yellow_stained_glass
+
+#mmlib:tray_heat_sources
+- minecraft:lava
+- #minecraft:campfires
+- #minecraft:fire
+- #farmersdelight:tray_heat_sources
+- minecraft:lava
+- #minecraft:campfires
+- #minecraft:fire
+- #farmersdelight:tray_heat_sources
+
+#snowcoated:snow_layer_whitelist
+- #dynamictrees:leaves
+
+#forge:storage_blocks/raw_gold
+- minecraft:raw_gold_block
+
+#dynamictrees:saplings
+- dynamictrees:acacia_sapling
+- dynamictrees:apple_oak_sapling
+- dynamictrees:azalea_sapling
+- dynamictrees:birch_sapling
+- dynamictrees:cocoa_sapling
+- dynamictrees:dark_oak_sapling
+- dynamictrees:jungle_sapling
+- dynamictrees:oak_sapling
+- dynamictrees:spruce_sapling
+
+#lostcities:easybreakable
+- minecraft:glass
+- minecraft:glowstone
+- minecraft:white_stained_glass
+- minecraft:orange_stained_glass
+- minecraft:magenta_stained_glass
+- minecraft:light_blue_stained_glass
+- minecraft:yellow_stained_glass
+- minecraft:lime_stained_glass
+- minecraft:pink_stained_glass
+- minecraft:gray_stained_glass
+- minecraft:light_gray_stained_glass
+- minecraft:cyan_stained_glass
+- minecraft:purple_stained_glass
+- minecraft:blue_stained_glass
+- minecraft:brown_stained_glass
+- minecraft:green_stained_glass
+- minecraft:red_stained_glass
+- minecraft:black_stained_glass
+- minecraft:glass_pane
+- minecraft:beacon
+- minecraft:white_stained_glass_pane
+- minecraft:orange_stained_glass_pane
+- minecraft:magenta_stained_glass_pane
+- minecraft:light_blue_stained_glass_pane
+- minecraft:yellow_stained_glass_pane
+- minecraft:lime_stained_glass_pane
+- minecraft:pink_stained_glass_pane
+- minecraft:gray_stained_glass_pane
+- minecraft:light_gray_stained_glass_pane
+- minecraft:cyan_stained_glass_pane
+- minecraft:purple_stained_glass_pane
+- minecraft:blue_stained_glass_pane
+- minecraft:brown_stained_glass_pane
+- minecraft:green_stained_glass_pane
+- minecraft:red_stained_glass_pane
+- minecraft:black_stained_glass_pane
+- minecraft:sea_lantern
+- minecraft:conduit
+- minecraft:tinted_glass
+
+#buildinggadgets:whitelist/copy_paste
+
+#minecraft:iron_ores
+- minecraft:iron_ore
+- minecraft:deepslate_iron_ore
+
+#forge:ores/gold
+- #minecraft:gold_ores
+
+#minecraft:oak_logs
+- minecraft:oak_log
+- minecraft:oak_wood
+- minecraft:stripped_oak_log
+- minecraft:stripped_oak_wood
+
+#lootr:chests
+- lootr:lootr_chest
+- lootr:lootr_inventory
+
+#forge:barrels
+- lootr:lootr_barrel
+- #forge:barrels/wooden
+
+#minecraft:piglin_repellents
+- minecraft:soul_fire
+- minecraft:soul_torch
+- minecraft:soul_lantern
+- minecraft:soul_wall_torch
+- minecraft:soul_campfire
+
+#forge:ores/lapis
+- #minecraft:lapis_ores
+
+#minecraft:mooshrooms_spawnable_on
+- minecraft:mycelium
+
+#forge:glass/black
+- minecraft:black_stained_glass
+
+#minecraft:portals
+- minecraft:nether_portal
+- minecraft:end_portal
+- minecraft:end_gateway
+
+#minecraft:bamboo_plantable_on
+- #minecraft:sand
+- #minecraft:dirt
+- minecraft:bamboo
+- minecraft:bamboo_sapling
+- minecraft:gravel
+- farmersdelight:rich_soil
+
+#forge:fences/nether_brick
+- minecraft:nether_brick_fence
+
+#dynamictrees:leaves
+- dynamictrees:acacia_leaves
+- dynamictrees:azalea_leaves
+- dynamictrees:birch_leaves
+- dynamictrees:dark_oak_leaves
+- dynamictrees:flowering_azalea_leaves
+- dynamictrees:jungle_leaves
+- dynamictrees:oak_leaves
+- dynamictrees:spruce_leaves
+
+#forge:glass/lime
+- minecraft:lime_stained_glass
+
+#forge:chests/wooden
+- lootr:lootr_chest
+- minecraft:chest
+- minecraft:trapped_chest
+
+#forge:ores/iron
+- #minecraft:iron_ores
+
+#minecraft:pressure_plates
+- minecraft:light_weighted_pressure_plate
+- minecraft:heavy_weighted_pressure_plate
+- #minecraft:wooden_pressure_plates
+- #minecraft:stone_pressure_plates
+
+#minecraft:jungle_logs
+- minecraft:jungle_log
+- minecraft:jungle_wood
+- minecraft:stripped_jungle_log
+- minecraft:stripped_jungle_wood
+
+#dynamictrees:fungus_caps
+- dynamictrees:crimson_sapling
+- dynamictrees:warped_sapling
+
+#forge:chests/ender
+- minecraft:ender_chest
+
+#lootr:convert/barrels
+- minecraft:barrel
+
+#minecraft:wooden_stairs
+- minecraft:oak_stairs
+- minecraft:spruce_stairs
+- minecraft:birch_stairs
+- minecraft:jungle_stairs
+- minecraft:acacia_stairs
+- minecraft:dark_oak_stairs
+- minecraft:crimson_stairs
+- minecraft:warped_stairs
+
+#minecraft:spruce_logs
+- minecraft:spruce_log
+- minecraft:spruce_wood
+- minecraft:stripped_spruce_log
+- minecraft:stripped_spruce_wood
+
+#minecraft:carpets
+- minecraft:white_carpet
+- minecraft:orange_carpet
+- minecraft:magenta_carpet
+- minecraft:light_blue_carpet
+- minecraft:yellow_carpet
+- minecraft:lime_carpet
+- minecraft:pink_carpet
+- minecraft:gray_carpet
+- minecraft:light_gray_carpet
+- minecraft:cyan_carpet
+- minecraft:purple_carpet
+- minecraft:blue_carpet
+- minecraft:brown_carpet
+- minecraft:green_carpet
+- minecraft:red_carpet
+- minecraft:black_carpet
+- farmersdelight:full_tatami_mat
+- farmersdelight:half_tatami_mat
+
+#minecraft:base_stone_overworld
+- minecraft:stone
+- minecraft:granite
+- minecraft:diorite
+- minecraft:andesite
+- minecraft:tuff
+- minecraft:deepslate
+
+#minecraft:wooden_buttons
+- minecraft:oak_button
+- minecraft:spruce_button
+- minecraft:birch_button
+- minecraft:jungle_button
+- minecraft:acacia_button
+- minecraft:dark_oak_button
+- minecraft:crimson_button
+- minecraft:warped_button
+
+#minecraft:axolotls_spawnable_on
+- minecraft:clay
+
+#forge:fence_gates/wooden
+- minecraft:oak_fence_gate
+- minecraft:spruce_fence_gate
+- minecraft:birch_fence_gate
+- minecraft:jungle_fence_gate
+- minecraft:acacia_fence_gate
+- minecraft:dark_oak_fence_gate
+- minecraft:crimson_fence_gate
+- minecraft:warped_fence_gate
+
+#forge:storage_blocks/raw_copper
+- minecraft:raw_copper_block
+
+#minecraft:stone_bricks
+- minecraft:stone_bricks
+- minecraft:mossy_stone_bricks
+- minecraft:cracked_stone_bricks
+- minecraft:chiseled_stone_bricks
+
+#forge:storage_blocks/quartz
+- minecraft:quartz_block
+
+#minecraft:mineable/axe
+- minecraft:note_block
+- minecraft:attached_melon_stem
+- minecraft:attached_pumpkin_stem
+- minecraft:azalea
+- minecraft:bamboo
+- minecraft:barrel
+- minecraft:bee_nest
+- minecraft:beehive
+- minecraft:beetroots
+- minecraft:big_dripleaf_stem
+- minecraft:big_dripleaf
+- minecraft:bookshelf
+- minecraft:brown_mushroom_block
+- minecraft:brown_mushroom
+- minecraft:campfire
+- minecraft:carrots
+- minecraft:cartography_table
+- minecraft:carved_pumpkin
+- minecraft:cave_vines_plant
+- minecraft:cave_vines
+- minecraft:chest
+- minecraft:chorus_flower
+- minecraft:chorus_plant
+- minecraft:cocoa
+- minecraft:composter
+- minecraft:crafting_table
+- minecraft:crimson_fungus
+- minecraft:daylight_detector
+- minecraft:dead_bush
+- minecraft:fern
+- minecraft:fletching_table
+- minecraft:glow_lichen
+- minecraft:grass
+- minecraft:hanging_roots
+- minecraft:jack_o_lantern
+- minecraft:jukebox
+- minecraft:ladder
+- minecraft:large_fern
+- minecraft:lectern
+- minecraft:lily_pad
+- minecraft:loom
+- minecraft:melon_stem
+- minecraft:melon
+- minecraft:mushroom_stem
+- minecraft:nether_wart
+- minecraft:potatoes
+- minecraft:pumpkin_stem
+- minecraft:pumpkin
+- minecraft:red_mushroom_block
+- minecraft:red_mushroom
+- minecraft:scaffolding
+- minecraft:small_dripleaf
+- minecraft:smithing_table
+- minecraft:soul_campfire
+- minecraft:spore_blossom
+- minecraft:sugar_cane
+- minecraft:sweet_berry_bush
+- minecraft:tall_grass
+- minecraft:trapped_chest
+- minecraft:twisting_vines_plant
+- minecraft:twisting_vines
+- minecraft:vine
+- minecraft:warped_fungus
+- minecraft:weeping_vines_plant
+- minecraft:weeping_vines
+- minecraft:wheat
+- #minecraft:banners
+- #minecraft:fence_gates
+- #minecraft:logs
+- #minecraft:planks
+- #minecraft:saplings
+- #minecraft:signs
+- #minecraft:wooden_buttons
+- #minecraft:wooden_doors
+- #minecraft:wooden_fences
+- #minecraft:wooden_pressure_plates
+- #minecraft:wooden_slabs
+- #minecraft:wooden_stairs
+- #minecraft:wooden_trapdoors
+- farmersdelight:basket
+- farmersdelight:cutting_board
+- farmersdelight:carrot_crate
+- farmersdelight:potato_crate
+- farmersdelight:beetroot_crate
+- farmersdelight:cabbage_crate
+- farmersdelight:tomato_crate
+- farmersdelight:onion_crate
+- farmersdelight:oak_cabinet
+- farmersdelight:birch_cabinet
+- farmersdelight:spruce_cabinet
+- farmersdelight:jungle_cabinet
+- farmersdelight:acacia_cabinet
+- farmersdelight:dark_oak_cabinet
+- farmersdelight:crimson_cabinet
+- farmersdelight:warped_cabinet
+- farmersdelight:sandy_shrub
+- farmersdelight:stuffed_pumpkin_block
+- torchmaster:megatorch
+- umapyoi:disassembly_block
+- umapyoi:skill_learning_table
+- umapyoi:register_lectern
+- umapyoi:uma_select_block
+- lootr:lootr_chest
+- lootr:lootr_trapped_chest
+- lootr:lootr_barrel
+
+#forge:glass/orange
+- minecraft:orange_stained_glass
+
+#forge:glass_panes/lime
+- minecraft:lime_stained_glass_pane
+
+#sereneseasons:spring_crops
+- farmersdelight:onions
+- croptopia:artichoke_crop
+- croptopia:asparagus_crop
+- croptopia:artichoke_crop
+- croptopia:asparagus_crop
+- croptopia:bellpepper_crop
+- croptopia:cabbage_crop
+- croptopia:celery_crop
+- croptopia:garlic_crop
+- croptopia:leek_crop
+- croptopia:lettuce_crop
+- croptopia:radish_crop
+- croptopia:spinach_crop
+- croptopia:tomato_crop
+- croptopia:chile_pepper_crop
+- croptopia:turnip_crop
+- croptopia:zucchini_crop
+- croptopia:oat_crop
+- croptopia:barley_crop
+- croptopia:soybean_crop
+- croptopia:mustard_crop
+- croptopia:turmeric_crop
+- croptopia:ginger_crop
+- croptopia:basil_crop
+- croptopia:blackberry_crop
+- croptopia:blueberry_crop
+- croptopia:cranberry_crop
+- croptopia:cantaloupe_crop
+- croptopia:elderberry_crop
+
+#dynamictrees:fungus_branches
+- dynamictrees:crimson_branch
+- dynamictrees:warped_branch
+
+#minecraft:slabs
+- #minecraft:wooden_slabs
+- minecraft:stone_slab
+- minecraft:smooth_stone_slab
+- minecraft:stone_brick_slab
+- minecraft:sandstone_slab
+- minecraft:purpur_slab
+- minecraft:quartz_slab
+- minecraft:red_sandstone_slab
+- minecraft:brick_slab
+- minecraft:cobblestone_slab
+- minecraft:nether_brick_slab
+- minecraft:petrified_oak_slab
+- minecraft:prismarine_slab
+- minecraft:prismarine_brick_slab
+- minecraft:dark_prismarine_slab
+- minecraft:polished_granite_slab
+- minecraft:smooth_red_sandstone_slab
+- minecraft:mossy_stone_brick_slab
+- minecraft:polished_diorite_slab
+- minecraft:mossy_cobblestone_slab
+- minecraft:end_stone_brick_slab
+- minecraft:smooth_sandstone_slab
+- minecraft:smooth_quartz_slab
+- minecraft:granite_slab
+- minecraft:andesite_slab
+- minecraft:red_nether_brick_slab
+- minecraft:polished_andesite_slab
+- minecraft:diorite_slab
+- minecraft:cut_sandstone_slab
+- minecraft:cut_red_sandstone_slab
+- minecraft:blackstone_slab
+- minecraft:polished_blackstone_brick_slab
+- minecraft:polished_blackstone_slab
+- minecraft:cobbled_deepslate_slab
+- minecraft:polished_deepslate_slab
+- minecraft:deepslate_tile_slab
+- minecraft:deepslate_brick_slab
+- minecraft:waxed_weathered_cut_copper_slab
+- minecraft:waxed_exposed_cut_copper_slab
+- minecraft:waxed_cut_copper_slab
+- minecraft:oxidized_cut_copper_slab
+- minecraft:weathered_cut_copper_slab
+- minecraft:exposed_cut_copper_slab
+- minecraft:cut_copper_slab
+- minecraft:waxed_oxidized_cut_copper_slab
+
+#umapyoi:pedestal/card
+- umapyoi:silver_support_album_pedestal
+- umapyoi:support_album_pedestal
+
+#minecraft:animals_spawnable_on
+- minecraft:grass_block
+
+#dynamictrees:stripped_fungus_branches
+- dynamictrees:stripped_crimson_branch
+- dynamictrees:stripped_warped_branch
+
+#minecraft:guarded_by_piglins
+- minecraft:gold_block
+- minecraft:barrel
+- minecraft:chest
+- minecraft:ender_chest
+- minecraft:gilded_blackstone
+- minecraft:trapped_chest
+- minecraft:raw_gold_block
+- #minecraft:shulker_boxes
+- #minecraft:gold_ores
+- lootr:lootr_chest
+- lootr:lootr_trapped_chest
+- lootr:lootr_barrel
+
+#forge:ores/emerald
+- #minecraft:emerald_ores
+
+#minecraft:stone_ore_replaceables
+- minecraft:stone
+- minecraft:granite
+- minecraft:diorite
+- minecraft:andesite
+
+#lostcities:rotatable
+- #minecraft:stairs
+
+#buildinggadgets:whitelist/exchanging
+- #buildinggadgets:whitelist/generic
+
+#minecraft:flowers
+- #minecraft:small_flowers
+- #minecraft:tall_flowers
+- minecraft:flowering_azalea_leaves
+- minecraft:flowering_azalea
+
+#minecraft:corals
+- #minecraft:coral_plants
+- minecraft:tube_coral_fan
+- minecraft:brain_coral_fan
+- minecraft:bubble_coral_fan
+- minecraft:fire_coral_fan
+- minecraft:horn_coral_fan
+
+#minecraft:buttons
+- #minecraft:wooden_buttons
+- minecraft:stone_button
+- minecraft:polished_blackstone_button
+
+#minecraft:rabbits_spawnable_on
+- minecraft:grass_block
+- minecraft:snow
+- minecraft:snow_block
+- minecraft:sand
+
+#minecraft:planks
+- minecraft:oak_planks
+- minecraft:spruce_planks
+- minecraft:birch_planks
+- minecraft:jungle_planks
+- minecraft:acacia_planks
+- minecraft:dark_oak_planks
+- minecraft:crimson_planks
+- minecraft:warped_planks
+- sakura:plank_sakura
+- sakura:plank_bamboo
+- sakura:plank_maple
+
+#lootr:containers
+- #lootr:barrels
+- #lootr:chests
+- #lootr:trapped_chests
+- #lootr:shulkers
+
+#forge:cobblestone
+- #forge:cobblestone/normal
+- #forge:cobblestone/infested
+- #forge:cobblestone/mossy
+- #forge:cobblestone/deepslate
+
+#minecraft:rails
+- minecraft:rail
+- minecraft:powered_rail
+- minecraft:detector_rail
+- minecraft:activator_rail
+
+#minecraft:diamond_ores
+- minecraft:diamond_ore
+- minecraft:deepslate_diamond_ore
+
+#forge:barrels/wooden
+- minecraft:barrel
+
+#minecraft:deepslate_ore_replaceables
+- minecraft:deepslate
+- minecraft:tuff
+
+#forge:glass/silica
+- minecraft:glass
+- minecraft:black_stained_glass
+- minecraft:blue_stained_glass
+- minecraft:brown_stained_glass
+- minecraft:cyan_stained_glass
+- minecraft:gray_stained_glass
+- minecraft:green_stained_glass
+- minecraft:light_blue_stained_glass
+- minecraft:light_gray_stained_glass
+- minecraft:lime_stained_glass
+- minecraft:magenta_stained_glass
+- minecraft:orange_stained_glass
+- minecraft:pink_stained_glass
+- minecraft:purple_stained_glass
+- minecraft:red_stained_glass
+- minecraft:white_stained_glass
+- minecraft:yellow_stained_glass
+
+#minecraft:strider_warm_blocks
+- minecraft:lava
+
+#forge:storage_blocks/gold
+- minecraft:gold_block
+
+#forge:storage_blocks/raw_iron
+- minecraft:raw_iron_block
+
+#minecraft:fence_gates
+- minecraft:acacia_fence_gate
+- minecraft:birch_fence_gate
+- minecraft:dark_oak_fence_gate
+- minecraft:jungle_fence_gate
+- minecraft:oak_fence_gate
+- minecraft:spruce_fence_gate
+- minecraft:crimson_fence_gate
+- minecraft:warped_fence_gate
+
+#forge:ores
+- #forge:ores/coal
+- #forge:ores/copper
+- #forge:ores/diamond
+- #forge:ores/emerald
+- #forge:ores/gold
+- #forge:ores/iron
+- #forge:ores/lapis
+- #forge:ores/redstone
+- #forge:ores/quartz
+- #forge:ores/netherite_scrap
+
+#minecraft:bee_growables
+- #minecraft:crops
+- minecraft:sweet_berry_bush
+- minecraft:cave_vines
+- minecraft:cave_vines_plant
+
+#minecraft:wooden_pressure_plates
+- minecraft:oak_pressure_plate
+- minecraft:spruce_pressure_plate
+- minecraft:birch_pressure_plate
+- minecraft:jungle_pressure_plate
+- minecraft:acacia_pressure_plate
+- minecraft:dark_oak_pressure_plate
+- minecraft:crimson_pressure_plate
+- minecraft:warped_pressure_plate
+
+#create:brittle
+- farmersdelight:cutting_board
+- farmersdelight:full_tatami_mat
+- farmersdelight:half_tatami_mat
+
+#lootr:convert/trapped_chests
+- minecraft:trapped_chest
+
+#minecraft:candles
+- minecraft:candle
+- minecraft:white_candle
+- minecraft:orange_candle
+- minecraft:magenta_candle
+- minecraft:light_blue_candle
+- minecraft:yellow_candle
+- minecraft:lime_candle
+- minecraft:pink_candle
+- minecraft:gray_candle
+- minecraft:light_gray_candle
+- minecraft:cyan_candle
+- minecraft:purple_candle
+- minecraft:blue_candle
+- minecraft:brown_candle
+- minecraft:green_candle
+- minecraft:red_candle
+- minecraft:black_candle
+
+#minecraft:tall_flowers
+- minecraft:sunflower
+- minecraft:lilac
+- minecraft:peony
+- minecraft:rose_bush
+- farmersdelight:wild_rice
+
+#forge:fences
+- #forge:fences/nether_brick
+- #forge:fences/wooden
+
+#minecraft:stone_pressure_plates
+- minecraft:stone_pressure_plate
+- minecraft:polished_blackstone_pressure_plate
+
+#forge:storage_blocks/diamond
+- minecraft:diamond_block
+
+#minecraft:snow
+- minecraft:snow
+- minecraft:snow_block
+- minecraft:powder_snow
+
+#forge:ores_in_ground/stone
+- minecraft:coal_ore
+- minecraft:copper_ore
+- minecraft:diamond_ore
+- minecraft:emerald_ore
+- minecraft:gold_ore
+- minecraft:iron_ore
+- minecraft:lapis_ore
+- minecraft:redstone_ore
+
+#minecraft:nylium
+- minecraft:crimson_nylium
+- minecraft:warped_nylium
+
+#minecraft:gold_ores
+- minecraft:gold_ore
+- minecraft:nether_gold_ore
+- minecraft:deepslate_gold_ore
+
+#forge:glass_panes/pink
+- minecraft:pink_stained_glass_pane
+
+#minecraft:dirt
+- minecraft:dirt
+- minecraft:grass_block
+- minecraft:podzol
+- minecraft:coarse_dirt
+- minecraft:mycelium
+- minecraft:rooted_dirt
+- minecraft:moss_block
+- farmersdelight:rich_soil
+
+#forge:netherrack
+- minecraft:netherrack
+
+#minecraft:candle_cakes
+- minecraft:candle_cake
+- minecraft:white_candle_cake
+- minecraft:orange_candle_cake
+- minecraft:magenta_candle_cake
+- minecraft:light_blue_candle_cake
+- minecraft:yellow_candle_cake
+- minecraft:lime_candle_cake
+- minecraft:pink_candle_cake
+- minecraft:gray_candle_cake
+- minecraft:light_gray_candle_cake
+- minecraft:cyan_candle_cake
+- minecraft:purple_candle_cake
+- minecraft:blue_candle_cake
+- minecraft:brown_candle_cake
+- minecraft:green_candle_cake
+- minecraft:red_candle_cake
+- minecraft:black_candle_cake
+- cacao:candle_chocolate_cake
+- cacao:black_candle_chocolate_cake
+- cacao:gray_candle_chocolate_cake
+- cacao:light_gray_candle_chocolate_cake
+- cacao:white_candle_chocolate_cake
+- cacao:light_blue_candle_chocolate_cake
+- cacao:blue_candle_chocolate_cake
+- cacao:cyan_candle_chocolate_cake
+- cacao:green_candle_chocolate_cake
+- cacao:lime_candle_chocolate_cake
+- cacao:yellow_candle_chocolate_cake
+- cacao:orange_candle_chocolate_cake
+- cacao:red_candle_chocolate_cake
+- cacao:pink_candle_chocolate_cake
+- cacao:purple_candle_chocolate_cake
+- cacao:magenta_candle_chocolate_cake
+- cacao:brown_candle_chocolate_cake
+
+#forge:ore_bearing_ground/deepslate
+- minecraft:deepslate
+
+#forge:mineable/knife

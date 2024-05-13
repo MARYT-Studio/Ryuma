@@ -1,0 +1,57 @@
+To refresh this file, delete it and run /reload command again! Last updated: May 13, 2024, 5:39:45 PM
+
+#minecraft:lava
+- minecraft:lava
+- minecraft:flowing_lava
+
+#minecraft:water
+- minecraft:water
+- minecraft:flowing_water
+- sakura:food_oil
+- sakura:food_oil_flowing
+- sakura:doburoku
+- sakura:doburoku_flowing
+- sakura:sake
+- sakura:sake_flowing
+- sakura:shouchu
+- sakura:shouchu_flowing
+- sakura:red_wine
+- sakura:red_wine_flowing
+- sakura:white_wine
+- sakura:white_wine_flowing
+- sakura:whiskey
+- sakura:whiskey_flowing
+- sakura:beer
+- sakura:beer_flowing
+- sakura:rum
+- sakura:rum
+- sakura:champagne
+- sakura:champagne_flowing
+- sakura:brandy
+- sakura:brandy
+
+#forge:milk
+- minecraft:milk?
+- minecraft:flowing_milk?
+
+#forge:water/water
+- minecraft:water
+- minecraft:flowing_water
+- tfc:river_water?
+
+#forge:food_oil
+- #forge:plantoil
+
+#sakura:brewers_alcohol
+- sakura:rum
+- sakura:rum_flowing
+- sakura:whiskey
+- sakura:whiskey_flowing
+- sakura:shouchu
+- sakura:shouchu_flowing
+
+#forge:plantoil
+- sakura:food_oil
+- sakura:food_oil_flowing
+- tfc:flowing_olive_oil?
+- tfc:olive_oil?

@@ -1,0 +1,9 @@
+
+[client]
+	displayBlood = true
+	killSound = "minecraft:item.trident.return"
+	#Internal
+	#Allowed Values: OPEN_EQUIPMENT_MENU, NONE
+	tutorialStep = "OPEN_EQUIPMENT_MENU"
+	crosshair = "craftingdead:standard"
+

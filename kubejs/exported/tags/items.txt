@@ -1,0 +1,5900 @@
+To refresh this file, delete it and run /reload command again! Last updated: May 13, 2024, 5:39:45 PM
+
+#forge:glass/tinted
+- minecraft:tinted_glass
+
+#forge:crops/tea_leaves
+- croptopia:tea_leaves
+
+#forge:basil_seeds
+- croptopia:basil_seed
+- #forge:seeds/basil
+
+#forge:dyes/gray
+- minecraft:gray_dye
+
+#forge:oysters
+- croptopia:oyster
+
+#forge:glowing_calamari
+- croptopia:glowing_calamari
+
+#forge:crops/lettuce
+- croptopia:lettuce
+
+#forge:hops_seeds
+- croptopia:hops_seed
+- #forge:seeds/hops
+
+#forge:storage_blocks/netherite
+- minecraft:netherite_block
+
+#forge:glass_panes/white
+- minecraft:white_stained_glass_pane
+
+#forge:fruits/peach
+- croptopia:peach
+
+#forge:brownies
+- croptopia:brownies
+
+#forge:dough/wheat
+- farmersdelight:wheat_dough
+- sakura:dough
+
+#forge:cabbage
+- croptopia:cabbage
+- #forge:vegetables/cabbage
+- croptopia:cabbage
+- #forge:crops/cabbage
+
+#forge:eton_mess
+- croptopia:eton_mess
+
+#forge:wines
+- croptopia:wine
+
+#forge:glass_panes/light_gray
+- minecraft:light_gray_stained_glass_pane
+
+#forge:plum_saplings
+- croptopia:plum_sapling
+- #forge:saplings/plum
+
+#forge:seeds/vanilla
+- croptopia:vanilla_seeds
+
+#forge:clams
+- croptopia:clam
+
+#forge:glass/pink
+- minecraft:pink_stained_glass
+
+#forge:chests
+- #forge:chests/ender
+- #forge:chests/trapped
+- #forge:chests/wooden
+
+#forge:storage_blocks/emerald
+- minecraft:emerald_block
+
+#forge:seeds/oat
+- croptopia:oat_seed
+
+#forge:ores/redstone
+- #minecraft:redstone_ores
+
+#nourish:carbohydrates
+- croptopia:barley
+- croptopia:corn
+- croptopia:hops
+- croptopia:oat
+- croptopia:rice
+- croptopia:sweetpotato
+- croptopia:yam
+- croptopia:tortilla
+- croptopia:beer
+- croptopia:potato_chips
+- croptopia:steamed_rice
+- croptopia:french_fries
+- croptopia:sweet_potato_fries
+- croptopia:doughnut
+- croptopia:popcorn
+- croptopia:toast
+- croptopia:oatmeal
+- croptopia:saucy_chips
+- croptopia:buttered_toast
+- croptopia:toast_with_jam
+- croptopia:ham_sandwich
+- croptopia:peanut_butter_and_jam
+- croptopia:blt
+- croptopia:grilled_cheese
+- croptopia:tuna_sandwich
+- croptopia:cheeseburger
+- croptopia:hamburger
+- croptopia:tofuburger
+- croptopia:pizza
+- croptopia:supreme_pizza
+- croptopia:cheese_pizza
+- croptopia:pineapple_pepperoni_pizza
+- croptopia:chicken_and_noodles
+- croptopia:chicken_and_dumplings
+- croptopia:tofu_and_dumplings
+- croptopia:spaghetti_squash
+- croptopia:chicken_and_rice
+- croptopia:taco
+- croptopia:egg_roll
+- croptopia:apple_pie
+- croptopia:yam_jam
+- croptopia:banana_cream_pie
+- croptopia:cherry_pie
+- croptopia:brownies
+- croptopia:snicker_doodle
+- croptopia:banana_nut_bread
+- croptopia:burrito
+- croptopia:tostada
+- croptopia:horchata
+- croptopia:carnitas
+- croptopia:fajitas
+- croptopia:enchilada
+- croptopia:churros
+- croptopia:tres_leche_cake
+- croptopia:refried_beans
+- croptopia:chimichanga
+- croptopia:quesadilla
+- croptopia:shepherds_pie
+- croptopia:fish_and_chips
+- croptopia:cornish_pasty
+- croptopia:scones
+- croptopia:treacle_tart
+- croptopia:trifle
+- croptopia:avocado_toast
+- croptopia:baked_sweet_potato
+- croptopia:baked_yam
+- croptopia:eggplant_parmesan
+- croptopia:potato_soup
+- croptopia:toast_sandwich
+
+#forge:apple_pies
+- croptopia:apple_pie
+
+#forge:turnip_seeds
+- croptopia:turnip_seed
+- #forge:seeds/turnip
+
+#forge:kumquats
+- croptopia:kumquat
+- #forge:fruits/kumquat
+- croptopia:kumquat
+- #forge:crops/kumquat
+
+#forge:toasts
+- croptopia:toast
+
+#forge:salad_ingredients
+- #forge:salad_ingredients/cabbage
+- #forge:salad_ingredients/cabbage
+- #forge:salad_ingredients/tomato
+
+#nourish:fats
+- croptopia:olive
+- croptopia:peanut
+- croptopia:soybean
+- croptopia:avocado
+- croptopia:cheese
+- croptopia:butter
+- croptopia:tofu
+- croptopia:chocolate
+- croptopia:pepperoni
+- croptopia:soy_milk
+- croptopia:chocolate_milkshake
+- croptopia:yoghurt
+- croptopia:scrambled_eggs
+- croptopia:peanut_butter_and_jam
+- croptopia:grilled_cheese
+- croptopia:tuna_sandwich
+- croptopia:cheeseburger
+- croptopia:tofuburger
+- croptopia:pizza
+- croptopia:supreme_pizza
+- croptopia:cheese_pizza
+- croptopia:tofu_and_dumplings
+- croptopia:sushi
+- croptopia:egg_roll
+- croptopia:apple_pie
+- croptopia:candy_corn
+- croptopia:cherry_pie
+- croptopia:cheese_cake
+- croptopia:brownies
+- croptopia:snicker_doodle
+- croptopia:banana_nut_bread
+- croptopia:horchata
+- croptopia:churros
+- croptopia:tres_leche_cake
+- croptopia:eton_mess
+- croptopia:scones
+- croptopia:figgy_pudding
+- croptopia:sticky_toffee_pudding
+- croptopia:trifle
+- croptopia:buttered_green_beans
+- croptopia:chocolate_ice_cream
+
+#forge:crops/nutmeg
+- croptopia:nutmeg
+
+#balm:yellow_dyes
+- #forge:dyes/yellow?
+- minecraft:yellow_dye
+
+#forge:crops/artichoke
+- croptopia:artichoke
+
+#forge:lemonades
+- croptopia:lemonade
+
+#forge:fish_and_chips
+- croptopia:fish_and_chips
+
+#forge:crops/sweetpotato
+- croptopia:sweetpotato
+
+#forge:cherry_saplings
+- croptopia:cherry_sapling
+- #forge:saplings/cherry
+
+#forge:mango_saplings
+- croptopia:mango_sapling
+- #forge:saplings/mango
+
+#croptopia:advancements_food_big
+- croptopia:salsa
+- croptopia:onion_rings
+- croptopia:caesar_salad
+- croptopia:fruit_salad
+- croptopia:trail_mix
+- croptopia:protein_bar
+- croptopia:nougat
+- croptopia:tofuburger
+- croptopia:supreme_pizza
+- croptopia:cheese_pizza
+- croptopia:pineapple_pepperoni_pizza
+- croptopia:lemon_chicken
+- croptopia:fried_chicken
+- croptopia:chicken_and_noodles
+- croptopia:taco
+- croptopia:cashew_chicken
+- croptopia:apple_pie
+- croptopia:banana_cream_pie
+- croptopia:vanilla_ice_cream
+- croptopia:strawberry_ice_cream
+- croptopia:mango_ice_cream
+- croptopia:rum_raisin_ice_cream
+- croptopia:pecan_ice_cream
+- croptopia:cherry_pie
+- croptopia:cheese_cake
+- croptopia:brownies
+- croptopia:banana_nut_bread
+- croptopia:pecan_pie
+- croptopia:tostada
+- croptopia:horchata
+- croptopia:carnitas
+- croptopia:fajitas
+- croptopia:tamales
+- croptopia:tres_leche_cake
+- croptopia:stuffed_poblanos
+- croptopia:chili_relleno
+- croptopia:refried_beans
+- croptopia:quesadilla
+- croptopia:shepherds_pie
+- croptopia:beef_wellington
+- croptopia:fish_and_chips
+- croptopia:eton_mess
+- croptopia:cornish_pasty
+- croptopia:scones
+- croptopia:figgy_pudding
+- croptopia:treacle_tart
+- croptopia:sticky_toffee_pudding
+- croptopia:trifle
+- croptopia:ajvar
+- croptopia:ajvar_toast
+- croptopia:beef_stew
+- croptopia:beef_stir_fry
+- croptopia:buttered_green_beans
+- croptopia:chocolate_ice_cream
+- croptopia:eggplant_parmesan
+- croptopia:fruit_cake
+- croptopia:grilled_eggplant
+- croptopia:lemon_coconut_bar
+- croptopia:nether_wart_stew
+- croptopia:peanut_butter
+- croptopia:peanut_butter_with_celery
+- croptopia:potato_soup
+- croptopia:ratatouille
+- croptopia:roasted_asparagus
+- croptopia:roasted_radishes
+- croptopia:roasted_squash
+- croptopia:roasted_turnips
+- croptopia:steamed_broccoli
+- croptopia:stir_fry
+- croptopia:stuffed_artichoke
+- croptopia:toast_sandwich
+- croptopia:pumpkin_bars
+- croptopia:pumpkin_soup
+- croptopia:cabbage_roll
+- croptopia:borscht
+- croptopia:goulash
+- croptopia:candied_kumquats
+- croptopia:deep_fried_shrimp
+- croptopia:crab_legs
+- croptopia:steamed_clams
+- croptopia:grilled_oysters
+- croptopia:anchovy_pizza
+
+#sakura:soups
+- sakura:soup_miso
+- sakura:soup_red_bean
+- sakura:osuimono
+
+#farmersdelight:flat_on_cutting_board
+- minecraft:trident
+- minecraft:spyglass
+- supplementaries:quiver?
+- autumnity:turkey?
+- autumnity:cooked_turkey?
+
+#forge:caramel
+- croptopia:caramel
+
+#forge:scrambled_eggs
+- croptopia:scrambled_eggs
+
+#forge:cobblestone/deepslate
+- minecraft:cobbled_deepslate
+
+#forge:crops/pepper
+- croptopia:pepper
+
+#forge:fruits/walnut
+- croptopia:walnut
+
+#forge:fence_gates
+- #forge:fence_gates/wooden
+
+#forge:ingots
+- #forge:ingots/brick
+- #forge:ingots/copper
+- #forge:ingots/gold
+- #forge:ingots/iron
+- #forge:ingots/netherite
+- #forge:ingots/nether_brick
+
+#forge:fruits/lime
+- croptopia:lime
+
+#forge:crops/oat
+- croptopia:oat
+
+#forge:crops/nether_wart
+- minecraft:nether_wart
+
+#forge:storage_blocks/copper
+- minecraft:copper_block
+
+#forge:milk/milk
+- minecraft:milk_bucket
+- minecraft:milk_bucket
+
+#minecraft:coals
+- minecraft:coal
+- minecraft:charcoal
+- sakura:bamboo_charcoal
+
+#forge:slices
+- #forge:slices/cabbage
+- #forge:slices/raw_fishes
+
+#forge:bread/wheat
+- minecraft:bread
+- minecraft:bread
+- sakura:bun
+- minecraft:bread
+
+#forge:pepper_seeds
+- croptopia:pepper_seed
+- #forge:seeds/pepper
+
+#forge:ravioli
+- croptopia:ravioli
+
+#forge:candied_kumquats
+- croptopia:candied_kumquats
+
+#forge:vegetables/asparagus
+- croptopia:asparagus
+
+#forge:ingots/nether_brick
+- minecraft:nether_brick
+
+#forge:seeds/pineapple
+- croptopia:pineapple_seed
+
+#forge:cobblestone/infested
+- minecraft:infested_cobblestone
+
+#forge:juices/apple_juice
+- croptopia:apple_juice
+
+#forge:vegetables/sweetpotato
+- croptopia:sweetpotato
+
+#forge:storage_blocks/lapis
+- minecraft:lapis_block
+
+#forge:seeds/chilepepper
+- croptopia:chile_pepper_seed
+
+#forge:fruits/date
+- croptopia:date
+
+#forge:candy_corns
+- croptopia:candy_corn
+
+#forge:trifle
+- croptopia:trifle
+
+#forge:dyes/orange
+- minecraft:orange_dye
+
+#forge:oatmeals
+- croptopia:oatmeal
+
+#forge:gingers
+- croptopia:ginger
+- #forge:vegetables/ginger
+- croptopia:ginger
+- #forge:crops/ginger
+
+#forge:pumpkin_spice_lattes
+- croptopia:pumpkin_spice_latte
+
+#forge:raspberry_seeds
+- croptopia:raspberry_seed
+- #forge:seeds/raspberry
+
+#forge:calamari
+- croptopia:calamari
+
+#croptopia:flourable
+- minecraft:wheat
+- croptopia:barley
+- croptopia:oat
+- croptopia:corn
+
+#forge:grapes
+- croptopia:grape
+- #forge:fruits/grape
+- croptopia:grape
+- #forge:crops/grape
+
+#dynamictrees:fertilizer
+- minecraft:bone_meal
+
+#forge:fruits/dragonfruit
+- croptopia:dragonfruit
+
+#forge:crops/strawberry
+- croptopia:strawberry
+
+#forge:pasta/raw_pasta
+- farmersdelight:raw_pasta
+
+#forge:paprika
+- croptopia:paprika
+
+#forge:cooked_tuna
+- croptopia:cooked_tuna
+
+#forge:cinnamon_rolls
+- croptopia:cinnamon_roll
+
+#forge:glass/white
+- minecraft:white_stained_glass
+
+#forge:glass_panes/red
+- minecraft:red_stained_glass_pane
+
+#forge:fruits/pecan
+- croptopia:pecan
+
+#forge:crops/coconut
+- croptopia:coconut
+
+#forge:sweet_potato_friess
+- croptopia:sweet_potato_fries
+
+#minecraft:fishes
+- minecraft:cod
+- minecraft:cooked_cod
+- minecraft:salmon
+- minecraft:cooked_salmon
+- minecraft:pufferfish
+- minecraft:tropical_fish
+- croptopia:anchovy
+- croptopia:calamari
+- croptopia:clam
+- croptopia:crab
+- croptopia:oyster
+- croptopia:roe
+- croptopia:shrimp
+- croptopia:tuna
+
+#forge:bread/corn
+- corn_delight:cornbread
+
+#forge:crops/pear
+- croptopia:pear
+
+#forge:fruits
+- #forge:bellpeppers
+- #forge:blackberries
+- #forge:blueberries
+- #forge:cantaloupes
+- #forge:cranberries
+- #forge:currants
+- #forge:elderberries
+- #forge:grapes
+- #forge:honeydew
+- #forge:kiwis
+- #forge:olives
+- #forge:pineapples
+- #forge:raspberries
+- #forge:saguaros
+- #forge:strawberries
+- #forge:almonds
+- #forge:apples
+- #forge:apricots
+- #forge:avocados
+- #forge:bananas
+- #forge:cherries
+- #forge:coconuts
+- #forge:dates
+- #forge:dragonfruits
+- #forge:figs
+- #forge:grapefruits
+- #forge:kumquats
+- #forge:lemons
+- #forge:limes
+- #forge:mangos
+- #forge:nectarines
+- #forge:oranges
+- #forge:peaches
+- #forge:pears
+- #forge:pecans
+- #forge:persimmons
+- #forge:plums
+- #forge:starfruits
+- #forge:walnuts
+
+#forge:crops/greenonion
+- croptopia:greenonion
+
+#forge:crops/dragonfruit
+- croptopia:dragonfruit
+
+#cacao:chocolates
+- cacao:dark_chocolate
+- cacao:milk_chocolate
+- cacao:white_chocolate
+
+#forge:elderberries
+- croptopia:elderberry
+- #forge:fruits/elderberry
+- croptopia:elderberry
+- #forge:crops/elderberry
+
+#forge:vegetables/lettuce
+- croptopia:lettuce
+
+#forge:fruits/olive
+- croptopia:olive
+
+#forge:yams
+- croptopia:yam
+- #forge:vegetables/yam
+- croptopia:yam
+- #forge:crops/yam
+
+#forge:treacle_tarts
+- croptopia:treacle_tart
+
+#forge:sand/colorless
+- minecraft:sand
+
+#minecraft:redstone_ores
+- minecraft:redstone_ore
+- minecraft:deepslate_redstone_ore
+
+#forge:raw_materials/iron
+- minecraft:raw_iron
+
+#balm:gems
+- #forge:gems?
+
+#forge:elderberry_jams
+- croptopia:elderberry_jam
+- #forge:jams/elderberry_jam
+
+#forge:lumber
+- #forge:lumber/bamboo
+- #forge:lumber/maple
+- #forge:lumber/sakura
+
+#forge:croque_madame
+- croptopia:croque_madame
+
+#forge:crops/cashew
+- croptopia:cashew
+
+#forge:scones
+- croptopia:scones
+
+#forge:garlic_seeds
+- croptopia:garlic_seed
+- #forge:seeds/garlic
+
+#forge:fruits/cantaloupe
+- croptopia:cantaloupe
+
+#forge:jams/raspberry_jam
+- croptopia:raspberry_jam
+
+#forge:gems/diamond
+- minecraft:diamond
+
+#minecraft:walls
+- minecraft:cobblestone_wall
+- minecraft:mossy_cobblestone_wall
+- minecraft:brick_wall
+- minecraft:prismarine_wall
+- minecraft:red_sandstone_wall
+- minecraft:mossy_stone_brick_wall
+- minecraft:granite_wall
+- minecraft:stone_brick_wall
+- minecraft:nether_brick_wall
+- minecraft:andesite_wall
+- minecraft:red_nether_brick_wall
+- minecraft:sandstone_wall
+- minecraft:end_stone_brick_wall
+- minecraft:diorite_wall
+- minecraft:blackstone_wall
+- minecraft:polished_blackstone_brick_wall
+- minecraft:polished_blackstone_wall
+- minecraft:cobbled_deepslate_wall
+- minecraft:polished_deepslate_wall
+- minecraft:deepslate_tile_wall
+- minecraft:deepslate_brick_wall
+
+#balm:gray_dyes
+- #forge:dyes/gray?
+- minecraft:gray_dye
+
+#forge:water_bottles
+- croptopia:water_bottle
+- minecraft:water_bucket
+
+#tfc:lumber
+- #forge:lumber
+
+#forge:vegetables/tomatillo
+- croptopia:tomatillo
+
+#forge:candied_nuts
+- croptopia:candied_nuts
+
+#forge:vanilla_seeds
+- croptopia:vanilla_seeds
+- #forge:seeds/vanilla
+
+#minecraft:music_discs
+- #minecraft:creeper_drop_music_discs
+- minecraft:music_disc_pigstep
+- minecraft:music_disc_otherside
+
+#forge:gems
+- #forge:gems/amethyst
+- #forge:gems/diamond
+- #forge:gems/emerald
+- #forge:gems/lapis
+- #forge:gems/prismarine
+- #forge:gems/quartz
+
+#minecraft:sand
+- minecraft:sand
+- minecraft:red_sand
+
+#balm:ingots
+- #forge:ingots?
+
+#forge:raw_chicken
+- minecraft:chicken
+- farmersdelight:chicken_cuts
+- minecraft:chicken
+
+#forge:vegetables/spinach
+- croptopia:spinach
+
+#forge:berries
+- minecraft:sweet_berries
+- minecraft:glow_berries
+
+#forge:roasted_nuts
+- croptopia:roasted_nuts
+
+#forge:saplings/grapefruit
+- croptopia:grapefruit_sapling
+
+#forge:dyes/light_gray
+- minecraft:light_gray_dye
+
+#croptopia:beef_replacements
+- minecraft:beef
+- croptopia:tofu
+
+#forge:crops/cranberry
+- croptopia:cranberry
+
+#forge:milk
+- #forge:milk/milk
+- #forge:milk/milk_bottle
+- #forge:milk/milk
+- minecraft:milk_bucket
+
+#forge:ingots/copper
+- minecraft:copper_ingot
+
+#forge:seeds/eggplant
+- croptopia:eggplant_seed
+- sakura:eggplant_seeds
+
+#forge:vegetables/artichoke
+- croptopia:artichoke
+
+#forge:glass/blue
+- minecraft:blue_stained_glass
+
+#forge:juices/saguaro_juice
+- croptopia:saguaro_juice
+
+#forge:jams/elderberry_jam
+- croptopia:elderberry_jam
+
+#minecraft:wooden_trapdoors
+- minecraft:acacia_trapdoor
+- minecraft:birch_trapdoor
+- minecraft:dark_oak_trapdoor
+- minecraft:jungle_trapdoor
+- minecraft:oak_trapdoor
+- minecraft:spruce_trapdoor
+- minecraft:crimson_trapdoor
+- minecraft:warped_trapdoor
+
+#forge:saplings/plum
+- croptopia:plum_sapling
+
+#forge:fried_calamari
+- croptopia:fried_calamari
+
+#forge:crabs
+- croptopia:crab
+
+#forge:cooked_pork
+- minecraft:cooked_porkchop
+- farmersdelight:cooked_bacon
+- minecraft:cooked_porkchop
+
+#forge:storage_blocks/coal
+- minecraft:coal_block
+
+#forge:glass/light_blue
+- minecraft:light_blue_stained_glass
+
+#forge:eggplant_seeds
+- croptopia:eggplant_seed
+- #forge:seeds/eggplant
+
+#forge:storage_blocks/amethyst
+- minecraft:amethyst_block
+
+#forge:vegetables/turnip
+- croptopia:turnip
+
+#forge:cooked_bacon
+- farmersdelight:cooked_bacon
+- croptopia:cooked_bacon
+
+#forge:cookies
+- minecraft:cookie
+
+#forge:rum_raisin_ice_creams
+- croptopia:rum_raisin_ice_cream
+
+#lootr:shulkers
+- lootr:lootr_shulker
+
+#forge:butters
+- croptopia:butter
+
+#minecraft:arrows
+- minecraft:arrow
+- minecraft:tipped_arrow
+- minecraft:spectral_arrow
+
+#forge:blueberry_jams
+- croptopia:blueberry_jam
+- #forge:jams/blueberry_jam
+
+#minecraft:wooden_doors
+- minecraft:oak_door
+- minecraft:spruce_door
+- minecraft:birch_door
+- minecraft:jungle_door
+- minecraft:acacia_door
+- minecraft:dark_oak_door
+- minecraft:crimson_door
+- minecraft:warped_door
+
+#forge:seeds/raspberry
+- croptopia:raspberry_seed
+
+#forge:glass/purple
+- minecraft:purple_stained_glass
+
+#forge:dragonfruits
+- croptopia:dragonfruit
+- #forge:fruits/dragonfruit
+- croptopia:dragonfruit
+- #forge:crops/dragonfruit
+
+#forge:dyes/magenta
+- minecraft:magenta_dye
+
+#minecraft:crimson_stems
+- minecraft:crimson_stem
+- minecraft:stripped_crimson_stem
+- minecraft:crimson_hyphae
+- minecraft:stripped_crimson_hyphae
+
+#balm:wooden_rods
+- #forge:rods/wooden?
+- minecraft:stick
+
+#forge:pepperoni
+- croptopia:pepperoni
+
+#minecraft:ignored_by_piglin_babies
+- minecraft:leather
+
+#forge:water/water
+- minecraft:water_bucket
+
+#minecraft:stone_tool_materials
+- minecraft:cobblestone
+- minecraft:blackstone
+- minecraft:cobbled_deepslate
+
+#forge:kiwis
+- croptopia:kiwi
+- #forge:fruits/kiwi
+- croptopia:kiwi
+- #forge:crops/kiwi
+
+#forge:dyes/cyan
+- minecraft:cyan_dye
+
+#forge:bamboo
+- sakura:bamboo
+- sakura:bamboo_sunburnt
+- minecraft:bamboo
+
+#minecraft:terracotta
+- minecraft:terracotta
+- minecraft:white_terracotta
+- minecraft:orange_terracotta
+- minecraft:magenta_terracotta
+- minecraft:light_blue_terracotta
+- minecraft:yellow_terracotta
+- minecraft:lime_terracotta
+- minecraft:pink_terracotta
+- minecraft:gray_terracotta
+- minecraft:light_gray_terracotta
+- minecraft:cyan_terracotta
+- minecraft:purple_terracotta
+- minecraft:blue_terracotta
+- minecraft:brown_terracotta
+- minecraft:green_terracotta
+- minecraft:red_terracotta
+- minecraft:black_terracotta
+
+#forge:straw
+- sakura:straw
+- farmersdelight:straw?
+
+#forge:onions
+- croptopia:onion
+- #forge:vegetables/onion
+- croptopia:onion
+- #forge:crops/onion
+
+#forge:crops/starfruit
+- croptopia:starfruit
+
+#forge:lumber/bamboo
+- sakura:lumber_bamboo
+
+#forge:fruits/lemon
+- croptopia:lemon
+
+#forge:protein_bars
+- croptopia:protein_bar
+
+#forge:apricot_jams
+- croptopia:apricot_jam
+- #forge:jams/apricot_jam
+
+#forge:crops/rice
+- farmersdelight:rice
+- croptopia:rice
+- sakura:rice_seeds
+- sakura:rice_seeds
+
+#forge:nuts/pecan
+- croptopia:pecan
+
+#forge:dyes/purple
+- minecraft:purple_dye
+
+#umapyoi:ssr_card_ticket
+- umapyoi:ssr_card_ticket
+
+#forge:ores_in_ground/deepslate
+- minecraft:deepslate_coal_ore
+- minecraft:deepslate_copper_ore
+- minecraft:deepslate_diamond_ore
+- minecraft:deepslate_emerald_ore
+- minecraft:deepslate_gold_ore
+- minecraft:deepslate_iron_ore
+- minecraft:deepslate_lapis_ore
+- minecraft:deepslate_redstone_ore
+
+#forge:goulashes
+- croptopia:goulash
+
+#forge:seeds/barley
+- croptopia:barley_seed
+
+#forge:trail_mixes
+- croptopia:trail_mix
+
+#forge:leek_soups
+- croptopia:leek_soup
+
+#forge:ham_sandwiches
+- croptopia:ham_sandwich
+
+#forge:slices/cabbage
+- sakura:sliced_cabbage
+
+#croptopia:chicken_replacements
+- minecraft:chicken
+- croptopia:tofu
+
+#forge:seeds/turmeric
+- croptopia:turmeric_seed
+
+#forge:storage_blocks/raw_gold
+- minecraft:raw_gold_block
+
+#forge:fruits/coconut
+- croptopia:coconut
+
+#forge:crops/rutabaga
+- croptopia:rutabaga
+
+#forge:gems/prismarine
+- minecraft:prismarine_crystals
+
+#farmersdelight:cabbage_roll_ingredients
+- #forge:raw_pork
+- #forge:raw_fishes
+- #forge:raw_chicken
+- #forge:raw_beef
+- #forge:raw_mutton
+- #forge:eggs
+- #forge:mushrooms
+- minecraft:carrot
+- minecraft:potato
+- minecraft:beetroot
+
+#forge:baked_beans
+- croptopia:baked_beans
+
+#forge:ores/gold
+- #minecraft:gold_ores
+
+#forge:dauphine_potatoes
+- croptopia:dauphine_potatoes
+
+#lootr:chests
+- lootr:lootr_chest
+- lootr:lootr_inventory
+
+#forge:blackbeans
+- croptopia:blackbean
+- #forge:crops/blackbean
+
+#forge:raw_materials
+- #forge:raw_materials/copper
+- #forge:raw_materials/gold
+- #forge:raw_materials/iron
+
+#forge:saplings/banana
+- croptopia:banana_sapling
+
+#forge:cooked_eggs
+- farmersdelight:fried_egg
+
+#forge:crops/cucumber
+- croptopia:cucumber
+
+#forge:grain/wheat
+- minecraft:wheat
+- minecraft:wheat
+
+#forge:glass/lime
+- minecraft:lime_stained_glass
+
+#forge:chests/wooden
+- minecraft:chest
+- minecraft:trapped_chest
+
+#forge:veggie_salads
+- croptopia:veggie_salad
+
+#forge:apples
+- minecraft:apple
+- #forge:fruits/apple
+- minecraft:apple
+- #forge:crops/apple
+
+#forge:kumquat_saplings
+- croptopia:kumquat_sapling
+- #forge:saplings/kumquat
+
+#forge:gems/emerald
+- minecraft:emerald
+
+#balm:brown_dyes
+- #forge:dyes/brown?
+- minecraft:brown_dye
+
+#minecraft:carpets
+- minecraft:white_carpet
+- minecraft:orange_carpet
+- minecraft:magenta_carpet
+- minecraft:light_blue_carpet
+- minecraft:yellow_carpet
+- minecraft:lime_carpet
+- minecraft:pink_carpet
+- minecraft:gray_carpet
+- minecraft:light_gray_carpet
+- minecraft:cyan_carpet
+- minecraft:purple_carpet
+- minecraft:blue_carpet
+- minecraft:brown_carpet
+- minecraft:green_carpet
+- minecraft:red_carpet
+- minecraft:black_carpet
+- farmersdelight:full_tatami_mat
+- farmersdelight:half_tatami_mat
+
+#forge:seeds/broccoli
+- croptopia:broccoli_seed
+
+#forge:tools
+- #forge:tools/axes
+- #forge:tools/knives
+- #forge:tools/pickaxes
+- #forge:tools/shovels
+- #forge:tools/axes
+- #forge:tools/pickaxes
+- #forge:tools/shovels
+
+#forge:seeds/cucumber
+- croptopia:cucumber_seed
+
+#forge:crops/leek
+- croptopia:leek
+
+#minecraft:stone_bricks
+- minecraft:stone_bricks
+- minecraft:mossy_stone_bricks
+- minecraft:cracked_stone_bricks
+- minecraft:chiseled_stone_bricks
+
+#balm:black_dyes
+- minecraft:black_dye
+- #forge:dyes/black?
+
+#forge:glass/orange
+- minecraft:orange_stained_glass
+
+#nourish:protein
+- croptopia:asparagus
+- croptopia:blackbean
+- croptopia:broccoli
+- croptopia:peanut
+- croptopia:soybean
+- croptopia:cheese
+- croptopia:tofu
+- croptopia:pepperoni
+- croptopia:soy_milk
+- croptopia:beef_jerky
+- croptopia:pork_jerky
+- croptopia:baked_beans
+- croptopia:pork_and_beans
+- croptopia:yoghurt
+- croptopia:scrambled_eggs
+- croptopia:ham_sandwich
+- croptopia:blt
+- croptopia:tuna_sandwich
+- croptopia:cheeseburger
+- croptopia:hamburger
+- croptopia:tofuburger
+- croptopia:pizza
+- croptopia:supreme_pizza
+- croptopia:cheese_pizza
+- croptopia:pineapple_pepperoni_pizza
+- croptopia:lemon_chicken
+- croptopia:fried_chicken
+- croptopia:chicken_and_noodles
+- croptopia:chicken_and_dumplings
+- croptopia:tofu_and_dumplings
+- croptopia:chicken_and_rice
+- croptopia:taco
+- croptopia:sushi
+- croptopia:almond
+- croptopia:cashew
+- croptopia:pecan
+- croptopia:walnut
+- croptopia:carnitas
+- croptopia:fajitas
+- croptopia:enchilada
+- croptopia:tamales
+- croptopia:stuffed_poblanos
+- croptopia:quesadilla
+- croptopia:shepherds_pie
+- croptopia:beef_wellington
+- croptopia:fish_and_chips
+- croptopia:cooked_bacon
+- croptopia:beef_stew
+- croptopia:beef_stir_fry
+- croptopia:eggplant_parmesan
+- croptopia:fruit_cake
+- croptopia:peanut_butter
+- croptopia:bacon
+
+#forge:slices/raw_fishes/cod
+- farmersdelight:cod_slice?
+
+#forge:seeds/rutabaga
+- croptopia:rutabaga_seed
+
+#forge:seeds/lettuce
+- croptopia:lettuce_seed
+
+#forge:mango_ice_creams
+- croptopia:mango_ice_cream
+
+#forge:seeds/tomatillo
+- croptopia:tomatillo_seed
+
+#forge:raw_mutton
+- minecraft:mutton
+- farmersdelight:mutton_chops
+- minecraft:mutton
+
+#minecraft:slabs
+- #minecraft:wooden_slabs
+- minecraft:stone_slab
+- minecraft:smooth_stone_slab
+- minecraft:stone_brick_slab
+- minecraft:sandstone_slab
+- minecraft:purpur_slab
+- minecraft:quartz_slab
+- minecraft:red_sandstone_slab
+- minecraft:brick_slab
+- minecraft:cobblestone_slab
+- minecraft:nether_brick_slab
+- minecraft:petrified_oak_slab
+- minecraft:prismarine_slab
+- minecraft:prismarine_brick_slab
+- minecraft:dark_prismarine_slab
+- minecraft:polished_granite_slab
+- minecraft:smooth_red_sandstone_slab
+- minecraft:mossy_stone_brick_slab
+- minecraft:polished_diorite_slab
+- minecraft:mossy_cobblestone_slab
+- minecraft:end_stone_brick_slab
+- minecraft:smooth_sandstone_slab
+- minecraft:smooth_quartz_slab
+- minecraft:granite_slab
+- minecraft:andesite_slab
+- minecraft:red_nether_brick_slab
+- minecraft:polished_andesite_slab
+- minecraft:diorite_slab
+- minecraft:cut_sandstone_slab
+- minecraft:cut_red_sandstone_slab
+- minecraft:blackstone_slab
+- minecraft:polished_blackstone_brick_slab
+- minecraft:polished_blackstone_slab
+- minecraft:cobbled_deepslate_slab
+- minecraft:polished_deepslate_slab
+- minecraft:deepslate_tile_slab
+- minecraft:deepslate_brick_slab
+- minecraft:waxed_weathered_cut_copper_slab
+- minecraft:waxed_exposed_cut_copper_slab
+- minecraft:waxed_cut_copper_slab
+- minecraft:oxidized_cut_copper_slab
+- minecraft:weathered_cut_copper_slab
+- minecraft:exposed_cut_copper_slab
+- minecraft:cut_copper_slab
+- minecraft:waxed_oxidized_cut_copper_slab
+
+#forge:almond_saplings
+- croptopia:almond_sapling
+- #forge:saplings/almond
+
+#forge:seeds/hops
+- croptopia:hops_seed
+
+#forge:vegetables/squash
+- croptopia:squash
+
+#forge:mustard
+- croptopia:mustard
+- #forge:vegetables/mustard
+- croptopia:mustard
+- #forge:crops/mustard
+
+#forge:seeds/kale
+- croptopia:kale_seed
+
+#forge:beetroot_salads
+- croptopia:beetroot_salad
+
+#forge:fruits/pear
+- croptopia:pear
+
+#forge:crops/asparagus
+- croptopia:asparagus
+
+#minecraft:buttons
+- #minecraft:wooden_buttons
+- minecraft:stone_button
+- minecraft:polished_blackstone_button
+
+#forge:raw_pork
+- minecraft:porkchop
+- farmersdelight:bacon
+- minecraft:porkchop
+
+#lootr:containers
+- #lootr:barrels
+- #lootr:chests
+- #lootr:trapped_chests
+- #lootr:shulkers
+
+#forge:vegetables/celery
+- croptopia:celery
+
+#forge:fruits/blackberry
+- croptopia:blackberry
+
+#forge:sticky_toffee_pudding
+- croptopia:sticky_toffee_pudding
+
+#minecraft:rails
+- minecraft:rail
+- minecraft:powered_rail
+- minecraft:detector_rail
+- minecraft:activator_rail
+
+#forge:pumpkin_soups
+- croptopia:pumpkin_soup
+
+#sakura:rice/rice
+- sakura:rice
+
+#forge:fried_frog_legs
+- croptopia:fried_frog_legs
+
+#minecraft:wooden_pressure_plates
+- minecraft:oak_pressure_plate
+- minecraft:spruce_pressure_plate
+- minecraft:birch_pressure_plate
+- minecraft:jungle_pressure_plate
+- minecraft:acacia_pressure_plate
+- minecraft:dark_oak_pressure_plate
+- minecraft:crimson_pressure_plate
+- minecraft:warped_pressure_plate
+
+#forge:fruits/raspberry
+- croptopia:raspberry
+
+#forge:shrimp
+- croptopia:shrimp
+- sakura:shrimp
+
+#forge:tomatillo_seeds
+- croptopia:tomatillo_seed
+- #forge:seeds/tomatillo
+
+#forge:mustard_seeds
+- croptopia:mustard_seed
+- #forge:seeds/mustard
+
+#forge:fruit_smoothies
+- croptopia:fruit_smoothie
+
+#forge:cucumber_salads
+- croptopia:cucumber_salad
+
+#forge:fruits/kumquat
+- croptopia:kumquat
+
+#forge:fruits/persimmon
+- croptopia:persimmon
+
+#balm:orange_dyes
+- #forge:dyes/orange?
+- minecraft:orange_dye
+
+#minecraft:gold_ores
+- minecraft:gold_ore
+- minecraft:nether_gold_ore
+- minecraft:deepslate_gold_ore
+
+#forge:blackberries
+- croptopia:blackberry
+- #forge:fruits/blackberry
+- croptopia:blackberry
+- #forge:crops/blackberry
+
+#forge:artichoke_seeds
+- croptopia:artichoke_seed
+- #forge:seeds/artichoke
+
+#forge:crops/elderberry
+- croptopia:elderberry
+
+#forge:peanuts
+- croptopia:peanut
+- #forge:crops/peanut
+
+#forge:fruit_salads
+- croptopia:fruit_salad
+
+#farmersdelight:offhand_equipment
+- minecraft:shield
+- create:extendo_grip?
+
+#forge:eggplants
+- croptopia:eggplant
+- #forge:vegetables/eggplant
+- croptopia:eggplant
+- #forge:crops/eggplant
+
+#minecraft:cluster_max_harvestables
+- minecraft:diamond_pickaxe
+- minecraft:golden_pickaxe
+- minecraft:iron_pickaxe
+- minecraft:netherite_pickaxe
+- minecraft:stone_pickaxe
+- minecraft:wooden_pickaxe
+
+#forge:celery_seeds
+- croptopia:celery_seed
+- #forge:seeds/celery
+
+#forge:melon_juices
+- croptopia:melon_juice
+- #forge:juices/melon_juice
+
+#forge:corn_seeds
+- croptopia:corn_seed
+- #forge:seeds/corn
+
+#forge:seeds/leek
+- croptopia:leek_seed
+
+#forge:fruits/plum
+- croptopia:plum
+
+#sakura:rice
+- #sakura:rice/brown
+- #sakura:rice/rice
+
+#forge:crops/eggplant
+- croptopia:eggplant
+- sakura:eggplant
+
+#forge:cashews
+- croptopia:cashew
+- #forge:crops/cashew
+
+#forge:vegetables/rutabaga
+- croptopia:rutabaga
+
+#balm:ores
+- #forge:ores?
+
+#dehydration:hydrating_stew
+- croptopia:leek_soup
+- croptopia:grape_juice
+- croptopia:orange_juice
+- croptopia:apple_juice
+- croptopia:cranberry_juice
+- croptopia:saguaro_juice
+- croptopia:tomato_juice
+- croptopia:melon_juice
+- croptopia:pineapple_juice
+
+#forge:gravel
+- minecraft:gravel
+
+#forge:seeds/grape
+- croptopia:grape_seed
+
+#forge:dyes/black
+- minecraft:black_dye
+
+#forge:ginger_seeds
+- croptopia:ginger_seed
+- #forge:seeds/ginger
+
+#forge:dust/salt
+- #forge:salt/salt
+
+#forge:cooked_fishes/cod
+- minecraft:cooked_cod
+- farmersdelight:cooked_cod_slice
+- minecraft:cooked_cod
+
+#forge:turmeric
+- croptopia:turmeric
+- #forge:crops/turmeric
+
+#forge:glass_panes/light_blue
+- minecraft:light_blue_stained_glass_pane
+
+#forge:zucchini
+- croptopia:zucchini
+- #forge:vegetables/zucchini
+- croptopia:zucchini
+- #forge:crops/zucchini
+
+#forge:crops/buckwheat
+- sakura:buckwheat
+
+#forge:cranberry_juices
+- croptopia:cranberry_juice
+- #forge:juices/cranberry_juice
+
+#forge:ores/netherite_scrap
+- minecraft:ancient_debris
+
+#forge:crops/carrot
+- minecraft:carrot
+
+#forge:leek_seeds
+- croptopia:leek_seed
+- #forge:seeds/leek
+
+#forge:seeds/asparagus
+- croptopia:asparagus_seed
+
+#forge:oat
+- croptopia:oat
+- #forge:grain/oat
+- croptopia:oat
+- #forge:crops/oat
+
+#enhancedai:bows
+- minecraft:bow
+- tconstruct:longbow?
+- tinkers_things:shortbow?
+
+#minecraft:warped_stems
+- minecraft:warped_stem
+- minecraft:stripped_warped_stem
+- minecraft:warped_hyphae
+- minecraft:stripped_warped_hyphae
+
+#forge:currant_seeds
+- croptopia:currant_seed
+- #forge:seeds/currant
+
+#forge:croque_monsieur
+- croptopia:croque_monsieur
+
+#balm:iron_ingots
+- #forge:ingots/iron?
+- minecraft:iron_ingot
+
+#forge:dyes/blue
+- minecraft:blue_dye
+
+#forge:storage_blocks/iron
+- minecraft:iron_block
+
+#forge:pecan_ice_creams
+- croptopia:pecan_ice_cream
+
+#forge:tools/pickaxes
+- minecraft:wooden_pickaxe
+- minecraft:stone_pickaxe
+- minecraft:iron_pickaxe
+- minecraft:diamond_pickaxe
+- minecraft:golden_pickaxe
+- minecraft:netherite_pickaxe
+- minecraft:wooden_pickaxe
+- minecraft:stone_pickaxe
+- minecraft:iron_pickaxe
+- minecraft:diamond_pickaxe
+- minecraft:golden_pickaxe
+- minecraft:netherite_pickaxe
+
+#forge:saplings/pear
+- croptopia:pear_sapling
+
+#forge:glass_panes/brown
+- minecraft:brown_stained_glass_pane
+
+#forge:heads
+- minecraft:creeper_head
+- minecraft:dragon_head
+- minecraft:player_head
+- minecraft:skeleton_skull
+- minecraft:wither_skeleton_skull
+- minecraft:zombie_head
+
+#croptopia:sauces
+- croptopia:artichoke_dip
+- croptopia:salsa
+
+#forge:hamburgers
+- croptopia:hamburger
+
+#forge:beers
+- croptopia:beer
+
+#forge:nutmeg_saplings
+- croptopia:nutmeg_sapling
+- #forge:saplings/nutmeg
+
+#forge:tools/axes
+- minecraft:wooden_axe
+- minecraft:stone_axe
+- minecraft:iron_axe
+- minecraft:diamond_axe
+- minecraft:golden_axe
+- minecraft:netherite_axe
+- minecraft:wooden_axe
+- minecraft:stone_axe
+- minecraft:iron_axe
+- minecraft:diamond_axe
+- minecraft:golden_axe
+- minecraft:netherite_axe
+
+#forge:flour/rice
+- sakura:flour_rice
+
+#forge:seeds/turnip
+- croptopia:turnip_seed
+
+#forge:fruits/cranberry
+- croptopia:cranberry
+
+#balm:red_dyes
+- #forge:dyes/red?
+- minecraft:red_dye
+
+#forge:baked_yams
+- croptopia:baked_yam
+
+#minecraft:dark_oak_logs
+- minecraft:dark_oak_log
+- minecraft:dark_oak_wood
+- minecraft:stripped_dark_oak_log
+- minecraft:stripped_dark_oak_wood
+
+#forge:blackbean_seeds
+- croptopia:blackbean_seed
+- #forge:seeds/blackbean
+
+#forge:yam_jam
+- croptopia:yam_jam
+
+#croptopia:beef_mutton
+- minecraft:beef
+- minecraft:mutton
+
+#forge:juices/melon_juice
+- croptopia:melon_juice
+
+#forge:starfruit_saplings
+- croptopia:starfruit_sapling
+- #forge:saplings/starfruit
+
+#forge:hops
+- croptopia:hops
+- #forge:crops/hops
+
+#forge:figgy_pudding
+- croptopia:figgy_pudding
+
+#forge:yeast
+- sakura:yeast
+
+#forge:kale
+- croptopia:kale
+- #forge:vegetables/kale
+- croptopia:kale
+- #forge:crops/kale
+
+#forge:raw_bacon
+- farmersdelight:bacon
+
+#forge:mushrooms
+- #forge:mushrooms/brownmushroom
+- #forge:mushrooms/redmushroom
+- minecraft:brown_mushroom
+- minecraft:red_mushroom
+
+#forge:crops/rhubarb
+- croptopia:rhubarb
+
+#forge:cheeseburgers
+- croptopia:cheeseburger
+
+#forge:salt_ores
+- croptopia:salt_ore
+
+#forge:saplings/nutmeg
+- croptopia:nutmeg_sapling
+
+#forge:olive_oils
+- croptopia:olive_oil
+
+#forge:crops/basil
+- croptopia:basil
+
+#forge:fruits/mango
+- croptopia:mango
+
+#forge:chile_pepper_seeds
+- croptopia:chile_pepper_seed
+- #forge:seeds/chilepepper
+
+#sakura:offhand_equipment
+- minecraft:shield
+
+#croptopia:advancements_drinks
+- croptopia:grape_juice
+- croptopia:orange_juice
+- croptopia:apple_juice
+- croptopia:cranberry_juice
+- croptopia:saguaro_juice
+- croptopia:tomato_juice
+- croptopia:melon_juice
+- croptopia:pineapple_juice
+- croptopia:coffee
+- croptopia:lemonade
+- croptopia:limeade
+- croptopia:soy_milk
+- croptopia:strawberry_smoothie
+- croptopia:banana_smoothie
+- croptopia:kale_smoothie
+- croptopia:fruit_smoothie
+- croptopia:beer
+- croptopia:wine
+- croptopia:mead
+- croptopia:rum
+- croptopia:pumpkin_spice_latte
+- croptopia:tea
+
+#minecraft:fences
+- #minecraft:wooden_fences
+- minecraft:nether_brick_fence
+
+#minecraft:saplings
+- minecraft:oak_sapling
+- minecraft:spruce_sapling
+- minecraft:birch_sapling
+- minecraft:jungle_sapling
+- minecraft:acacia_sapling
+- minecraft:dark_oak_sapling
+- minecraft:azalea
+- minecraft:flowering_azalea
+- croptopia:almond_sapling
+- croptopia:apple_sapling
+- croptopia:apricot_sapling
+- croptopia:avocado_sapling
+- croptopia:banana_sapling
+- croptopia:cashew_sapling
+- croptopia:cherry_sapling
+- croptopia:coconut_sapling
+- croptopia:date_sapling
+- croptopia:dragonfruit_sapling
+- croptopia:fig_sapling
+- croptopia:grapefruit_sapling
+- croptopia:kumquat_sapling
+- croptopia:lemon_sapling
+- croptopia:lime_sapling
+- croptopia:mango_sapling
+- croptopia:nectarine_sapling
+- croptopia:nutmeg_sapling
+- croptopia:orange_sapling
+- croptopia:peach_sapling
+- croptopia:pear_sapling
+- croptopia:pecan_sapling
+- croptopia:persimmon_sapling
+- croptopia:plum_sapling
+- croptopia:starfruit_sapling
+- croptopia:walnut_sapling
+- croptopia:cinnamon_sapling
+- sakura:sakura_sapling
+- sakura:maple_sapling_red
+- sakura:maple_sapling_green
+- sakura:maple_sapling_orange
+- sakura:maple_sapling_yellow
+- #dynamictrees:seeds
+
+#forge:coffee_seeds
+- croptopia:coffee_seed
+- #forge:seeds/coffee_beans
+
+#forge:ores/copper
+- #minecraft:copper_ores
+
+#forge:cranberries
+- croptopia:cranberry
+- #forge:fruits/cranberry
+- croptopia:cranberry
+- #forge:crops/cranberry
+
+#minecraft:banners
+- minecraft:white_banner
+- minecraft:orange_banner
+- minecraft:magenta_banner
+- minecraft:light_blue_banner
+- minecraft:yellow_banner
+- minecraft:lime_banner
+- minecraft:pink_banner
+- minecraft:gray_banner
+- minecraft:light_gray_banner
+- minecraft:cyan_banner
+- minecraft:purple_banner
+- minecraft:blue_banner
+- minecraft:brown_banner
+- minecraft:green_banner
+- minecraft:red_banner
+- minecraft:black_banner
+
+#croptopia:fishes
+- minecraft:cod
+- minecraft:salmon
+- minecraft:tropical_fish
+- minecraft:pufferfish
+
+#minecraft:wooden_fences
+- minecraft:oak_fence
+- minecraft:acacia_fence
+- minecraft:dark_oak_fence
+- minecraft:spruce_fence
+- minecraft:birch_fence
+- minecraft:jungle_fence
+- minecraft:crimson_fence
+- minecraft:warped_fence
+
+#forge:vegetables/leek
+- croptopia:leek
+
+#forge:tuna_rolls
+- croptopia:tuna_roll
+
+#forge:fried_chickens
+- croptopia:fried_chicken
+
+#umapyoi:ssr_uma_ticket
+- umapyoi:ssr_uma_ticket
+
+#forge:obsidian
+- minecraft:obsidian
+
+#forge:ore_rates/singular
+- minecraft:ancient_debris
+- minecraft:coal_ore
+- minecraft:deepslate_coal_ore
+- minecraft:deepslate_diamond_ore
+- minecraft:deepslate_emerald_ore
+- minecraft:deepslate_gold_ore
+- minecraft:deepslate_iron_ore
+- minecraft:diamond_ore
+- minecraft:emerald_ore
+- minecraft:gold_ore
+- minecraft:iron_ore
+- minecraft:nether_quartz_ore
+
+#forge:vegetables/greenbean
+- croptopia:greenbean
+
+#forge:grain/buckwheat
+- sakura:buckwheat
+
+#forge:cooking_pots
+- croptopia:cooking_pot
+
+#forge:fruits/fig
+- croptopia:fig
+
+#forge:raw_materials/copper
+- minecraft:raw_copper
+
+#forge:raspberry_jams
+- croptopia:raspberry_jam
+- #forge:jams/raspberry_jam
+
+#forge:peaches
+- croptopia:peach
+- #forge:fruits/peach
+- croptopia:peach
+- #forge:crops/peach
+
+#forge:glass/magenta
+- minecraft:magenta_stained_glass
+
+#forge:steamed_rices
+- croptopia:steamed_rice
+
+#forge:salt/salt
+- sakura:salt
+
+#forge:ores/coal
+- #minecraft:coal_ores
+
+#forge:seeds/yam
+- croptopia:yam_seed
+
+#forge:seeds/redbean
+- sakura:red_bean
+
+#forge:crops/orange
+- croptopia:orange
+
+#forge:pasta
+- #forge:pasta/raw_pasta
+
+#forge:vegetables/eggplant
+- croptopia:eggplant
+- sakura:eggplant
+
+#forge:tofu_and_dumplings
+- croptopia:tofu_and_dumplings
+
+#forge:strawberry_jams
+- croptopia:strawberry_jam
+- #forge:jams/strawberry_jam
+
+#forge:nuts/walnut
+- croptopia:walnut
+
+#forge:jams/grape_jam
+- croptopia:grape_jam
+
+#forge:seeds/honeydew
+- croptopia:honeydew_seed
+
+#balm:light_gray_dyes
+- #forge:dyes/light_gray?
+- minecraft:light_gray_dye
+
+#forge:steamed_crabs
+- croptopia:steamed_crab
+
+#forge:seeds/mustard
+- croptopia:mustard_seed
+
+#forge:crops/garlic
+- croptopia:garlic
+
+#minecraft:trapdoors
+- #minecraft:wooden_trapdoors
+- minecraft:iron_trapdoor
+
+#forge:ingots/gold
+- minecraft:gold_ingot
+
+#sakura:tools/knives/fish
+- sakura:knife_fish
+
+#forge:glass/cyan
+- minecraft:cyan_stained_glass
+
+#lootr:barrels
+- lootr:lootr_barrel
+
+#forge:leather
+- minecraft:leather
+
+#forge:glass
+- #forge:glass/colorless
+- #forge:stained_glass
+- #forge:glass/tinted
+
+#forge:saplings/almond
+- croptopia:almond_sapling
+
+#forge:crops/honeydew
+- croptopia:honeydew
+
+#minecraft:boats
+- minecraft:oak_boat
+- minecraft:spruce_boat
+- minecraft:birch_boat
+- minecraft:jungle_boat
+- minecraft:acacia_boat
+- minecraft:dark_oak_boat
+
+#forge:nuggets/iron
+- minecraft:iron_nugget
+
+#forge:crops/grapefruit
+- croptopia:grapefruit
+
+#createaddition:plant_foods
+- farmersdelight:pumpkin_slice
+- farmersdelight:rotten_tomato
+- farmersdelight:rice_panicle
+
+#forge:saplings/nectarine
+- croptopia:nectarine_sapling
+
+#forge:artichokes
+- croptopia:artichoke
+- #forge:vegetables/artichoke
+- croptopia:artichoke
+- #forge:crops/artichoke
+
+#forge:soy_milks
+- croptopia:soy_milk
+
+#forge:vegetables/corn
+- corn_delight:corn
+
+#balm:light_blue_dyes
+- #forge:dyes/light_blue?
+- minecraft:light_blue_dye
+
+#forge:seeds/blackbean
+- croptopia:blackbean_seed
+
+#forge:soybeans
+- croptopia:soybean
+- #forge:vegetables/soybean
+- croptopia:soybean
+- #forge:crops/soybean
+
+#forge:lime_saplings
+- croptopia:lime_sapling
+- #forge:saplings/lime
+
+#forge:soy_sauces
+- croptopia:soy_sauce
+
+#forge:ores_in_ground/netherrack
+- minecraft:nether_gold_ore
+- minecraft:nether_quartz_ore
+
+#forge:grain/barley
+- croptopia:barley
+
+#forge:spinach_seeds
+- croptopia:spinach_seed
+- #forge:seeds/spinach
+
+#forge:crops/potato
+- minecraft:potato
+
+#forge:jams/peach_jam
+- croptopia:peach_jam
+
+#forge:quiche
+- croptopia:quiche
+
+#forge:miso
+- sakura:miso
+
+#forge:cheese_cakes
+- croptopia:cheese_cake
+
+#forge:salsas
+- croptopia:salsa
+
+#forge:figs
+- croptopia:fig
+- #forge:fruits/fig
+- croptopia:fig
+- #forge:crops/fig
+
+#forge:stained_glass_panes
+- minecraft:white_stained_glass_pane
+- minecraft:orange_stained_glass_pane
+- minecraft:magenta_stained_glass_pane
+- minecraft:light_blue_stained_glass_pane
+- minecraft:yellow_stained_glass_pane
+- minecraft:lime_stained_glass_pane
+- minecraft:pink_stained_glass_pane
+- minecraft:gray_stained_glass_pane
+- minecraft:light_gray_stained_glass_pane
+- minecraft:cyan_stained_glass_pane
+- minecraft:purple_stained_glass_pane
+- minecraft:blue_stained_glass_pane
+- minecraft:brown_stained_glass_pane
+- minecraft:green_stained_glass_pane
+- minecraft:red_stained_glass_pane
+- minecraft:black_stained_glass_pane
+
+#forge:turmeric_seeds
+- croptopia:turmeric_seed
+- #forge:seeds/turmeric
+
+#umapyoi:uma_ticket
+- #umapyoi:common_gacha_item
+- umapyoi:uma_ticket
+- #umapyoi:sr_uma_ticket
+- #umapyoi:ssr_uma_ticket
+
+#forge:blueberries
+- croptopia:blueberry
+- #forge:fruits/blueberry
+- croptopia:blueberry
+- #forge:crops/blueberry
+
+#forge:crops/ginger
+- croptopia:ginger
+
+#balm:emeralds
+- #forge:gems/emeralds?
+- minecraft:emerald
+
+#minecraft:copper_ores
+- minecraft:copper_ore
+- minecraft:deepslate_copper_ore
+
+#nourish:fruit
+- croptopia:blackberry
+- croptopia:blueberry
+- croptopia:cantaloupe
+- croptopia:cranberry
+- croptopia:currant
+- croptopia:elderberry
+- croptopia:grape
+- croptopia:honeydew
+- croptopia:kiwi
+- croptopia:pineapple
+- croptopia:raspberry
+- croptopia:saguaro
+- croptopia:strawberry
+- croptopia:orange
+- croptopia:banana
+- croptopia:persimmon
+- croptopia:plum
+- croptopia:cherry
+- croptopia:lemon
+- croptopia:grapefruit
+- croptopia:kumquat
+- croptopia:peach
+- croptopia:coconut
+- croptopia:nutmeg
+- croptopia:fig
+- croptopia:nectarine
+- croptopia:mango
+- croptopia:dragonfruit
+- croptopia:starfruit
+- croptopia:avocado
+- croptopia:apricot
+- croptopia:pear
+- croptopia:lime
+- croptopia:date
+- croptopia:grape_juice
+- croptopia:orange_juice
+- croptopia:apple_juice
+- croptopia:cranberry_juice
+- croptopia:saguaro_juice
+- croptopia:melon_juice
+- croptopia:pineapple_juice
+- croptopia:lemonade
+- croptopia:limeade
+- croptopia:strawberry_smoothie
+- croptopia:banana_smoothie
+- croptopia:fruit_smoothie
+- croptopia:grape_jam
+- croptopia:strawberry_jam
+- croptopia:peach_jam
+- croptopia:apricot_jam
+- croptopia:blackberry_jam
+- croptopia:blueberry_jam
+- croptopia:cherry_jam
+- croptopia:elderberry_jam
+- croptopia:raspberry_jam
+- croptopia:raisins
+- croptopia:fruit_salad
+- croptopia:toast_with_jam
+- croptopia:peanut_butter_and_jam
+- croptopia:pineapple_pepperoni_pizza
+- croptopia:apple_pie
+- croptopia:banana_cream_pie
+- croptopia:strawberry_ice_cream
+- croptopia:mango_ice_cream
+- croptopia:rum_raisin_ice_cream
+- croptopia:cherry_pie
+- croptopia:banana_nut_bread
+- croptopia:almond
+- croptopia:cashew
+- croptopia:pecan
+- croptopia:walnut
+- croptopia:quesadilla
+- croptopia:eton_mess
+- croptopia:scones
+- croptopia:figgy_pudding
+- croptopia:treacle_tart
+- croptopia:avocado_toast
+- croptopia:fruit_cake
+- croptopia:kiwi_sorbet
+- croptopia:lemon_coconut_bar
+
+#forge:peanut_butter_and_jam
+- croptopia:peanut_butter_and_jam
+
+#forge:doughs
+- croptopia:dough
+
+#forge:rhubarb_pies
+- croptopia:rhubarb_pie
+
+#forge:cinnamon
+- croptopia:cinnamon
+- #forge:crops/cinnamon
+
+#forge:zucchini_seeds
+- croptopia:zucchini_seed
+- #forge:seeds/zucchini
+
+#forge:onion_seeds
+- croptopia:onion_seed
+- #forge:seeds/onion
+
+#forge:cabbage_seeds
+- croptopia:cabbage_seed
+- #forge:seeds/cabbage
+
+#forge:glass/gray
+- minecraft:gray_stained_glass
+
+#forge:dyes/light_blue
+- minecraft:light_blue_dye
+
+#forge:blueberry_seeds
+- croptopia:blueberry_seed
+- #forge:seeds/blueberry
+
+#balm:blue_dyes
+- minecraft:blue_dye
+- #forge:dyes/blue?
+
+#forge:milk/milk_bottle
+- farmersdelight:milk_bottle
+
+#balm:cooking_oil
+- forge:cookingoil?
+
+#forge:pork_jerkies
+- croptopia:pork_jerky
+
+#forge:glass_panes/black
+- minecraft:black_stained_glass_pane
+
+#forge:flour/buckwheat
+- sakura:flour_buckwheat
+
+#forge:saplings/date
+- croptopia:date_sapling
+
+#farmersdelight:wild_crops
+- farmersdelight:wild_carrots
+- farmersdelight:wild_potatoes
+- farmersdelight:wild_beetroots
+- farmersdelight:wild_cabbages
+- farmersdelight:wild_tomatoes
+- farmersdelight:wild_onions
+- farmersdelight:wild_rice
+- corn_delight:wild_corn
+
+#forge:dyes/pink
+- minecraft:pink_dye
+
+#minecraft:axolotl_tempt_items
+- minecraft:tropical_fish_bucket
+
+#forge:glass_panes/blue
+- minecraft:blue_stained_glass_pane
+
+#forge:crops/wheat
+- minecraft:wheat
+
+#forge:crops/fig
+- croptopia:fig
+
+#forge:fruits/saguaro
+- croptopia:saguaro
+
+#forge:spaghetti_squashs
+- croptopia:spaghetti_squash
+
+#forge:dough
+- farmersdelight:wheat_dough
+- #forge:dough/wheat
+- #forge:dough/buckwheat
+- #forge:dough/rice
+
+#forge:stone
+- minecraft:andesite
+- minecraft:diorite
+- minecraft:granite
+- minecraft:infested_stone
+- minecraft:stone
+- minecraft:polished_andesite
+- minecraft:polished_diorite
+- minecraft:polished_granite
+- minecraft:deepslate
+- minecraft:polished_deepslate
+- minecraft:infested_deepslate
+- minecraft:tuff
+
+#forge:roasted_sunflower_seeds
+- croptopia:roasted_sunflower_seeds
+
+#forge:crops/apricot
+- croptopia:apricot
+
+#forge:crops/tomatillo
+- croptopia:tomatillo
+
+#forge:glass_panes/yellow
+- minecraft:yellow_stained_glass_pane
+
+#forge:gems/lapis
+- minecraft:lapis_lazuli
+
+#forge:tortillas
+- croptopia:tortilla
+
+#forge:gunpowder
+- minecraft:gunpowder
+
+#forge:grapefruit_saplings
+- croptopia:grapefruit_sapling
+- #forge:saplings/grapefruit
+
+#forge:cheese_pizzas
+- croptopia:cheese_pizza
+
+#forge:saplings/fig
+- croptopia:fig_sapling
+
+#farmersdelight:cabinets/wooden
+- farmersdelight:acacia_cabinet
+- farmersdelight:birch_cabinet
+- farmersdelight:crimson_cabinet
+- farmersdelight:dark_oak_cabinet
+- farmersdelight:jungle_cabinet
+- farmersdelight:oak_cabinet
+- farmersdelight:spruce_cabinet
+- farmersdelight:warped_cabinet
+
+#forge:vegetables/cabbage
+- croptopia:cabbage
+- sakura:cabbage
+
+#forge:banana_cream_pies
+- croptopia:banana_cream_pie
+
+#forge:saplings/lime
+- croptopia:lime_sapling
+
+#forge:ore_rates/sparse
+- minecraft:nether_gold_ore
+
+#forge:seeds/zucchini
+- croptopia:zucchini_seed
+
+#forge:crops
+- #forge:crops/cabbage
+- #forge:crops/onion
+- #forge:crops/rice
+- #forge:crops/tomato
+- #forge:artichokes
+- #forge:asparagus
+- #forge:barley
+- #forge:basil
+- #forge:bellpeppers
+- #forge:blackbeans
+- #forge:blackberries
+- #forge:blueberries
+- #forge:broccoli
+- #forge:cabbage
+- #forge:cantaloupes
+- #forge:cauliflower
+- #forge:celery
+- #forge:chile_peppers
+- #forge:coffee_beans
+- #forge:corn
+- #forge:cranberries
+- #forge:cucumbers
+- #forge:currants
+- #forge:eggplants
+- #forge:elderberries
+- #forge:garlic
+- #forge:gingers
+- #forge:grapes
+- #forge:greenbeans
+- #forge:greenonions
+- #forge:honeydew
+- #forge:hops
+- #forge:kale
+- #forge:kiwis
+- #forge:leek
+- #forge:lettuce
+- #forge:mustard
+- #forge:oat
+- #forge:olives
+- #forge:onions
+- #forge:peanuts
+- #forge:pepper
+- #forge:pineapples
+- #forge:radishes
+- #forge:raspberries
+- #forge:rhubarb
+- #forge:rice
+- #forge:rutabagas
+- #forge:saguaros
+- #forge:soybeans
+- #forge:spinach
+- #forge:squashes
+- #forge:strawberries
+- #forge:sweetpotatos
+- #forge:tea_leaves
+- #forge:tomatillos
+- #forge:tomatoes
+- #forge:turmeric
+- #forge:turnips
+- #forge:vanilla
+- #forge:yams
+- #forge:zucchini
+- #forge:almonds
+- #forge:apples
+- #forge:apricots
+- #forge:avocados
+- #forge:bananas
+- #forge:cashews
+- #forge:cherries
+- #forge:coconuts
+- #forge:dates
+- #forge:dragonfruits
+- #forge:figs
+- #forge:grapefruits
+- #forge:kumquats
+- #forge:lemons
+- #forge:limes
+- #forge:mangos
+- #forge:nectarines
+- #forge:nutmegs
+- #forge:oranges
+- #forge:peaches
+- #forge:pears
+- #forge:pecans
+- #forge:persimmons
+- #forge:plums
+- #forge:starfruits
+- #forge:walnuts
+- #forge:cinnamon
+- #forge:crops/cabbage
+- #forge:crops/onion
+- #forge:crops/buckwheat
+- #forge:crops/eggplant
+- #forge:crops/radish
+- #forge:crops/rice
+- #forge:crops/tomato
+- #forge:crops/taro
+- #forge:seeds/rapeseed
+- #forge:crops/redbean
+- #forge:crops/pumpkin
+- corn_delight:corn
+- #forge:crops/beetroot
+- #forge:crops/carrot
+- #forge:crops/nether_wart
+- #forge:crops/potato
+- #forge:crops/wheat
+
+#forge:limeades
+- croptopia:limeade
+
+#forge:ore_bearing_ground/netherrack
+- minecraft:netherrack
+
+#farmersdelight:straw_harvesters
+- #farmersdelight:tools/knives
+
+#forge:rhubarb
+- croptopia:rhubarb
+- #forge:vegetables/rhubarb
+- croptopia:rhubarb
+- #forge:crops/rhubarb
+
+#forge:frying_pans
+- croptopia:frying_pan
+
+#forge:crops/blueberry
+- croptopia:blueberry
+
+#forge:artichoke_dips
+- croptopia:artichoke_dip
+
+#forge:sweet_crepes
+- croptopia:sweet_crepes
+
+#forge:fig_saplings
+- croptopia:fig_sapling
+- #forge:saplings/fig
+
+#forge:persimmon_saplings
+- croptopia:persimmon_sapling
+- #forge:saplings/persimmon
+
+#minecraft:birch_logs
+- minecraft:birch_log
+- minecraft:birch_wood
+- minecraft:stripped_birch_log
+- minecraft:stripped_birch_wood
+
+#forge:mushrooms/redmushroom
+- minecraft:red_mushroom
+
+#forge:persimmons
+- croptopia:persimmon
+- #forge:fruits/persimmon
+- croptopia:persimmon
+- #forge:crops/persimmon
+
+#forge:fruits/strawberry
+- croptopia:strawberry
+
+#forge:nuts
+- #forge:almonds
+- #forge:pecans
+- #forge:walnuts
+
+#forge:vegetables/pumpkin
+- minecraft:pumpkin
+
+#forge:juices
+- #forge:apple_juices
+- #forge:cranberry_juices
+- #forge:grape_juices
+- #forge:melon_juices
+- #forge:orange_juices
+- #forge:pineapple_juices
+- #forge:saguaro_juices
+- #forge:tomato_juices
+
+#forge:juices/cranberry_juice
+- croptopia:cranberry_juice
+
+#forge:banana_smoothies
+- croptopia:banana_smoothie
+
+#forge:fruits/orange
+- croptopia:orange
+
+#forge:seeds
+- #forge:seeds/cabbage
+- #forge:seeds/rice
+- #forge:seeds/tomato
+- #forge:seeds/artichoke
+- #forge:seeds/asparagus
+- #forge:seeds/barley
+- #forge:seeds/basil
+- #forge:seeds/bellpepper
+- #forge:seeds/blackbean
+- #forge:seeds/blackberry
+- #forge:seeds/blueberry
+- #forge:seeds/broccoli
+- #forge:seeds/cabbage
+- #forge:seeds/cantaloupe
+- #forge:seeds/cauliflower
+- #forge:seeds/celery
+- #forge:seeds/chilepepper
+- #forge:seeds/coffee_beans
+- #forge:seeds/corn
+- #forge:seeds/cranberry
+- #forge:seeds/cucumber
+- #forge:seeds/currant
+- #forge:seeds/eggplant
+- #forge:seeds/elderberry
+- #forge:seeds/garlic
+- #forge:seeds/ginger
+- #forge:seeds/grape
+- #forge:seeds/greenbean
+- #forge:seeds/greenonion
+- #forge:seeds/honeydew
+- #forge:seeds/hops
+- #forge:seeds/kale
+- #forge:seeds/kiwi
+- #forge:seeds/leek
+- #forge:seeds/lettuce
+- #forge:seeds/mustard
+- #forge:seeds/oat
+- #forge:seeds/olive
+- #forge:seeds/onion
+- #forge:seeds/peanut
+- #forge:seeds/pepper
+- #forge:seeds/pineapple
+- #forge:seeds/radish
+- #forge:seeds/raspberry
+- #forge:seeds/rhubarb
+- #forge:seeds/rice
+- #forge:seeds/rutabaga
+- #forge:seeds/saguaro
+- #forge:seeds/soybean
+- #forge:seeds/spinach
+- #forge:seeds/squash
+- #forge:seeds/strawberry
+- #forge:seeds/sweetpotato
+- #forge:seeds/tea_leaves
+- #forge:seeds/tomatillo
+- #forge:seeds/tomato
+- #forge:seeds/turmeric
+- #forge:seeds/turnip
+- #forge:seeds/vanilla
+- #forge:seeds/yam
+- #forge:seeds/zucchini
+- #forge:seeds/cabbage
+- #forge:seeds/onion
+- #forge:seeds/eggplant
+- #forge:seeds/radish
+- #forge:seeds/rice
+- #forge:seeds/tomato
+- #forge:seeds/buckwheat
+- #forge:seeds/rapeseed
+- #forge:seeds/redbean
+- corn_delight:corn_seeds
+- #forge:seeds/beetroot
+- #forge:seeds/melon
+- #forge:seeds/pumpkin
+- #forge:seeds/wheat
+
+#minecraft:oak_logs
+- minecraft:oak_log
+- minecraft:oak_wood
+- minecraft:stripped_oak_log
+- minecraft:stripped_oak_wood
+
+#forge:barley
+- croptopia:barley
+- #forge:grain/barley
+- croptopia:barley
+- #forge:crops/barley
+
+#forge:tacos
+- croptopia:taco
+
+#forge:ores/lapis
+- #minecraft:lapis_ores
+
+#forge:tuna_sandwiches
+- croptopia:tuna_sandwich
+
+#forge:bread
+- #forge:bread/wheat
+- #forge:bread/wheat
+- #forge:bread/buckwheat
+- #forge:bread/rice
+- #forge:bread/wheat
+- corn_delight:cornbread
+
+#forge:crops/mango
+- croptopia:mango
+
+#forge:slimeballs
+- minecraft:slime_ball
+
+#balm:gold_nuggets
+- #forge:nuggets/gold?
+- minecraft:gold_nugget
+
+#forge:cooked_anchovies
+- croptopia:cooked_anchovy
+
+#forge:vegetables/garlic
+- croptopia:garlic
+
+#minecraft:jungle_logs
+- minecraft:jungle_log
+- minecraft:jungle_wood
+- minecraft:stripped_jungle_log
+- minecraft:stripped_jungle_wood
+
+#forge:saplings/cashew
+- croptopia:cashew_sapling
+
+#forge:peach_saplings
+- croptopia:peach_sapling
+- #forge:saplings/peach
+
+#minecraft:lectern_books
+- minecraft:written_book
+- minecraft:writable_book
+- patchouli:guide_book
+
+#forge:juices/orange_juice
+- croptopia:orange_juice
+
+#forge:vegetables/zucchini
+- croptopia:zucchini
+
+#minecraft:spruce_logs
+- minecraft:spruce_log
+- minecraft:spruce_wood
+- minecraft:stripped_spruce_log
+- minecraft:stripped_spruce_wood
+
+#dynamictrees:seeds
+- #dynamictrees:fungus_caps
+- dynamictrees:acacia_seed
+- dynamictrees:apple_oak_seed
+- dynamictrees:azalea_seed
+- dynamictrees:birch_seed
+- dynamictrees:cocoa_seed
+- dynamictrees:dark_oak_seed
+- dynamictrees:jungle_seed
+- dynamictrees:oak_seed
+- dynamictrees:spruce_seed
+
+#forge:milks
+- croptopia:milk_bottle
+- croptopia:soy_milk
+- minecraft:milk_bucket
+
+#nourish:vegetables
+- croptopia:artichoke
+- croptopia:asparagus
+- croptopia:bellpepper
+- croptopia:broccoli
+- croptopia:cabbage
+- croptopia:cauliflower
+- croptopia:celery
+- croptopia:corn
+- croptopia:cucumber
+- croptopia:eggplant
+- croptopia:garlic
+- croptopia:greenbean
+- croptopia:greenonion
+- croptopia:kale
+- croptopia:leek
+- croptopia:lettuce
+- croptopia:olive
+- croptopia:onion
+- croptopia:radish
+- croptopia:rhubarb
+- croptopia:rutabaga
+- croptopia:soybean
+- croptopia:spinach
+- croptopia:squash
+- croptopia:sweetpotato
+- croptopia:tomatillo
+- croptopia:tomato
+- croptopia:turnip
+- croptopia:yam
+- croptopia:zucchini
+- croptopia:tofu
+- croptopia:salsa
+- croptopia:artichoke_dip
+- croptopia:tomato_juice
+- croptopia:kale_smoothie
+- croptopia:kale_chips
+- croptopia:potato_chips
+- croptopia:french_fries
+- croptopia:sweet_potato_fries
+- croptopia:onion_rings
+- croptopia:cucumber_salad
+- croptopia:caesar_salad
+- croptopia:leafy_salad
+- croptopia:veggie_salad
+- croptopia:leek_soup
+- croptopia:blt
+- croptopia:tofuburger
+- croptopia:spaghetti_squash
+- croptopia:taco
+- croptopia:burrito
+- croptopia:tostada
+- croptopia:carnitas
+- croptopia:fajitas
+- croptopia:enchilada
+- croptopia:tamales
+- croptopia:stuffed_poblanos
+- croptopia:chili_relleno
+- croptopia:refried_beans
+- croptopia:shepherds_pie
+- croptopia:cornish_pasty
+- croptopia:ajvar
+- croptopia:ajvar_toast
+- croptopia:beef_stew
+- croptopia:beef_stir_fry
+- croptopia:buttered_green_beans
+- croptopia:cheesy_asparagus
+- croptopia:eggplant_parmesan
+- croptopia:grilled_eggplant
+- croptopia:nether_wart_stew
+- croptopia:peanut_butter
+- croptopia:peanut_butter_with_celery
+- croptopia:potato_soup
+- croptopia:ratatouille
+- croptopia:rhubarb_crisp
+- croptopia:roasted_asparagus
+- croptopia:roasted_radishes
+- croptopia:roasted_squash
+- croptopia:roasted_turnips
+- croptopia:steamed_broccoli
+- croptopia:steamed_green_beans
+- croptopia:stir_fry
+- croptopia:stuffed_artichoke
+
+#forge:fence_gates/wooden
+- minecraft:oak_fence_gate
+- minecraft:spruce_fence_gate
+- minecraft:birch_fence_gate
+- minecraft:jungle_fence_gate
+- minecraft:acacia_fence_gate
+- minecraft:dark_oak_fence_gate
+- minecraft:crimson_fence_gate
+- minecraft:warped_fence_gate
+
+#forge:blackberry_seeds
+- croptopia:blackberry_seed
+- #forge:seeds/blackberry
+
+#forge:glass_panes/lime
+- minecraft:lime_stained_glass_pane
+
+#sereneseasons:spring_crops
+- farmersdelight:onion
+- croptopia:artichoke_seed
+- croptopia:asparagus_seed
+- croptopia:artichoke_seed
+- croptopia:asparagus_seed
+- croptopia:bellpepper_seed
+- croptopia:cabbage_seed
+- croptopia:celery_seed
+- croptopia:garlic_seed
+- croptopia:leek_seed
+- croptopia:lettuce_seed
+- croptopia:radish_seed
+- croptopia:spinach_seed
+- croptopia:tomato_seed
+- croptopia:chile_pepper_seed
+- croptopia:turnip_seed
+- croptopia:zucchini_seed
+- croptopia:oat_seed
+- croptopia:barley_seed
+- croptopia:soybean_seed
+- croptopia:mustard_seed
+- croptopia:turmeric_seed
+- croptopia:ginger_seed
+- croptopia:basil_seed
+- croptopia:blackberry_seed
+- croptopia:blueberry_seed
+- croptopia:cranberry_seed
+- croptopia:cantaloupe_seed
+- croptopia:elderberry_seed
+
+#forge:grain
+- #forge:grain/wheat
+- #forge:grain/rice
+- #forge:barley
+- #forge:corn
+- #forge:oat
+- #forge:rice
+- #forge:grain/wheat
+- #forge:grain/rice
+- #forge:grain/buckwheat
+
+#forge:tomatosauce
+- sakura:tomato_sauce
+
+#balm:purple_dyes
+- #forge:dyes/purple?
+- minecraft:purple_dye
+
+#forge:saplings/avocado
+- croptopia:avocado_sapling
+
+#umapyoi:sr_uma_ticket
+- umapyoi:sr_uma_ticket
+
+#forge:tea_seeds
+- croptopia:tea_seed
+- #forge:seeds/tea_leaves
+
+#forge:tomatillos
+- croptopia:tomatillo
+- #forge:vegetables/tomatillo
+- croptopia:tomatillo
+- #forge:crops/tomatillo
+
+#forge:seeds/artichoke
+- croptopia:artichoke_seed
+
+#forge:saguaro_juices
+- croptopia:saguaro_juice
+- #forge:juices/saguaro_juice
+
+#forge:crops/zucchini
+- croptopia:zucchini
+
+#forge:apricot_saplings
+- croptopia:apricot_sapling
+- #forge:saplings/apricot
+
+#minecraft:flowers
+- #minecraft:small_flowers
+- #minecraft:tall_flowers
+- minecraft:flowering_azalea_leaves
+- minecraft:flowering_azalea
+
+#forge:vegetables/potato
+- minecraft:potato
+- minecraft:potato
+
+#forge:dust/charcoal
+- sakura:charcoal_powder
+
+#forge:seeds/corn
+- croptopia:corn_seed
+- corn_delight:corn_seeds
+
+#forge:seeds/strawberry
+- croptopia:strawberry_seed
+
+#forge:soysauce
+- #forge:soysauce/soysauce
+
+#minecraft:diamond_ores
+- minecraft:diamond_ore
+- minecraft:deepslate_diamond_ore
+
+#forge:juices/grape_juice
+- croptopia:grape_juice
+
+#forge:gems/amethyst
+- minecraft:amethyst_shard
+
+#forge:sausages
+- croptopia:sausage
+
+#forge:glass/silica
+- minecraft:glass
+- minecraft:black_stained_glass
+- minecraft:blue_stained_glass
+- minecraft:brown_stained_glass
+- minecraft:cyan_stained_glass
+- minecraft:gray_stained_glass
+- minecraft:green_stained_glass
+- minecraft:light_blue_stained_glass
+- minecraft:light_gray_stained_glass
+- minecraft:lime_stained_glass
+- minecraft:magenta_stained_glass
+- minecraft:orange_stained_glass
+- minecraft:pink_stained_glass
+- minecraft:purple_stained_glass
+- minecraft:red_stained_glass
+- minecraft:white_stained_glass
+- minecraft:yellow_stained_glass
+
+#forge:dyes/brown
+- minecraft:brown_dye
+
+#forge:raw_fishes/cod
+- minecraft:cod
+- farmersdelight:cod_slice
+- minecraft:cod
+
+#forge:seeds/olive
+- croptopia:olive_seed
+
+#forge:nectarine_saplings
+- croptopia:nectarine_sapling
+- #forge:saplings/nectarine
+
+#forge:ores
+- #forge:ores/coal
+- #forge:ores/copper
+- #forge:ores/diamond
+- #forge:ores/emerald
+- #forge:ores/gold
+- #forge:ores/iron
+- #forge:ores/lapis
+- #forge:ores/redstone
+- #forge:ores/quartz
+- #forge:ores/netherite_scrap
+
+#forge:vegetables/ginger
+- croptopia:ginger
+
+#forge:rods/wooden
+- minecraft:stick
+
+#forge:vegetables/soybean
+- croptopia:soybean
+
+#forge:chile_peppers
+- croptopia:chile_pepper
+- #forge:crops/chile_pepper
+
+#forge:fruits/honeydew
+- croptopia:honeydew
+
+#forge:barley_seeds
+- croptopia:barley_seed
+- #forge:seeds/barley
+
+#forge:seeds/onion
+- croptopia:onion_seed
+- sakura:onion_seeds
+
+#forge:tomato_juices
+- croptopia:tomato_juice
+- #forge:juices/tomato_juice
+
+#forge:storage_blocks/diamond
+- minecraft:diamond_block
+
+#forge:blackberry_jams
+- croptopia:blackberry_jam
+- #forge:jams/blackberry_jam
+
+#forge:saplings/walnut
+- croptopia:walnut_sapling
+
+#forge:vegetables/cauliflower
+- croptopia:cauliflower
+
+#forge:sweetpotato_seeds
+- croptopia:sweetpotato_seed
+- #forge:seeds/sweetpotato
+
+#forge:french_fries
+- croptopia:french_fries
+
+#minecraft:freeze_immune_wearables
+- minecraft:leather_boots
+- minecraft:leather_leggings
+- minecraft:leather_chestplate
+- minecraft:leather_helmet
+- minecraft:leather_horse_armor
+
+#forge:shepherds_pie
+- croptopia:shepherds_pie
+
+#forge:greenbean_seeds
+- croptopia:greenbean_seed
+- #forge:seeds/greenbean
+
+#forge:soybean_seeds
+- croptopia:soybean_seed
+- #forge:seeds/soybean
+
+#forge:cobblestone/mossy
+- minecraft:mossy_cobblestone
+
+#forge:glass_panes/magenta
+- minecraft:magenta_stained_glass_pane
+
+#forge:seeds/greenbean
+- croptopia:greenbean_seed
+
+#forge:nuggets
+- #forge:nuggets/iron
+- #forge:nuggets/gold
+
+#minecraft:occludes_vibration_signals
+- #minecraft:wool
+
+#forge:flour
+- croptopia:flour
+- #forge:flour/wheat
+- #forge:flour/buckwheat
+- #forge:flour/rice
+
+#forge:rods/blaze
+- minecraft:blaze_rod
+
+#forge:crops/cantaloupe
+- croptopia:cantaloupe
+
+#forge:beef_wellington
+- croptopia:beef_wellington
+
+#forge:vegetables/kale
+- croptopia:kale
+
+#forge:crops/redbean
+- sakura:red_bean
+
+#forge:crops/plum
+- croptopia:plum
+
+#create:upright_on_belt
+- farmersdelight:milk_bottle
+- farmersdelight:hot_cocoa
+- farmersdelight:apple_cider
+- farmersdelight:melon_juice
+- farmersdelight:pie_crust
+- farmersdelight:apple_pie
+- farmersdelight:sweet_berry_cheesecake
+- farmersdelight:chocolate_pie
+
+#forge:saucy_chips
+- croptopia:saucy_chips
+
+#forge:fruits/currant
+- croptopia:currant
+
+#forge:vegetables/carrot
+- minecraft:carrot
+- minecraft:carrot
+
+#forge:leafy_salads
+- croptopia:leafy_salad
+
+#forge:fruits/starfruit
+- croptopia:starfruit
+
+#forge:crops/walnut
+- croptopia:walnut
+
+#forge:crops/taro
+- sakura:taro
+- sakura:taro
+
+#forge:saplings/kumquat
+- croptopia:kumquat_sapling
+
+#forge:juices/tomato_juice
+- croptopia:tomato_juice
+
+#forge:crops/soybean
+- croptopia:soybean
+- sakura:soybean
+
+#balm:diamonds
+- #forge:gems/diamonds?
+- minecraft:diamond
+
+#forge:crops/turmeric
+- croptopia:turmeric
+
+#forge:rums
+- croptopia:rum
+
+#forge:crops/mustard
+- croptopia:mustard
+
+#forge:crops/lemon
+- croptopia:lemon
+
+#forge:saplings/dragonfruit
+- croptopia:dragonfruit_sapling
+
+#forge:glass/red
+- minecraft:red_stained_glass
+
+#forge:fruits/nectarine
+- croptopia:nectarine
+
+#forge:crops/persimmon
+- croptopia:persimmon
+
+#forge:ender_pearls
+- minecraft:ender_pearl
+
+#forge:basil
+- croptopia:basil
+- #forge:crops/basil
+
+#forge:sugar
+- #forge:sugar/sugar
+- minecraft:sugar
+
+#forge:saplings/lemon
+- croptopia:lemon_sapling
+
+#forge:glass_panes/green
+- minecraft:green_stained_glass_pane
+
+#tconstruct:seeds
+- farmersdelight:onion
+
+#forge:jams/blueberry_jam
+- croptopia:blueberry_jam
+
+#forge:vegetables/mustard
+- croptopia:mustard
+
+#forge:chests/trapped
+- minecraft:trapped_chest
+
+#balm:cyan_dyes
+- #forge:dyes/cyan?
+- minecraft:cyan_dye
+
+#nourish:sweets
+- croptopia:chocolate
+- croptopia:grape_juice
+- croptopia:orange_juice
+- croptopia:apple_juice
+- croptopia:cranberry_juice
+- croptopia:saguaro_juice
+- croptopia:melon_juice
+- croptopia:pineapple_juice
+- croptopia:lemonade
+- croptopia:limeade
+- croptopia:strawberry_smoothie
+- croptopia:banana_smoothie
+- croptopia:kale_smoothie
+- croptopia:fruit_smoothie
+- croptopia:chocolate_milkshake
+- croptopia:pumpkin_spice_latte
+- croptopia:grape_jam
+- croptopia:strawberry_jam
+- croptopia:peach_jam
+- croptopia:apricot_jam
+- croptopia:blackberry_jam
+- croptopia:blueberry_jam
+- croptopia:cherry_jam
+- croptopia:elderberry_jam
+- croptopia:raspberry_jam
+- croptopia:apple_pie
+- croptopia:yam_jam
+- croptopia:banana_cream_pie
+- croptopia:candy_corn
+- croptopia:vanilla_ice_cream
+- croptopia:strawberry_ice_cream
+- croptopia:mango_ice_cream
+- croptopia:rum_raisin_ice_cream
+- croptopia:cherry_pie
+- croptopia:cheese_cake
+- croptopia:brownies
+- croptopia:snicker_doodle
+- croptopia:banana_nut_bread
+- croptopia:horchata
+- croptopia:churros
+- croptopia:tres_leche_cake
+- croptopia:eton_mess
+- croptopia:scones
+- croptopia:figgy_pudding
+- croptopia:treacle_tart
+- croptopia:sticky_toffee_pudding
+- croptopia:trifle
+- croptopia:chocolate_ice_cream
+- croptopia:fruit_cake
+- croptopia:kiwi_sorbet
+- croptopia:lemon_coconut_bar
+- croptopia:rhubarb_crisp
+
+#forge:seeds/rhubarb
+- croptopia:rhubarb_seed
+
+#forge:chicken_and_rice
+- croptopia:chicken_and_rice
+
+#forge:sandstone
+- minecraft:sandstone
+- minecraft:cut_sandstone
+- minecraft:chiseled_sandstone
+- minecraft:smooth_sandstone
+- minecraft:red_sandstone
+- minecraft:cut_red_sandstone
+- minecraft:chiseled_red_sandstone
+- minecraft:smooth_red_sandstone
+
+#forge:glass_panes/colorless
+- minecraft:glass_pane
+
+#forge:roasted_pumpkin_seeds
+- croptopia:roasted_pumpkin_seeds
+
+#minecraft:piglin_food
+- minecraft:porkchop
+- minecraft:cooked_porkchop
+- croptopia:ham_sandwich
+- croptopia:pepperoni
+- croptopia:pork_and_beans
+- croptopia:pork_jerky
+- croptopia:bacon
+- croptopia:cooked_bacon
+
+#forge:raw_fishes
+- #forge:raw_fishes/cod
+- #forge:raw_fishes/salmon
+- #forge:raw_fishes/tropical_fish
+- #forge:slices/raw_fishes
+- #forge:raw_fishes/cod
+- #forge:raw_fishes/salmon
+- #forge:raw_fishes/tropical_fish
+
+#forge:peach_jams
+- croptopia:peach_jam
+- #forge:jams/peach_jam
+
+#forge:egg_rolls
+- croptopia:egg_roll
+
+#forge:slices/raw_fishes
+- sakura:machined_fish
+- #forge:slices/raw_fishes/cod
+- #forge:slices/raw_fishes/salmon
+
+#forge:plums
+- croptopia:plum
+- #forge:fruits/plum
+- croptopia:plum
+- #forge:crops/plum
+
+#croptopia:peppers
+- croptopia:chile_pepper
+- croptopia:bellpepper
+
+#forge:cinnamon_saplings
+- croptopia:cinnamon_sapling
+- #forge:saplings/cinnamon
+
+#forge:seeds/garlic
+- croptopia:garlic_seed
+
+#forge:saplings/cherry
+- croptopia:cherry_sapling
+
+#forge:crops/currant
+- croptopia:currant
+
+#dynamictrees:branches
+- #dynamictrees:branches_that_burn
+- #dynamictrees:fungus_branches
+
+#sakura:rice/brown
+- #forge:grain/rice
+
+#forge:borscht
+- croptopia:borscht
+
+#forge:banana_nut_breads
+- croptopia:banana_nut_bread
+
+#minecraft:beds
+- minecraft:red_bed
+- minecraft:black_bed
+- minecraft:blue_bed
+- minecraft:brown_bed
+- minecraft:cyan_bed
+- minecraft:gray_bed
+- minecraft:green_bed
+- minecraft:light_blue_bed
+- minecraft:light_gray_bed
+- minecraft:lime_bed
+- minecraft:magenta_bed
+- minecraft:orange_bed
+- minecraft:pink_bed
+- minecraft:purple_bed
+- minecraft:white_bed
+- minecraft:yellow_bed
+
+#forge:grain/oat
+- croptopia:oat
+
+#forge:ores/diamond
+- #minecraft:diamond_ores
+
+#forge:nougats
+- croptopia:nougat
+
+#forge:kouji
+- sakura:kouji
+
+#minecraft:doors
+- #minecraft:wooden_doors
+- minecraft:iron_door
+
+#forge:bread/buckwheat
+- sakura:buckwheat_bread
+
+#forge:pork_and_beanss
+- croptopia:pork_and_beans
+
+#forge:saplings/peach
+- croptopia:peach_sapling
+
+#forge:greenonions
+- croptopia:greenonion
+- #forge:vegetables/greenonion
+- croptopia:greenonion
+- #forge:crops/greenonion
+
+#forge:seeds/cranberry
+- croptopia:cranberry_seed
+
+#forge:ore_rates/dense
+- minecraft:copper_ore
+- minecraft:deepslate_copper_ore
+- minecraft:deepslate_lapis_ore
+- minecraft:deepslate_redstone_ore
+- minecraft:lapis_ore
+- minecraft:redstone_ore
+
+#forge:seeds/saguaro
+- croptopia:saguaro_seed
+
+#forge:rutabaga_seeds
+- croptopia:rutabaga_seed
+- #forge:seeds/rutabaga
+
+#forge:saplings/coconut
+- croptopia:coconut_sapling
+
+#forge:vegetables/yam
+- croptopia:yam
+
+#forge:macaron
+- croptopia:macaron
+
+#forge:olives
+- croptopia:olive
+- #forge:fruits/olive
+- croptopia:olive
+- #forge:crops/olive
+
+#dynamictrees:branches_that_burn
+- dynamictrees:acacia_branch
+- dynamictrees:birch_branch
+- dynamictrees:dark_oak_branch
+- dynamictrees:jungle_branch
+- dynamictrees:oak_branch
+- dynamictrees:spruce_branch
+
+#minecraft:signs
+- minecraft:oak_sign
+- minecraft:spruce_sign
+- minecraft:birch_sign
+- minecraft:acacia_sign
+- minecraft:jungle_sign
+- minecraft:dark_oak_sign
+- minecraft:crimson_sign
+- minecraft:warped_sign
+
+#forge:cauliflower_seeds
+- croptopia:cauliflower_seed
+- #forge:seeds/cauliflower
+
+#forge:cooked_beef
+- minecraft:cooked_beef
+- farmersdelight:beef_patty
+- minecraft:cooked_beef
+
+#forge:tools/knives
+- farmersdelight:flint_knife
+- farmersdelight:iron_knife
+- farmersdelight:diamond_knife
+- farmersdelight:golden_knife
+- farmersdelight:netherite_knife
+- croptopia:knife
+- #sakura:tools/knives/fish
+- #sakura:tools/knives/noodle
+
+#balm:white_dyes
+- #forge:dyes/white?
+- minecraft:white_dye
+
+#forge:apple_saplings
+- croptopia:apple_sapling
+- #forge:saplings/apple
+
+#forge:oat_seeds
+- croptopia:oat_seed
+- #forge:seeds/oat
+
+#forge:caesar_salads
+- croptopia:caesar_salad
+
+#forge:crops/barley
+- croptopia:barley
+
+#forge:cobblestone/normal
+- minecraft:cobblestone
+
+#forge:crops/chile_pepper
+- croptopia:chile_pepper
+
+#forge:avocado_saplings
+- croptopia:avocado_sapling
+- #forge:saplings/avocado
+
+#forge:currants
+- croptopia:currant
+- #forge:fruits/currant
+- croptopia:currant
+- #forge:crops/currant
+
+#forge:crops/raspberry
+- croptopia:raspberry
+
+#dynamictrees:enhanced_fertilizer
+- create:tree_fertilizer?
+
+#forge:lumber/sakura
+- sakura:lumber_sakura
+
+#forge:lettuce
+- croptopia:lettuce
+- #forge:vegetables/lettuce
+- croptopia:lettuce
+- #forge:crops/lettuce
+
+#forge:crops/cabbage
+- farmersdelight:cabbage
+- farmersdelight:cabbage_leaf
+- croptopia:cabbage
+- sakura:cabbage
+
+#forge:pumpkin_bars
+- croptopia:pumpkin_bars
+
+#forge:cashew_chickens
+- croptopia:cashew_chicken
+
+#forge:crops/hops
+- croptopia:hops
+
+#forge:crops/kale
+- croptopia:kale
+
+#forge:pineapple_juices
+- croptopia:pineapple_juice
+- #forge:juices/pineapple_juice
+
+#forge:cucumbers
+- croptopia:cucumber
+- #forge:vegetables/cucumber
+- croptopia:cucumber
+- #forge:crops/cucumber
+
+#forge:crops/blackberry
+- croptopia:blackberry
+
+#forge:snicker_doodles
+- croptopia:snicker_doodle
+
+#balm:green_dyes
+- #forge:dyes/green?
+- minecraft:green_dye
+
+#forge:glass/green
+- minecraft:green_stained_glass
+
+#forge:seeds/blueberry
+- croptopia:blueberry_seed
+
+#forge:apricots
+- croptopia:apricot
+- #forge:fruits/apricot
+- croptopia:apricot
+- #forge:crops/apricot
+
+#forge:lemon_saplings
+- croptopia:lemon_sapling
+- #forge:saplings/lemon
+
+#forge:juices/pineapple_juice
+- croptopia:pineapple_juice
+
+#forge:seeds/cauliflower
+- croptopia:cauliflower_seed
+
+#forge:yam_seeds
+- croptopia:yam_seed
+- #forge:seeds/yam
+
+#forge:end_stones
+- minecraft:end_stone
+
+#forge:slices/raw_fishes/salmon
+- farmersdelight:salmon_slice?
+
+#forge:toast_with_jam
+- croptopia:toast_with_jam
+
+#forge:nutty_cookies
+- croptopia:nutty_cookie
+
+#forge:chocolates
+- croptopia:chocolate
+
+#forge:fences/wooden
+- #minecraft:wooden_fences
+
+#sereneseasons:summer_crops
+- farmersdelight:tomato_seeds
+- farmersdelight:rice
+- croptopia:artichoke_seed
+- croptopia:asparagus_seed
+- croptopia:artichoke_seed
+- croptopia:asparagus_seed
+- croptopia:bellpepper_seed
+- croptopia:saguaro_seed
+- croptopia:blackbean_seed
+- croptopia:blackberry_seed
+- croptopia:blueberry_seed
+- croptopia:cranberry_seed
+- croptopia:cantaloupe_seed
+- croptopia:elderberry_seed
+- croptopia:coffee_seed
+- croptopia:greenbean_seed
+- croptopia:greenonion_seed
+- croptopia:honeydew_seed
+- croptopia:kiwi_seed
+- croptopia:onion_seed
+- croptopia:pineapple_seed
+- croptopia:raspberry_seed
+- croptopia:rice_seed
+- croptopia:strawberry_seed
+- croptopia:tomatillo_seed
+- croptopia:tomato_seed
+- croptopia:zucchini_seed
+- croptopia:oat_seed
+- croptopia:barley_seed
+- croptopia:soybean_seed
+- croptopia:mustard_seed
+- croptopia:turmeric_seed
+- croptopia:ginger_seed
+- croptopia:basil_seed
+- croptopia:apple_sapling
+- croptopia:banana_sapling
+- croptopia:orange_sapling
+- croptopia:persimmon_sapling
+- croptopia:plum_sapling
+- croptopia:cherry_sapling
+- croptopia:lemon_sapling
+- croptopia:grapefruit_sapling
+- croptopia:kumquat_sapling
+- croptopia:peach_sapling
+- croptopia:coconut_sapling
+- croptopia:nutmeg_sapling
+- croptopia:fig_sapling
+- croptopia:nectarine_sapling
+- croptopia:mango_sapling
+- croptopia:dragonfruit_sapling
+- croptopia:starfruit_sapling
+- croptopia:avocado_sapling
+- croptopia:apricot_sapling
+- croptopia:pear_sapling
+- croptopia:lime_sapling
+- croptopia:date_sapling
+- croptopia:almond_sapling
+- croptopia:cashew_sapling
+- croptopia:pecan_sapling
+- croptopia:walnut_sapling
+- corn_delight:corn_seeds
+- corn_delight:corn
+
+#forge:storage_blocks
+- #forge:storage_blocks/amethyst
+- #forge:storage_blocks/coal
+- #forge:storage_blocks/copper
+- #forge:storage_blocks/diamond
+- #forge:storage_blocks/emerald
+- #forge:storage_blocks/gold
+- #forge:storage_blocks/iron
+- #forge:storage_blocks/lapis
+- #forge:storage_blocks/quartz
+- #forge:storage_blocks/raw_copper
+- #forge:storage_blocks/raw_gold
+- #forge:storage_blocks/raw_iron
+- #forge:storage_blocks/redstone
+- #forge:storage_blocks/netherite
+
+#forge:pineapple_pepperoni_pizzas
+- croptopia:pineapple_pepperoni_pizza
+
+#forge:glass_panes/orange
+- minecraft:orange_stained_glass_pane
+
+#forge:fruits/bellpepper
+- croptopia:bellpepper
+
+#forge:date_saplings
+- croptopia:date_sapling
+- #forge:saplings/date
+
+#minecraft:beacon_payment_items
+- minecraft:netherite_ingot
+- minecraft:emerald
+- minecraft:diamond
+- minecraft:gold_ingot
+- minecraft:iron_ingot
+
+#forge:ores/quartz
+- minecraft:nether_quartz_ore
+
+#forge:ingots/brick
+- minecraft:brick
+
+#cacao:cookies
+- minecraft:cookie
+- croptopia:nutty_cookie
+- croptopia:raisin_oatmeal_cookie
+- cacao:white_chips_chocolate_cookie
+- cacao:white_chips_cookie
+- cacao:dark_chips_chocolate_cookie
+
+#minecraft:coal_ores
+- minecraft:coal_ore
+- minecraft:deepslate_coal_ore
+
+#umapyoi:horseshoe
+- umapyoi:horseshoe_gold
+- umapyoi:horseshoe_silver
+- umapyoi:horseshoe_rainbow
+
+#forge:raw_beef
+- minecraft:beef
+- farmersdelight:minced_beef
+- minecraft:beef
+
+#forge:saplings
+- #forge:saplings/almond
+- #forge:saplings/apple
+- #forge:saplings/apricot
+- #forge:saplings/avocado
+- #forge:saplings/banana
+- #forge:saplings/cashew
+- #forge:saplings/cherry
+- #forge:saplings/coconut
+- #forge:saplings/date
+- #forge:saplings/dragonfruit
+- #forge:saplings/fig
+- #forge:saplings/grapefruit
+- #forge:saplings/kumquat
+- #forge:saplings/lemon
+- #forge:saplings/lime
+- #forge:saplings/mango
+- #forge:saplings/nectarine
+- #forge:saplings/nutmeg
+- #forge:saplings/orange
+- #forge:saplings/peach
+- #forge:saplings/pear
+- #forge:saplings/pecan
+- #forge:saplings/persimmon
+- #forge:saplings/plum
+- #forge:saplings/starfruit
+- #forge:saplings/walnut
+- #forge:saplings/cinnamon
+
+#forge:crops/peach
+- croptopia:peach
+
+#forge:anchovy_pizzas
+- croptopia:anchovy_pizza
+
+#forge:saplings/persimmon
+- croptopia:persimmon_sapling
+
+#forge:dragonfruit_saplings
+- croptopia:dragonfruit_sapling
+- #forge:saplings/dragonfruit
+
+#forge:yoghurts
+- croptopia:yoghurt
+
+#croptopia:advancements_seeds
+- croptopia:artichoke_seed
+- croptopia:asparagus_seed
+- croptopia:bellpepper_seed
+- croptopia:blackbean_seed
+- croptopia:blackberry_seed
+- croptopia:blueberry_seed
+- croptopia:broccoli_seed
+- croptopia:cabbage_seed
+- croptopia:cantaloupe_seed
+- croptopia:cauliflower_seed
+- croptopia:celery_seed
+- croptopia:corn_seed
+- croptopia:cranberry_seed
+- croptopia:cucumber_seed
+- croptopia:currant_seed
+- croptopia:eggplant_seed
+- croptopia:elderberry_seed
+- croptopia:garlic_seed
+- croptopia:grape_seed
+- croptopia:greenbean_seed
+- croptopia:honeydew_seed
+- croptopia:hops_seed
+- croptopia:kale_seed
+- croptopia:kiwi_seed
+- croptopia:leek_seed
+- croptopia:lettuce_seed
+- croptopia:olive_seed
+- croptopia:onion_seed
+- croptopia:peanut_seed
+- croptopia:pineapple_seed
+- croptopia:radish_seed
+- croptopia:raspberry_seed
+- croptopia:rhubarb_seed
+- croptopia:rice_seed
+- croptopia:rutabaga_seed
+- croptopia:saguaro_seed
+- croptopia:squash_seed
+- croptopia:strawberry_seed
+- croptopia:tomatillo_seed
+- croptopia:tomato_seed
+- croptopia:turnip_seed
+- croptopia:yam_seed
+- croptopia:zucchini_seed
+- croptopia:mustard_seed
+- croptopia:chile_pepper_seed
+- croptopia:turmeric_seed
+- croptopia:ginger_seed
+- croptopia:basil_seed
+- croptopia:oat_seed
+- croptopia:barley_seed
+- croptopia:soybean_seed
+- croptopia:vanilla_seeds
+- croptopia:pepper_seed
+- croptopia:tea_seed
+
+#forge:jams/blackberry_jam
+- croptopia:blackberry_jam
+
+#forge:storage_blocks/redstone
+- minecraft:redstone_block
+
+#croptopia:cinnamon_logs
+- croptopia:cinnamon_log
+- croptopia:stripped_cinnamon_log
+- croptopia:cinnamon_wood
+- croptopia:stripped_cinnamon_wood
+
+#forge:cooked_mutton
+- minecraft:cooked_mutton
+- farmersdelight:cooked_mutton_chops
+- minecraft:cooked_mutton
+
+#minecraft:stairs
+- #minecraft:wooden_stairs
+- minecraft:cobblestone_stairs
+- minecraft:sandstone_stairs
+- minecraft:nether_brick_stairs
+- minecraft:stone_brick_stairs
+- minecraft:brick_stairs
+- minecraft:purpur_stairs
+- minecraft:quartz_stairs
+- minecraft:red_sandstone_stairs
+- minecraft:prismarine_brick_stairs
+- minecraft:prismarine_stairs
+- minecraft:dark_prismarine_stairs
+- minecraft:polished_granite_stairs
+- minecraft:smooth_red_sandstone_stairs
+- minecraft:mossy_stone_brick_stairs
+- minecraft:polished_diorite_stairs
+- minecraft:mossy_cobblestone_stairs
+- minecraft:end_stone_brick_stairs
+- minecraft:stone_stairs
+- minecraft:smooth_sandstone_stairs
+- minecraft:smooth_quartz_stairs
+- minecraft:granite_stairs
+- minecraft:andesite_stairs
+- minecraft:red_nether_brick_stairs
+- minecraft:polished_andesite_stairs
+- minecraft:diorite_stairs
+- minecraft:blackstone_stairs
+- minecraft:polished_blackstone_brick_stairs
+- minecraft:polished_blackstone_stairs
+- minecraft:cobbled_deepslate_stairs
+- minecraft:polished_deepslate_stairs
+- minecraft:deepslate_tile_stairs
+- minecraft:deepslate_brick_stairs
+- minecraft:oxidized_cut_copper_stairs
+- minecraft:weathered_cut_copper_stairs
+- minecraft:exposed_cut_copper_stairs
+- minecraft:cut_copper_stairs
+- minecraft:waxed_weathered_cut_copper_stairs
+- minecraft:waxed_exposed_cut_copper_stairs
+- minecraft:waxed_cut_copper_stairs
+- minecraft:waxed_oxidized_cut_copper_stairs
+
+#forge:vegetables/tomato
+- farmersdelight:tomato
+- croptopia:tomato
+- sakura:tomato
+
+#minecraft:logs
+- #minecraft:logs_that_burn
+- #minecraft:crimson_stems
+- #minecraft:warped_stems
+- sakura:maple_log
+- sakura:sakura_log
+- sakura:maple_wood
+- sakura:sakura_wood
+- sakura:stripped_maple_log
+- sakura:stripped_sakura_log
+
+#forge:raw_materials/gold
+- minecraft:raw_gold
+
+#croptopia:advancements_food_crafted
+- croptopia:cheese
+- croptopia:butter
+- croptopia:tofu
+- croptopia:chocolate
+- croptopia:tortilla
+- croptopia:salsa
+- croptopia:artichoke_dip
+- croptopia:pepperoni
+- croptopia:grape_jam
+- croptopia:strawberry_jam
+- croptopia:peach_jam
+- croptopia:apricot_jam
+- croptopia:blackberry_jam
+- croptopia:blueberry_jam
+- croptopia:cherry_jam
+- croptopia:elderberry_jam
+- croptopia:raspberry_jam
+- croptopia:beef_jerky
+- croptopia:pork_jerky
+- croptopia:pork_jerky
+- croptopia:kale_chips
+- croptopia:potato_chips
+- croptopia:steamed_rice
+- croptopia:french_fries
+- croptopia:sweet_potato_fries
+- croptopia:onion_rings
+- croptopia:raisins
+- croptopia:doughnut
+- croptopia:popcorn
+- croptopia:baked_beans
+- croptopia:toast
+- croptopia:cucumber_salad
+- croptopia:caesar_salad
+- croptopia:leafy_salad
+- croptopia:fruit_salad
+- croptopia:veggie_salad
+- croptopia:pork_and_beans
+- croptopia:oatmeal
+- croptopia:leek_soup
+- croptopia:yoghurt
+- croptopia:saucy_chips
+- croptopia:roasted_nuts
+- croptopia:trail_mix
+- croptopia:protein_bar
+- croptopia:nougat
+- croptopia:scrambled_eggs
+- croptopia:buttered_toast
+- croptopia:toast_with_jam
+- croptopia:ham_sandwich
+- croptopia:peanut_butter_and_jam
+- croptopia:blt
+- croptopia:grilled_cheese
+- croptopia:cheeseburger
+- croptopia:hamburger
+- croptopia:tofuburger
+- croptopia:pizza
+- croptopia:supreme_pizza
+- croptopia:cheese_pizza
+- croptopia:pineapple_pepperoni_pizza
+- croptopia:lemon_chicken
+- croptopia:fried_chicken
+- croptopia:chicken_and_noodles
+- croptopia:chicken_and_dumplings
+- croptopia:tofu_and_dumplings
+- croptopia:spaghetti_squash
+- croptopia:chicken_and_rice
+- croptopia:taco
+- croptopia:sushi
+- croptopia:egg_roll
+- croptopia:cashew_chicken
+- croptopia:apple_pie
+- croptopia:yam_jam
+- croptopia:banana_cream_pie
+- croptopia:candy_corn
+- croptopia:vanilla_ice_cream
+- croptopia:strawberry_ice_cream
+- croptopia:mango_ice_cream
+- croptopia:rum_raisin_ice_cream
+- croptopia:pecan_ice_cream
+- croptopia:cherry_pie
+- croptopia:brownies
+- croptopia:snicker_doodle
+- croptopia:banana_nut_bread
+- croptopia:pecan_pie
+- croptopia:candied_nuts
+- croptopia:almond_brittle
+- croptopia:raisin_oatmeal_cookie
+- croptopia:nutty_cookie
+- croptopia:burrito
+- croptopia:tostada
+- croptopia:horchata
+- croptopia:carnitas
+- croptopia:fajitas
+- croptopia:enchilada
+- croptopia:churros
+- croptopia:tamales
+- croptopia:tres_leche_cake
+- croptopia:stuffed_poblanos
+- croptopia:chili_relleno
+- croptopia:crema
+- croptopia:refried_beans
+- croptopia:chimichanga
+- croptopia:quesadilla
+- croptopia:shepherds_pie
+- croptopia:beef_wellington
+- croptopia:fish_and_chips
+- croptopia:eton_mess
+- croptopia:cornish_pasty
+- croptopia:scones
+- croptopia:figgy_pudding
+- croptopia:treacle_tart
+- croptopia:sticky_toffee_pudding
+- croptopia:trifle
+- croptopia:ajvar
+- croptopia:ajvar_toast
+- croptopia:avocado_toast
+- croptopia:bacon
+- croptopia:baked_sweet_potato
+- croptopia:baked_yam
+- croptopia:beef_stew
+- croptopia:beef_stir_fry
+- croptopia:buttered_green_beans
+- croptopia:cheesy_asparagus
+- croptopia:chocolate_ice_cream
+- croptopia:cooked_bacon
+- croptopia:eggplant_parmesan
+- croptopia:fruit_cake
+- croptopia:grilled_eggplant
+- croptopia:kiwi_sorbet
+- croptopia:lemon_coconut_bar
+- croptopia:nether_wart_stew
+- croptopia:peanut_butter
+- croptopia:peanut_butter_with_celery
+- croptopia:potato_soup
+- croptopia:ratatouille
+- croptopia:rhubarb_crisp
+- croptopia:roasted_asparagus
+- croptopia:roasted_radishes
+- croptopia:roasted_squash
+- croptopia:roasted_turnips
+- croptopia:steamed_broccoli
+- croptopia:steamed_green_beans
+- croptopia:stir_fry
+- croptopia:stuffed_artichoke
+- croptopia:toast_sandwich
+- croptopia:roasted_pumpkin_seeds
+- croptopia:roasted_sunflower_seeds
+- croptopia:pumpkin_bars
+- croptopia:corn_bread
+- croptopia:pumpkin_soup
+- croptopia:meringue
+- croptopia:cabbage_roll
+- croptopia:borscht
+- croptopia:goulash
+- croptopia:beetroot_salad
+- croptopia:candied_kumquats
+- croptopia:cooked_shrimp
+- croptopia:cooked_tuna
+- croptopia:cooked_calamari
+- croptopia:steamed_crab
+- croptopia:deep_fried_shrimp
+- croptopia:fried_calamari
+- croptopia:crab_legs
+- croptopia:steamed_clams
+- croptopia:grilled_oysters
+- croptopia:anchovy_pizza
+- croptopia:mashed_potatoes
+
+#forge:deep_fried_shrimp
+- croptopia:deep_fried_shrimp
+
+#forge:saguaros
+- croptopia:saguaro
+- #forge:fruits/saguaro
+- croptopia:saguaro
+- #forge:crops/saguaro
+
+#forge:lettuce_seeds
+- croptopia:lettuce_seed
+- #forge:seeds/lettuce
+
+#forge:fruits/apricot
+- croptopia:apricot
+
+#forge:seeds/rice
+- farmersdelight:rice
+- croptopia:rice_seed
+- sakura:rice_seeds
+
+#forge:saplings/pecan
+- croptopia:pecan_sapling
+
+#forge:crops/saguaro
+- croptopia:saguaro
+
+#forge:oranges
+- croptopia:orange
+- #forge:fruits/orange
+- croptopia:orange
+- #forge:crops/orange
+
+#origins:meat
+- farmersdelight:fried_egg
+- farmersdelight:cod_slice
+- farmersdelight:cooked_cod_slice
+- farmersdelight:salmon_slice
+- farmersdelight:cooked_salmon_slice
+- farmersdelight:bacon_and_eggs
+- croptopia:beef_jerky
+- croptopia:pork_jerky
+- croptopia:pork_and_beans
+- croptopia:blt
+- croptopia:cheeseburger
+- croptopia:hamburger
+- croptopia:supreme_pizza
+- croptopia:pineapple_pepperoni_pizza
+- croptopia:lemon_chicken
+- croptopia:fried_chicken
+- croptopia:chicken_and_noodles
+- croptopia:chicken_and_dumplings
+- croptopia:chicken_and_rice
+- croptopia:taco
+- croptopia:sushi
+- croptopia:cashew_chicken
+- croptopia:carnitas
+- croptopia:fajitas
+- croptopia:enchilada
+- croptopia:tamales
+- croptopia:stuffed_poblanos
+- croptopia:quesadilla
+- croptopia:shepherds_pie
+- croptopia:beef_wellington
+- croptopia:fish_and_chips
+- croptopia:cornish_pasty
+- croptopia:beef_stew
+- croptopia:beef_stir_fry
+- croptopia:cooked_bacon
+- croptopia:bacon
+- croptopia:potato_soup
+
+#minecraft:emerald_ores
+- minecraft:emerald_ore
+- minecraft:deepslate_emerald_ore
+
+#forge:crops/turnip
+- croptopia:turnip
+
+#sereneseasons:autumn_crops
+- farmersdelight:cabbage_seeds
+- farmersdelight:onion
+- farmersdelight:rice
+- croptopia:cauliflower_seed
+- croptopia:broccoli_seed
+- croptopia:corn_seed
+- croptopia:cucumber_seed
+- croptopia:currant_seed
+- croptopia:eggplant_seed
+- croptopia:grape_seed
+- croptopia:hops_seed
+- croptopia:kale_seed
+- croptopia:olive_seed
+- croptopia:peanut_seed
+- croptopia:sweetpotato_seed
+- croptopia:chile_pepper_seed
+- croptopia:apple_sapling
+- croptopia:banana_sapling
+- croptopia:orange_sapling
+- croptopia:persimmon_sapling
+- croptopia:plum_sapling
+- croptopia:cherry_sapling
+- croptopia:lemon_sapling
+- croptopia:grapefruit_sapling
+- croptopia:kumquat_sapling
+- croptopia:peach_sapling
+- croptopia:coconut_sapling
+- croptopia:nutmeg_sapling
+- croptopia:fig_sapling
+- croptopia:nectarine_sapling
+- croptopia:mango_sapling
+- croptopia:dragonfruit_sapling
+- croptopia:starfruit_sapling
+- croptopia:avocado_sapling
+- croptopia:apricot_sapling
+- croptopia:pear_sapling
+- croptopia:lime_sapling
+- croptopia:date_sapling
+- croptopia:almond_sapling
+- croptopia:cashew_sapling
+- croptopia:pecan_sapling
+- croptopia:walnut_sapling
+- corn_delight:corn_seeds
+- corn_delight:corn
+
+#forge:tools/shovels
+- minecraft:wooden_shovel
+- minecraft:stone_shovel
+- minecraft:iron_shovel
+- minecraft:diamond_shovel
+- minecraft:golden_shovel
+- minecraft:netherite_shovel
+- minecraft:wooden_shovel
+- minecraft:stone_shovel
+- minecraft:iron_shovel
+- minecraft:diamond_shovel
+- minecraft:golden_shovel
+- minecraft:netherite_shovel
+
+#forge:crops/cinnamon
+- croptopia:cinnamon
+
+#farmersdelight:cabinets
+- #farmersdelight:cabinets/wooden
+
+#forge:crops/apple
+- minecraft:apple
+
+#forge:raisins
+- croptopia:raisins
+
+#forge:seeds/ginger
+- croptopia:ginger_seed
+
+#umapyoi:card_ticket
+- #umapyoi:common_gacha_item
+- umapyoi:card_ticket
+- #umapyoi:sr_card_ticket
+- #umapyoi:ssr_card_ticket
+
+#forge:celery
+- croptopia:celery
+- #forge:vegetables/celery
+- croptopia:celery
+- #forge:crops/celery
+
+#forge:pineapples
+- croptopia:pineapple
+- #forge:fruits/pineapple
+- croptopia:pineapple
+- #forge:crops/pineapple
+
+#forge:blts
+- croptopia:blt
+
+#forge:vegetables/radish
+- croptopia:radish
+- sakura:radish
+
+#forge:elderberry_seeds
+- croptopia:elderberry_seed
+- #forge:seeds/elderberry
+
+#forge:tea_leaves
+- croptopia:tea_leaves
+- #forge:crops/tea_leaves
+
+#forge:raw_fishes/salmon
+- minecraft:salmon
+- farmersdelight:salmon_slice
+- minecraft:salmon
+
+#forge:grape_seeds
+- croptopia:grape_seed
+- #forge:seeds/grape
+
+#croptopia:advancements_saplings
+- croptopia:banana_sapling
+- croptopia:apple_sapling
+- croptopia:orange_sapling
+- croptopia:persimmon_sapling
+- croptopia:plum_sapling
+- croptopia:cherry_sapling
+- croptopia:lemon_sapling
+- croptopia:grapefruit_sapling
+- croptopia:kumquat_sapling
+- croptopia:peach_sapling
+- croptopia:coconut_sapling
+- croptopia:nutmeg_sapling
+- croptopia:fig_sapling
+- croptopia:nectarine_sapling
+- croptopia:mango_sapling
+- croptopia:dragonfruit_sapling
+- croptopia:starfruit_sapling
+- croptopia:avocado_sapling
+- croptopia:apricot_sapling
+- croptopia:pear_sapling
+- croptopia:lime_sapling
+- croptopia:date_sapling
+- croptopia:almond_sapling
+- croptopia:cashew_sapling
+- croptopia:pecan_sapling
+- croptopia:walnut_sapling
+- croptopia:cinnamon_sapling
+
+#croptopia:pork_replacements
+- minecraft:porkchop
+- croptopia:tofu
+
+#forge:seeds/wheat
+- minecraft:wheat_seeds
+
+#forge:salt
+- croptopia:salt
+- #forge:dust/salt
+
+#forge:ingots/iron
+- minecraft:iron_ingot
+
+#forge:sugar/sugar
+- minecraft:sugar
+
+#forge:honeydew
+- croptopia:honeydew
+- #forge:fruits/honeydew
+- croptopia:honeydew
+- #forge:crops/honeydew
+
+#balm:iron_nuggets
+- #forge:nuggets/iron?
+- minecraft:iron_nugget
+
+#croptopia:melons
+- minecraft:melon_slice
+- croptopia:honeydew
+- croptopia:cantaloupe
+
+#minecraft:anvil
+- minecraft:anvil
+- minecraft:chipped_anvil
+- minecraft:damaged_anvil
+
+#forge:chocolate_milkshakes
+- croptopia:chocolate_milkshake
+
+#forge:kale_smoothies
+- croptopia:kale_smoothie
+
+#forge:cranberry_seeds
+- croptopia:cranberry_seed
+- #forge:seeds/cranberry
+
+#forge:sand
+- #forge:sand/colorless
+- #forge:sand/red
+
+#forge:cheese
+- #forge:cheese/cheese
+
+#forge:orange_juices
+- croptopia:orange_juice
+- #forge:juices/orange_juice
+
+#forge:dyes/yellow
+- minecraft:yellow_dye
+
+#forge:mushrooms/brownmushroom
+- minecraft:brown_mushroom
+
+#forge:corn_breads
+- croptopia:corn_bread
+
+#curios:uma_soul
+- umapyoi:uma_soul
+
+#forge:fruits/kiwi
+- croptopia:kiwi
+
+#forge:crops/kiwi
+- croptopia:kiwi
+
+#forge:seeds/bellpepper
+- croptopia:bellpepper_seed
+
+#minecraft:iron_ores
+- minecraft:iron_ore
+- minecraft:deepslate_iron_ore
+
+#forge:mangos
+- croptopia:mango
+- #forge:fruits/mango
+- croptopia:mango
+- #forge:crops/mango
+
+#minecraft:stone_crafting_materials
+- minecraft:cobblestone
+- minecraft:blackstone
+- minecraft:cobbled_deepslate
+
+#minecraft:piglin_repellents
+- minecraft:soul_torch
+- minecraft:soul_lantern
+- minecraft:soul_campfire
+
+#farmersdelight:canvas_signs
+- farmersdelight:canvas_sign
+- farmersdelight:white_canvas_sign
+- farmersdelight:orange_canvas_sign
+- farmersdelight:magenta_canvas_sign
+- farmersdelight:light_blue_canvas_sign
+- farmersdelight:yellow_canvas_sign
+- farmersdelight:lime_canvas_sign
+- farmersdelight:pink_canvas_sign
+- farmersdelight:gray_canvas_sign
+- farmersdelight:light_gray_canvas_sign
+- farmersdelight:cyan_canvas_sign
+- farmersdelight:purple_canvas_sign
+- farmersdelight:blue_canvas_sign
+- farmersdelight:brown_canvas_sign
+- farmersdelight:green_canvas_sign
+- farmersdelight:red_canvas_sign
+- farmersdelight:black_canvas_sign
+
+#forge:grapefruits
+- croptopia:grapefruit
+- #forge:fruits/grapefruit
+- croptopia:grapefruit
+- #forge:crops/grapefruit
+
+#forge:glass/black
+- minecraft:black_stained_glass
+
+#forge:cabbage_rolls
+- croptopia:cabbage_roll
+
+#forge:banana_saplings
+- croptopia:banana_sapling
+- #forge:saplings/banana
+
+#forge:water
+- #forge:water/water
+- minecraft:water_bucket
+
+#forge:seeds/greenonion
+- croptopia:greenonion_seed
+
+#forge:crops/olive
+- croptopia:olive
+
+#forge:beef_jerkies
+- croptopia:beef_jerky
+
+#forge:fences/nether_brick
+- minecraft:nether_brick_fence
+
+#forge:rods
+- #forge:rods/blaze
+- #forge:rods/wooden
+
+#forge:honeydew_seeds
+- croptopia:honeydew_seed
+- #forge:seeds/honeydew
+
+#forge:bellpeppers
+- croptopia:bellpepper
+- #forge:fruits/bellpepper
+- croptopia:bellpepper
+- #forge:crops/bellpepper
+
+#forge:steamed_clams
+- croptopia:steamed_clams
+
+#forge:ores/iron
+- #minecraft:iron_ores
+
+#forge:baked_crepes
+- croptopia:baked_crepes
+
+#forge:tortilla
+- corn_delight:tortilla
+- culturaldelights:tortilla?
+
+#forge:apple_juices
+- croptopia:apple_juice
+- #forge:juices/apple_juice
+
+#dynamictrees:fungus_caps
+- dynamictrees:crimson_seed
+- dynamictrees:warped_seed
+
+#minecraft:wooden_stairs
+- minecraft:oak_stairs
+- minecraft:spruce_stairs
+- minecraft:birch_stairs
+- minecraft:jungle_stairs
+- minecraft:acacia_stairs
+- minecraft:dark_oak_stairs
+- minecraft:crimson_stairs
+- minecraft:warped_stairs
+
+#minecraft:wooden_buttons
+- minecraft:oak_button
+- minecraft:spruce_button
+- minecraft:birch_button
+- minecraft:jungle_button
+- minecraft:acacia_button
+- minecraft:dark_oak_button
+- minecraft:crimson_button
+- minecraft:warped_button
+
+#forge:cherries
+- croptopia:cherry
+- #forge:fruits/cherry
+- croptopia:cherry
+- #forge:crops/cherry
+
+#forge:crops/pecan
+- croptopia:pecan
+
+#forge:storage_blocks/quartz
+- minecraft:quartz_block
+
+#forge:grilled_cheeses
+- croptopia:grilled_cheese
+
+#umapyoi:common_gacha_item
+- umapyoi:jewel
+- umapyoi:blank_ticket
+
+#forge:strawberry_seeds
+- croptopia:strawberry_seed
+- #forge:seeds/strawberry
+
+#forge:corn
+- croptopia:corn
+- #forge:grain/corn
+- croptopia:corn
+- #forge:crops/corn
+
+#forge:leafyvegetables
+- #forge:leafyvegetables/cabbage
+
+#forge:dyes/green
+- minecraft:green_dye
+
+#dynamictrees:fungus_branches
+- dynamictrees:crimson_branch
+- dynamictrees:warped_branch
+
+#forge:crops/onion
+- farmersdelight:onion
+- croptopia:onion
+- sakura:onion
+
+#forge:ores/emerald
+- #minecraft:emerald_ores
+
+#balm:lime_dyes
+- #forge:dyes/lime?
+- minecraft:lime_dye
+
+#forge:melons
+- minecraft:melon_slice
+- croptopia:honeydew
+- croptopia:cantaloupe
+
+#forge:cantaloupe_seeds
+- croptopia:cantaloupe_seed
+- #forge:seeds/cantaloupe
+
+#forge:seeds/basil
+- croptopia:basil_seed
+
+#forge:dyes/lime
+- minecraft:lime_dye
+
+#forge:crops/yam
+- croptopia:yam
+
+#forge:leek
+- croptopia:leek
+- #forge:vegetables/leek
+- croptopia:leek
+- #forge:crops/leek
+
+#forge:vanilla_ice_creams
+- croptopia:vanilla_ice_cream
+
+#forge:broccoli_seeds
+- croptopia:broccoli_seed
+- #forge:seeds/broccoli
+
+#forge:crops/broccoli
+- croptopia:broccoli
+
+#forge:barrels/wooden
+- minecraft:barrel
+
+#forge:fruits/avocado
+- croptopia:avocado
+
+#forge:oats
+- croptopia:oat
+- #forge:crops/oats
+- #forge:grain/oats
+
+#forge:storage_blocks/raw_iron
+- minecraft:raw_iron_block
+
+#forge:seeds/cabbage
+- farmersdelight:cabbage_seeds
+- croptopia:cabbage_seed
+- sakura:cabbage_seeds
+
+#forge:milk_bottles
+- croptopia:milk_bottle
+
+#forge:kale_seeds
+- croptopia:kale_seed
+- #forge:seeds/kale
+
+#forge:olive_seeds
+- croptopia:olive_seed
+- #forge:seeds/olive
+
+#forge:pineapple_seeds
+- croptopia:pineapple_seed
+- #forge:seeds/pineapple
+
+#minecraft:tall_flowers
+- minecraft:sunflower
+- minecraft:lilac
+- minecraft:peony
+- minecraft:rose_bush
+- farmersdelight:wild_rice
+
+#forge:cauliflower
+- croptopia:cauliflower
+- #forge:vegetables/cauliflower
+- croptopia:cauliflower
+- #forge:crops/cauliflower
+
+#forge:tea
+- croptopia:tea
+
+#forge:nuts/almond
+- croptopia:almond
+
+#forge:crops/pineapple
+- croptopia:pineapple
+
+#forge:rutabagas
+- croptopia:rutabaga
+- #forge:vegetables/rutabaga
+- croptopia:rutabaga
+- #forge:crops/rutabaga
+
+#forge:bookshelves
+- minecraft:bookshelf
+
+#forge:dates
+- croptopia:date
+- #forge:fruits/date
+- croptopia:date
+- #forge:crops/date
+
+#forge:ores_in_ground/stone
+- minecraft:coal_ore
+- minecraft:copper_ore
+- minecraft:diamond_ore
+- minecraft:emerald_ore
+- minecraft:gold_ore
+- minecraft:iron_ore
+- minecraft:lapis_ore
+- minecraft:redstone_ore
+
+#forge:dyes
+- #forge:dyes/white
+- #forge:dyes/orange
+- #forge:dyes/magenta
+- #forge:dyes/light_blue
+- #forge:dyes/yellow
+- #forge:dyes/lime
+- #forge:dyes/pink
+- #forge:dyes/gray
+- #forge:dyes/light_gray
+- #forge:dyes/cyan
+- #forge:dyes/purple
+- #forge:dyes/blue
+- #forge:dyes/brown
+- #forge:dyes/green
+- #forge:dyes/red
+- #forge:dyes/black
+
+#forge:coconut_saplings
+- croptopia:coconut_sapling
+- #forge:saplings/coconut
+
+#forge:saguaro_seeds
+- croptopia:saguaro_seed
+- #forge:seeds/saguaro
+
+#forge:glass_panes/pink
+- minecraft:pink_stained_glass_pane
+
+#forge:vegetables/broccoli
+- croptopia:broccoli
+
+#forge:jams/strawberry_jam
+- croptopia:strawberry_jam
+
+#minecraft:dirt
+- minecraft:dirt
+- minecraft:grass_block
+- minecraft:podzol
+- minecraft:coarse_dirt
+- minecraft:mycelium
+- minecraft:rooted_dirt
+- minecraft:moss_block
+
+#forge:tuna
+- croptopia:tuna
+
+#forge:netherrack
+- minecraft:netherrack
+
+#forge:fruits/grapefruit
+- croptopia:grapefruit
+
+#forge:saplings/starfruit
+- croptopia:starfruit_sapling
+
+#minecraft:soul_fire_base_blocks
+- minecraft:soul_sand
+- minecraft:soul_soil
+
+#buildinggadgets:template_convertible
+- minecraft:paper
+
+#forge:ground_pork
+- croptopia:ground_pork
+
+#forge:jams
+- #forge:apricot_jams
+- #forge:blackberry_jams
+- #forge:blueberry_jams
+- #forge:cherry_jams
+- #forge:elderberry_jams
+- #forge:grape_jams
+- #forge:peach_jams
+- #forge:raspberry_jams
+- #forge:strawberry_jams
+
+#forge:eggs
+- minecraft:egg
+- minecraft:egg
+- minecraft:egg
+
+#forge:pecan_pies
+- croptopia:pecan_pie
+
+#forge:dyes/red
+- minecraft:red_dye
+
+#forge:fishes
+- #forge:raw_fishes
+
+#farmersdelight:serving_containers
+- minecraft:bowl
+- minecraft:glass_bottle
+- minecraft:bucket
+
+#forge:glass_panes/cyan
+- minecraft:cyan_stained_glass_pane
+
+#forge:rice_seeds
+- croptopia:rice_seed
+- #forge:seeds/rice
+
+#forge:fruits/blueberry
+- croptopia:blueberry
+
+#forge:raw_fishes/tropical_fish
+- minecraft:tropical_fish
+- minecraft:tropical_fish
+
+#forge:dusts/glowstone
+- minecraft:glowstone_dust
+
+#minecraft:wool
+- minecraft:white_wool
+- minecraft:orange_wool
+- minecraft:magenta_wool
+- minecraft:light_blue_wool
+- minecraft:yellow_wool
+- minecraft:lime_wool
+- minecraft:pink_wool
+- minecraft:gray_wool
+- minecraft:light_gray_wool
+- minecraft:cyan_wool
+- minecraft:purple_wool
+- minecraft:blue_wool
+- minecraft:brown_wool
+- minecraft:green_wool
+- minecraft:red_wool
+- minecraft:black_wool
+
+#forge:glass/colorless
+- minecraft:glass
+
+#forge:vegetables/beetroot
+- minecraft:beetroot
+- minecraft:beetroot
+
+#forge:coffee_beans
+- croptopia:coffee_beans
+- #forge:crops/coffee_beans
+- croptopia:coffee_beans
+- #forge:crops/coffee_beans
+- farmersrespite:coffee_beans
+
+#forge:the_big_breakfast
+- croptopia:the_big_breakfast
+
+#forge:popcorn
+- croptopia:popcorn
+- corn_delight:popcorn
+- culturaldelights:popcorn?
+
+#forge:stained_glass
+- minecraft:white_stained_glass
+- minecraft:orange_stained_glass
+- minecraft:magenta_stained_glass
+- minecraft:light_blue_stained_glass
+- minecraft:yellow_stained_glass
+- minecraft:lime_stained_glass
+- minecraft:pink_stained_glass
+- minecraft:gray_stained_glass
+- minecraft:light_gray_stained_glass
+- minecraft:cyan_stained_glass
+- minecraft:purple_stained_glass
+- minecraft:blue_stained_glass
+- minecraft:brown_stained_glass
+- minecraft:green_stained_glass
+- minecraft:red_stained_glass
+- minecraft:black_stained_glass
+
+#forge:seeds/tea_leaves
+- croptopia:tea_seed
+
+#forge:rhubarb_seeds
+- croptopia:rhubarb_seed
+- #forge:seeds/rhubarb
+
+#forge:limes
+- croptopia:lime
+- #forge:fruits/lime
+- croptopia:lime
+- #forge:crops/lime
+
+#forge:seeds/cantaloupe
+- croptopia:cantaloupe_seed
+
+#forge:salad_ingredients/cabbage
+- farmersdelight:cabbage
+- farmersdelight:cabbage_leaf
+- sakura:cabbage
+- sakura:sliced_cabbage
+
+#forge:nuggets/gold
+- minecraft:gold_nugget
+
+#forge:cucumber_seeds
+- croptopia:cucumber_seed
+- #forge:seeds/cucumber
+
+#forge:vegetables/rhubarb
+- croptopia:rhubarb
+
+#forge:nether_stars
+- minecraft:nether_star
+
+#forge:grape_jams
+- croptopia:grape_jam
+- #forge:jams/grape_jam
+
+#forge:grilled_oysters
+- croptopia:grilled_oysters
+
+#forge:seeds/pepper
+- croptopia:pepper_seed
+
+#forge:leafyvegetables/cabbage
+- #forge:vegetables/cabbage
+
+#forge:crops/cherry
+- croptopia:cherry
+
+#forge:lumber/maple
+- sakura:lumber_maple
+
+#dehydration:hydrating_foods
+- croptopia:artichoke_dip
+- croptopia:salsa
+- croptopia:soy_milk
+- croptopia:honeydew
+- croptopia:cantaloupe
+- minecraft:apple
+- croptopia:orange
+- croptopia:banana
+- croptopia:strawberry
+- croptopia:blackberry
+- croptopia:blueberry
+- croptopia:grape
+- croptopia:cantaloupe
+- croptopia:honeydew
+- croptopia:cranberry
+- croptopia:raspberry
+- croptopia:persimmon
+- croptopia:plum
+- croptopia:cherry
+- croptopia:lemon
+- croptopia:grapefruit
+- croptopia:kumquat
+- croptopia:peach
+- croptopia:nectarine
+- croptopia:mango
+- croptopia:dragonfruit
+- croptopia:starfruit
+- croptopia:apricot
+- croptopia:pear
+- croptopia:lime
+
+#forge:vegetables/cucumber
+- croptopia:cucumber
+
+#forge:crops/date
+- croptopia:date
+
+#forge:natto
+- sakura:natto
+
+#forge:coconuts
+- croptopia:coconut
+- #forge:fruits/coconut
+- croptopia:coconut
+- #forge:crops/coconut
+
+#forge:bones
+- minecraft:bone
+
+#sakura:fishcake
+- sakura:fishcake
+- sakura:chikuwa
+- sakura:kamaboko
+- sakura:satsumaage
+
+#forge:crops/corn
+- croptopia:corn
+- corn_delight:corn
+
+#forge:glass_panes
+- #forge:glass_panes/colorless
+- #forge:stained_glass_panes
+
+#forge:enchanting_fuels
+- #forge:gems/lapis
+
+#minecraft:non_flammable_wood
+- minecraft:warped_stem
+- minecraft:stripped_warped_stem
+- minecraft:warped_hyphae
+- minecraft:stripped_warped_hyphae
+- minecraft:crimson_stem
+- minecraft:stripped_crimson_stem
+- minecraft:crimson_hyphae
+- minecraft:stripped_crimson_hyphae
+- minecraft:crimson_planks
+- minecraft:warped_planks
+- minecraft:crimson_slab
+- minecraft:warped_slab
+- minecraft:crimson_pressure_plate
+- minecraft:warped_pressure_plate
+- minecraft:crimson_fence
+- minecraft:warped_fence
+- minecraft:crimson_trapdoor
+- minecraft:warped_trapdoor
+- minecraft:crimson_fence_gate
+- minecraft:warped_fence_gate
+- minecraft:crimson_stairs
+- minecraft:warped_stairs
+- minecraft:crimson_button
+- minecraft:warped_button
+- minecraft:crimson_door
+- minecraft:warped_door
+- minecraft:crimson_sign
+- minecraft:warped_sign
+
+#forge:crops/oats
+- croptopia:oat
+
+#forge:mortar_and_pestles
+- croptopia:mortar_and_pestle
+
+#forge:crops/lime
+- croptopia:lime
+
+#forge:sushis
+- croptopia:sushi
+
+#forge:flour/wheat
+- sakura:flour
+
+#forge:sea_lettuce
+- croptopia:sea_lettuce
+
+#forge:bellpepper_seeds
+- croptopia:bellpepper_seed
+- #forge:seeds/bellpepper
+
+#forge:vegetables/onion
+- farmersdelight:onion
+- croptopia:onion
+- sakura:onion
+
+#minecraft:lapis_ores
+- minecraft:lapis_ore
+- minecraft:deepslate_lapis_ore
+
+#forge:buttered_toasts
+- croptopia:buttered_toast
+
+#forge:crops/banana
+- croptopia:banana
+
+#forge:lemon_chickens
+- croptopia:lemon_chicken
+
+#forge:bread/rice
+- sakura:rice_bread
+
+#forge:ingots/netherite
+- minecraft:netherite_ingot
+
+#forge:fruits/apple
+- minecraft:apple
+
+#forge:tomatoes
+- croptopia:tomato
+- #forge:vegetables/tomato
+- croptopia:tomato
+- #forge:crops/tomato
+
+#createaddition:plants
+- farmersdelight:sandy_shrub
+- farmersdelight:brown_mushroom_colony
+- farmersdelight:red_mushroom_colony
+
+#forge:seeds/currant
+- croptopia:currant_seed
+
+#forge:seeds/beetroot
+- minecraft:beetroot_seeds
+
+#forge:nutmegs
+- croptopia:nutmeg
+- #forge:crops/nutmeg
+
+#forge:cooked_calamari
+- croptopia:cooked_calamari
+
+#forge:fruits/banana
+- croptopia:banana
+
+#forge:seeds/rapeseed
+- sakura:rapeseeds
+
+#forge:cooked_fishes
+- #forge:cooked_fishes/cod
+- #forge:cooked_fishes/salmon
+- #forge:cooked_fishes/cod
+- #forge:cooked_fishes/salmon
+
+#forge:onion_rings
+- croptopia:onion_rings
+
+#forge:doughnuts
+- croptopia:doughnut
+
+#forge:seeds/blackberry
+- croptopia:blackberry_seed
+
+#forge:tomato_seeds
+- croptopia:tomato_seed
+- #forge:seeds/tomato
+
+#forge:kiwi_seeds
+- croptopia:kiwi_seed
+- #forge:seeds/kiwi
+
+#forge:cheese/cheese
+- sakura:cheese
+
+#forge:tofu
+- croptopia:tofu
+
+#curios:uma_suit
+- umapyoi:trainning_suit
+- umapyoi:summer_uniform
+- umapyoi:winter_uniform
+- umapyoi:swimsuit
+
+#forge:cherry_pies
+- croptopia:cherry_pie
+
+#forge:spinach
+- croptopia:spinach
+- #forge:vegetables/spinach
+- croptopia:spinach
+- #forge:crops/spinach
+
+#forge:cooked_chicken
+- minecraft:cooked_chicken
+- farmersdelight:cooked_chicken_cuts
+- minecraft:cooked_chicken
+
+#forge:dashi
+- sakura:dashi
+
+#forge:crops/vanilla
+- croptopia:vanilla
+
+#forge:broccoli
+- croptopia:broccoli
+- #forge:vegetables/broccoli
+- croptopia:broccoli
+- #forge:crops/broccoli
+
+#forge:kale_chips
+- croptopia:kale_chips
+
+#forge:chicken_and_noodles
+- croptopia:chicken_and_noodles
+
+#forge:seeds/soybean
+- croptopia:soybean_seed
+- sakura:soybean
+
+#forge:mashed_potatoes
+- croptopia:mashed_potatoes
+
+#forge:crab_legs
+- croptopia:crab_legs
+
+#forge:pecans
+- croptopia:pecan
+- #forge:nuts/pecan
+- croptopia:pecan
+- #forge:crops/pecan
+- croptopia:pecan
+- #forge:fruits/pecan
+
+#forge:crops/grape
+- croptopia:grape
+
+#forge:feathers
+- minecraft:feather
+
+#forge:crops/squash
+- croptopia:squash
+
+#forge:vanilla
+- croptopia:vanilla
+- #forge:crops/vanilla
+
+#forge:salts
+- #forge:salt
+- croptopia:salt
+
+#forge:radishes
+- croptopia:radish
+- #forge:vegetables/radish
+- croptopia:radish
+- #forge:crops/radish
+
+#forge:peanut_seeds
+- croptopia:peanut_seed
+- #forge:seeds/peanut
+
+#balm:magenta_dyes
+- #forge:dyes/magenta?
+- minecraft:magenta_dye
+
+#forge:potatoes
+- minecraft:potato
+- croptopia:sweetpotato
+
+#forge:asparagus_seeds
+- croptopia:asparagus_seed
+- #forge:seeds/asparagus
+
+#forge:string
+- minecraft:string
+
+#forge:grain/rice
+- farmersdelight:rice
+- croptopia:rice
+- sakura:brown_rice
+
+#forge:knives
+- croptopia:knife
+
+#forge:cooked_fishes/salmon
+- minecraft:cooked_salmon
+- farmersdelight:cooked_salmon_slice
+- minecraft:cooked_salmon
+
+#dehydration:hydrating_drinks
+- croptopia:coffee
+- croptopia:lemonade
+- croptopia:limeade
+- croptopia:soy_milk
+- croptopia:strawberry_smoothie
+- croptopia:banana_smoothie
+- croptopia:kale_smoothie
+- croptopia:fruit_smoothie
+- croptopia:chocolate_milkshake
+- croptopia:beer
+- croptopia:wine
+- croptopia:mead
+- croptopia:rum
+- croptopia:pumpkin_spice_latte
+- croptopia:water_bottle
+- croptopia:milk_bottle
+- croptopia:tea
+- croptopia:kiwi_sorbet
+
+#forge:rice
+- croptopia:rice
+- #forge:grain/rice
+- croptopia:rice
+- #forge:crops/rice
+
+#forge:food_press
+- croptopia:food_press
+
+#balm:stones
+- #forge:stone?
+- minecraft:andesite
+- minecraft:diorite
+- minecraft:granite
+- minecraft:infested_stone
+- minecraft:stone
+- minecraft:polished_andesite
+- minecraft:polished_diorite
+- minecraft:polished_granite
+- minecraft:deepslate
+- minecraft:polished_deepslate
+- minecraft:infested_deepslate
+- minecraft:tuff
+
+#balm:eggs
+- #forge:eggs?
+- minecraft:egg
+
+#forge:seeds/celery
+- croptopia:celery_seed
+
+#forge:avocados
+- croptopia:avocado
+- #forge:fruits/avocado
+- croptopia:avocado
+- #forge:crops/avocado
+
+#forge:almonds
+- croptopia:almond
+- #forge:nuts/almond
+- croptopia:almond
+- #forge:crops/almond
+- croptopia:almond
+- #forge:fruits/almond
+
+#minecraft:leaves
+- minecraft:jungle_leaves
+- minecraft:oak_leaves
+- minecraft:spruce_leaves
+- minecraft:dark_oak_leaves
+- minecraft:acacia_leaves
+- minecraft:birch_leaves
+- minecraft:azalea_leaves
+- minecraft:flowering_azalea_leaves
+
+#forge:strawberry_smoothies
+- croptopia:strawberry_smoothie
+
+#forge:crops/celery
+- croptopia:celery
+
+#forge:pepper
+- croptopia:pepper
+- #forge:crops/pepper
+
+#forge:cornish_pasty
+- croptopia:cornish_pasty
+
+#forge:turnips
+- croptopia:turnip
+- #forge:vegetables/turnip
+- croptopia:turnip
+- #forge:crops/turnip
+
+#forge:crops/peanut
+- croptopia:peanut
+
+#forge:jams/cherry_jam
+- croptopia:cherry_jam
+
+#forge:fruits/elderberry
+- croptopia:elderberry
+
+#forge:fruits/cherry
+- croptopia:cherry
+
+#forge:seeds/kiwi
+- croptopia:kiwi_seed
+
+#forge:glass_panes/gray
+- minecraft:gray_stained_glass_pane
+
+#balm:pink_dyes
+- #forge:dyes/pink?
+- minecraft:pink_dye
+
+#minecraft:acacia_logs
+- minecraft:acacia_log
+- minecraft:acacia_wood
+- minecraft:stripped_acacia_log
+- minecraft:stripped_acacia_wood
+
+#minecraft:piglin_loved
+- #minecraft:gold_ores
+- minecraft:gold_block
+- minecraft:gilded_blackstone
+- minecraft:light_weighted_pressure_plate
+- minecraft:gold_ingot
+- minecraft:bell
+- minecraft:clock
+- minecraft:golden_carrot
+- minecraft:glistering_melon_slice
+- minecraft:golden_apple
+- minecraft:enchanted_golden_apple
+- minecraft:golden_helmet
+- minecraft:golden_chestplate
+- minecraft:golden_leggings
+- minecraft:golden_boots
+- minecraft:golden_horse_armor
+- minecraft:golden_sword
+- minecraft:golden_pickaxe
+- minecraft:golden_shovel
+- minecraft:golden_axe
+- minecraft:golden_hoe
+- minecraft:raw_gold
+- minecraft:raw_gold_block
+- farmersdelight:golden_knife
+
+#forge:starfruits
+- croptopia:starfruit
+- #forge:fruits/starfruit
+- croptopia:starfruit
+- #forge:crops/starfruit
+
+#forge:strawberry_ice_creams
+- croptopia:strawberry_ice_cream
+
+#forge:sand/red
+- minecraft:red_sand
+
+#forge:crops/bellpepper
+- croptopia:bellpepper
+
+#forge:walnuts
+- croptopia:walnut
+- #forge:nuts/walnut
+- croptopia:walnut
+- #forge:crops/walnut
+- croptopia:walnut
+- #forge:fruits/walnut
+
+#forge:glass/brown
+- minecraft:brown_stained_glass
+
+#forge:vegetables
+- #forge:vegetables/beetroot
+- #forge:vegetables/carrot
+- #forge:vegetables/onion
+- #forge:vegetables/potato
+- #forge:vegetables/tomato
+- #forge:artichokes
+- #forge:asparagus
+- #forge:broccoli
+- #forge:cabbage
+- #forge:cauliflower
+- #forge:celery
+- #forge:cucumbers
+- #forge:eggplants
+- #forge:garlic
+- #forge:gingers
+- #forge:greenbeans
+- #forge:greenonions
+- #forge:kale
+- #forge:leek
+- #forge:lettuce
+- #forge:mustard
+- #forge:onions
+- #forge:radishes
+- #forge:rhubarb
+- #forge:rutabagas
+- #forge:soybeans
+- #forge:spinach
+- #forge:squashes
+- #forge:sweetpotatos
+- #forge:tomatillos
+- #forge:tomatoes
+- #forge:turnips
+- #forge:yams
+- #forge:zucchini
+- #forge:vegetables/cabbage
+- #forge:vegetables/beetroot
+- #forge:vegetables/carrot
+- #forge:vegetables/eggplant
+- #forge:vegetables/onion
+- #forge:vegetables/potato
+- #forge:vegetables/radish
+- #forge:vegetables/tomato
+- #forge:vegetables/pumpkin
+- sakura:imogara
+- corn_delight:corn
+
+#minecraft:logs_that_burn
+- #minecraft:dark_oak_logs
+- #minecraft:oak_logs
+- #minecraft:acacia_logs
+- #minecraft:birch_logs
+- #minecraft:jungle_logs
+- #minecraft:spruce_logs
+- #croptopia:cinnamon_logs
+
+#forge:squashes
+- croptopia:squash
+- #forge:vegetables/squash
+- croptopia:squash
+- #forge:crops/squash
+
+#umapyoi:sr_card_ticket
+- umapyoi:sr_card_ticket
+
+#forge:salad_ingredients/tomato
+- sakura:tomato
+
+#forge:glass/light_gray
+- minecraft:light_gray_stained_glass
+
+#minecraft:wooden_slabs
+- minecraft:oak_slab
+- minecraft:spruce_slab
+- minecraft:birch_slab
+- minecraft:jungle_slab
+- minecraft:acacia_slab
+- minecraft:dark_oak_slab
+- minecraft:crimson_slab
+- minecraft:warped_slab
+
+#forge:vegetables/greenonion
+- croptopia:greenonion
+
+#forge:tofuburgers
+- croptopia:tofuburger
+
+#forge:dyes/white
+- minecraft:white_dye
+
+#minecraft:small_flowers
+- minecraft:dandelion
+- minecraft:poppy
+- minecraft:blue_orchid
+- minecraft:allium
+- minecraft:azure_bluet
+- minecraft:red_tulip
+- minecraft:orange_tulip
+- minecraft:white_tulip
+- minecraft:pink_tulip
+- minecraft:oxeye_daisy
+- minecraft:cornflower
+- minecraft:lily_of_the_valley
+- minecraft:wither_rose
+- farmersdelight:wild_carrots
+- farmersdelight:wild_potatoes
+- farmersdelight:wild_beetroots
+- farmersdelight:wild_cabbages
+- farmersdelight:wild_tomatoes
+- farmersdelight:wild_onions
+
+#forge:saplings/mango
+- croptopia:mango_sapling
+
+#forge:fruits/pineapple
+- croptopia:pineapple
+
+#forge:radish_seeds
+- croptopia:radish_seed
+- #forge:seeds/radish
+
+#forge:seeds/pumpkin
+- minecraft:pumpkin_seeds
+
+#forge:ore_bearing_ground/stone
+- minecraft:stone
+
+#lootr:trapped_chests
+- lootr:lootr_trapped_chest
+
+#forge:anchovies
+- croptopia:anchovy
+
+#forge:pecan_saplings
+- croptopia:pecan_sapling
+- #forge:saplings/pecan
+
+#forge:dusts/redstone
+- minecraft:redstone
+
+#forge:potato_chips
+- croptopia:potato_chips
+
+#forge:pizzas
+- croptopia:pizza
+
+#forge:meads
+- croptopia:mead
+
+#forge:roe
+- croptopia:roe
+
+#forge:gems/quartz
+- minecraft:quartz
+
+#sereneseasons:winter_crops
+- farmersdelight:cabbage_seeds
+- croptopia:rhubarb_seed
+- croptopia:rutabaga_seed
+- croptopia:squash_seed
+- croptopia:yam_seed
+- croptopia:turnip_seed
+
+#forge:crops/beetroot
+- minecraft:beetroot
+
+#forge:seeds/melon
+- minecraft:melon_seeds
+
+#forge:soysauce/soysauce
+- sakura:soysauce
+
+#forge:raspberries
+- croptopia:raspberry
+- #forge:fruits/raspberry
+- croptopia:raspberry
+- #forge:crops/raspberry
+
+#forge:cherry_jams
+- croptopia:cherry_jam
+- #forge:jams/cherry_jam
+
+#minecraft:creeper_drop_music_discs
+- minecraft:music_disc_13
+- minecraft:music_disc_cat
+- minecraft:music_disc_blocks
+- minecraft:music_disc_chirp
+- minecraft:music_disc_far
+- minecraft:music_disc_mall
+- minecraft:music_disc_mellohi
+- minecraft:music_disc_stal
+- minecraft:music_disc_strad
+- minecraft:music_disc_ward
+- minecraft:music_disc_11
+- minecraft:music_disc_wait
+
+#forge:lemons
+- croptopia:lemon
+- #forge:fruits/lemon
+- croptopia:lemon
+- #forge:crops/lemon
+
+#croptopia:nuts
+- croptopia:almond
+- croptopia:walnut
+- croptopia:pecan
+- croptopia:cashew
+- croptopia:peanut
+
+#forge:grape_juices
+- croptopia:grape_juice
+- #forge:juices/grape_juice
+
+#forge:coffees
+- croptopia:coffee
+- croptopia:coffee
+- farmersrespite:coffee
+
+#forge:seeds/sweetpotato
+- croptopia:sweetpotato_seed
+
+#forge:greenbeans
+- croptopia:greenbean
+- #forge:vegetables/greenbean
+- croptopia:greenbean
+- #forge:crops/greenbean
+
+#forge:fruits/almond
+- croptopia:almond
+
+#croptopia:meat_replacements
+- minecraft:beef
+- minecraft:chicken
+- minecraft:porkchop
+- croptopia:tofu
+
+#forge:crops/radish
+- croptopia:radish
+- sakura:radish
+
+#forge:asparagus
+- croptopia:asparagus
+- #forge:vegetables/asparagus
+- croptopia:asparagus
+- #forge:crops/asparagus
+
+#forge:seeds/spinach
+- croptopia:spinach_seed
+
+#forge:meringue
+- croptopia:meringue
+
+#forge:seeds/coffee_beans
+- croptopia:coffee_seed
+
+#forge:orange_saplings
+- croptopia:orange_sapling
+- #forge:saplings/orange
+
+#forge:crops/tomato
+- farmersdelight:tomato
+- croptopia:tomato
+- sakura:tomato
+
+#forge:crops/blackbean
+- croptopia:blackbean
+
+#forge:sunny_side_eggs
+- croptopia:sunny_side_eggs
+
+#forge:crops/spinach
+- croptopia:spinach
+
+#forge:cashew_saplings
+- croptopia:cashew_sapling
+- #forge:saplings/cashew
+
+#balm:nuggets
+- #forge:nuggets?
+
+#forge:pear_saplings
+- croptopia:pear_sapling
+- #forge:saplings/pear
+
+#forge:crops/almond
+- croptopia:almond
+
+#forge:seeds/peanut
+- croptopia:peanut_seed
+
+#forge:seeds/elderberry
+- croptopia:elderberry_seed
+
+#forge:bananas
+- croptopia:banana
+- #forge:fruits/banana
+- croptopia:banana
+- #forge:crops/banana
+
+#forge:hashed_brown
+- croptopia:hashed_brown
+
+#sakura:tools/knives/noodle
+- sakura:knife_noodle
+
+#forge:almond_brittles
+- croptopia:almond_brittle
+
+#forge:cheeses
+- croptopia:cheese
+
+#forge:glass_panes/purple
+- minecraft:purple_stained_glass_pane
+
+#forge:dusts
+- #forge:dusts/glowstone
+- #forge:dusts/prismarine
+- #forge:dusts/redstone
+
+#forge:cantaloupes
+- croptopia:cantaloupe
+- #forge:fruits/cantaloupe
+- croptopia:cantaloupe
+- #forge:crops/cantaloupe
+
+#forge:glass/yellow
+- minecraft:yellow_stained_glass
+
+#forge:seeds/squash
+- croptopia:squash_seed
+
+#forge:jams/apricot_jam
+- croptopia:apricot_jam
+
+#farmersrespite:tea_leaves
+- farmersrespite:green_tea_leaves
+- farmersrespite:yellow_tea_leaves
+- farmersrespite:black_tea_leaves
+- croptopia:tea_leaves
+
+#forge:squash_seeds
+- croptopia:squash_seed
+- #forge:seeds/squash
+
+#forge:molasses
+- croptopia:molasses
+
+#forge:nectarines
+- croptopia:nectarine
+- #forge:fruits/nectarine
+- croptopia:nectarine
+- #forge:crops/nectarine
+
+#forge:crops/nectarine
+- croptopia:nectarine
+
+#forge:crops/greenbean
+- croptopia:greenbean
+
+#forge:saplings/apple
+- croptopia:apple_sapling
+
+#forge:pears
+- croptopia:pear
+- #forge:fruits/pear
+- croptopia:pear
+- #forge:crops/pear
+
+#forge:noodles
+- croptopia:noodle
+
+#forge:barrels
+- #forge:barrels/wooden
+
+#forge:raisin_oatmeal_cookies
+- croptopia:raisin_oatmeal_cookie
+
+#forge:greenonion_seeds
+- croptopia:greenonion_seed
+- #forge:seeds/greenonion
+
+#forge:saplings/cinnamon
+- croptopia:cinnamon_sapling
+
+#forge:sweetpotatos
+- croptopia:sweetpotato
+- #forge:vegetables/sweetpotato
+- croptopia:sweetpotato
+- #forge:crops/sweetpotato
+
+#forge:garlic
+- croptopia:garlic
+- #forge:vegetables/garlic
+- croptopia:garlic
+- #forge:crops/garlic
+
+#forge:grain/corn
+- croptopia:corn
+- corn_delight:corn
+
+#forge:dough/buckwheat
+- sakura:dough_buckwheat
+
+#forge:chests/ender
+- minecraft:ender_chest
+
+#forge:baked_sweet_potatos
+- croptopia:baked_sweet_potato
+
+#forge:seeds/buckwheat
+- sakura:buckwheat
+
+#forge:storage_blocks/raw_copper
+- minecraft:raw_copper_block
+
+#forge:crops/coffee_beans
+- croptopia:coffee_beans
+
+#forge:crops/pumpkin
+- minecraft:pumpkin
+
+#forge:shears
+- minecraft:shears
+
+#forge:strawberries
+- croptopia:strawberry
+- #forge:fruits/strawberry
+- croptopia:strawberry
+- #forge:crops/strawberry
+
+#forge:walnut_saplings
+- croptopia:walnut_sapling
+- #forge:saplings/walnut
+
+#forge:frog_legs
+- croptopia:frog_legs
+
+#forge:dough/rice
+- sakura:dough_rice
+
+#balm:wooden_chests
+- #forge:chests/wooden?
+- minecraft:chest
+- minecraft:trapped_chest
+
+#forge:fruits/grape
+- croptopia:grape
+
+#forge:cooked_shrimp
+- croptopia:cooked_shrimp
+
+#balm:dyes
+- #forge:dyes?
+
+#farmersdelight:tools/knives
+- farmersdelight:flint_knife
+- farmersdelight:iron_knife
+- farmersdelight:diamond_knife
+- farmersdelight:golden_knife
+- farmersdelight:netherite_knife
+
+#forge:saplings/apricot
+- croptopia:apricot_sapling
+
+#minecraft:planks
+- minecraft:oak_planks
+- minecraft:spruce_planks
+- minecraft:birch_planks
+- minecraft:jungle_planks
+- minecraft:acacia_planks
+- minecraft:dark_oak_planks
+- minecraft:crimson_planks
+- minecraft:warped_planks
+- sakura:plank_sakura
+- sakura:plank_bamboo
+- sakura:plank_maple
+
+#minecraft:fox_food
+- minecraft:sweet_berries
+- minecraft:glow_berries
+- croptopia:blackberry
+- croptopia:blueberry
+- croptopia:cranberry
+- croptopia:elderberry
+- croptopia:raspberry
+- croptopia:strawberry
+
+#forge:cobblestone
+- #forge:cobblestone/normal
+- #forge:cobblestone/infested
+- #forge:cobblestone/mossy
+- #forge:cobblestone/deepslate
+
+#forge:seeds/radish
+- croptopia:radish_seed
+- sakura:radish_seeds
+
+#forge:seeds/tomato
+- farmersdelight:tomato_seeds
+- croptopia:tomato_seed
+- sakura:tomato_seeds
+
+#forge:storage_blocks/gold
+- minecraft:gold_block
+
+#farmersdelight:wolf_prey
+- #forge:raw_chicken
+- #forge:raw_mutton
+- minecraft:rabbit
+
+#forge:chicken_and_dumplings
+- croptopia:chicken_and_dumplings
+
+#minecraft:candles
+- minecraft:candle
+- minecraft:white_candle
+- minecraft:orange_candle
+- minecraft:magenta_candle
+- minecraft:light_blue_candle
+- minecraft:yellow_candle
+- minecraft:lime_candle
+- minecraft:pink_candle
+- minecraft:gray_candle
+- minecraft:light_gray_candle
+- minecraft:cyan_candle
+- minecraft:purple_candle
+- minecraft:blue_candle
+- minecraft:brown_candle
+- minecraft:green_candle
+- minecraft:red_candle
+- minecraft:black_candle
+
+#forge:dusts/prismarine
+- minecraft:prismarine_shard
+
+#forge:fences
+- #forge:fences/nether_brick
+- #forge:fences/wooden
+
+#forge:crops/cauliflower
+- croptopia:cauliflower
+
+#forge:saplings/orange
+- croptopia:orange_sapling
+
+#forge:crops/kumquat
+- croptopia:kumquat
+
+#forge:crops/avocado
+- croptopia:avocado
+
+#forge:grain/oats
+- croptopia:oat
+
+#forge:supreme_pizzas
+- croptopia:supreme_pizza
+
+#forge:ore_bearing_ground/deepslate
+- minecraft:deepslate

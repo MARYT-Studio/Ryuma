@@ -1,0 +1,19 @@
+$ cat .gitignore
+#Whitelist
+/*
+
+#Folders
+!/config
+!/defaultconfigs
+!/patchouli_books
+!/resources
+!/oresources
+!/scripts
+!/kubejs
+!/structures
+
+#Files
+!/.gitignore
+!/README.md
+
+# This is a part of the modpack!
