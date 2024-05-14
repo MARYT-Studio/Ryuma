@@ -16,4 +16,8 @@ $ cat .gitignore
 !/.gitignore
 !/README.md
 
-# This is a part of the modpack!
+#Special Ignored
+config/oculus.properties
+config/xaerominimap_entities.json
+config/roughlyenoughitems/pinyin_double.properties
+config/roughlyenoughitems/pinyin.properties
