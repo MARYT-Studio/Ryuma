@@ -11,39 +11,192 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "weight": 2,
+          "weight": 10,
           "functions": [
             {
-              "function": "minecraft:set_count",
-              "count": {
+              "function": "minecraft:set_damage",
+              "damage": {
                 "type": "minecraft:uniform",
-                "min": 1.0,
-                "max": 3.0
+                "min": 0.4,
+                "max": 1.0
               },
               "add": false
+            },
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": {
+                "type": "minecraft:uniform",
+                "min": 16.0,
+                "max": 25.0
+              },
+              "treasure": false
             }
           ],
-          "name": "minecraft:iron_ingot"
+          "name": "minecraft:iron_sword"
         },
         {
           "type": "minecraft:item",
-          "weight": 4,
+          "weight": 10,
           "functions": [
             {
-              "function": "minecraft:set_count",
-              "count": {
+              "function": "minecraft:set_damage",
+              "damage": {
                 "type": "minecraft:uniform",
-                "min": 1.0,
-                "max": 4.0
+                "min": 0.4,
+                "max": 1.0
               },
               "add": false
+            },
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": {
+                "type": "minecraft:uniform",
+                "min": 16.0,
+                "max": 25.0
+              },
+              "treasure": false
             }
           ],
-          "name": "minecraft:bread"
+          "name": "minecraft:iron_boots"
         },
         {
           "type": "minecraft:item",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "minecraft:set_damage",
+              "damage": {
+                "type": "minecraft:uniform",
+                "min": 0.4,
+                "max": 1.0
+              },
+              "add": false
+            },
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": {
+                "type": "minecraft:uniform",
+                "min": 16.0,
+                "max": 25.0
+              },
+              "treasure": false
+            }
+          ],
+          "name": "minecraft:iron_chestplate"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "minecraft:set_damage",
+              "damage": {
+                "type": "minecraft:uniform",
+                "min": 0.4,
+                "max": 1.0
+              },
+              "add": false
+            },
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": {
+                "type": "minecraft:uniform",
+                "min": 16.0,
+                "max": 25.0
+              },
+              "treasure": false
+            }
+          ],
+          "name": "minecraft:iron_leggings"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "minecraft:set_damage",
+              "damage": {
+                "type": "minecraft:uniform",
+                "min": 0.4,
+                "max": 1.0
+              },
+              "add": false
+            },
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": {
+                "type": "minecraft:uniform",
+                "min": 16.0,
+                "max": 25.0
+              },
+              "treasure": false
+            }
+          ],
           "name": "minecraft:iron_helmet"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "minecraft:set_damage",
+              "damage": {
+                "type": "minecraft:uniform",
+                "min": 0.4,
+                "max": 1.0
+              },
+              "add": false
+            },
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": {
+                "type": "minecraft:uniform",
+                "min": 16.0,
+                "max": 25.0
+              },
+              "treasure": false
+            }
+          ],
+          "name": "minecraft:iron_pickaxe"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "minecraft:set_damage",
+              "damage": {
+                "type": "minecraft:uniform",
+                "min": 0.4,
+                "max": 1.0
+              },
+              "add": false
+            },
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": {
+                "type": "minecraft:uniform",
+                "min": 16.0,
+                "max": 25.0
+              },
+              "treasure": false
+            }
+          ],
+          "name": "minecraft:iron_shovel"
+        },
+        {
+          "type": "item",
+          "name": "minecraft:emerald",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 5,
+                "max": 20
+              }
+            }
+          ],
+          "weight": 5
         },
         {
           "type": "minecraft:item",

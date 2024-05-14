@@ -55,14 +55,14 @@
         },
         {
           "type": "minecraft:item",
-          "weight": 6,
+          "weight": 12,
           "functions": [
             {
               "function": "minecraft:set_damage",
               "damage": {
                 "type": "minecraft:uniform",
-                "min": 0.8,
-                "max": 1.0
+                "min": 0.1,
+                "max": 0.5
               },
               "add": false
             },
@@ -74,14 +74,14 @@
         },
         {
           "type": "minecraft:item",
-          "weight": 6,
+          "weight": 12,
           "functions": [
             {
               "function": "minecraft:set_damage",
               "damage": {
                 "type": "minecraft:uniform",
-                "min": 0.8,
-                "max": 1.0
+                "min": 0.1,
+                "max": 0.5
               },
               "add": false
             },
@@ -93,14 +93,14 @@
         },
         {
           "type": "minecraft:item",
-          "weight": 6,
+          "weight": 12,
           "functions": [
             {
               "function": "minecraft:set_damage",
               "damage": {
                 "type": "minecraft:uniform",
-                "min": 0.8,
-                "max": 1.0
+                "min": 0.1,
+                "max": 0.5
               },
               "add": false
             },
@@ -112,14 +112,14 @@
         },
         {
           "type": "minecraft:item",
-          "weight": 6,
+          "weight": 12,
           "functions": [
             {
               "function": "minecraft:set_damage",
               "damage": {
                 "type": "minecraft:uniform",
-                "min": 0.8,
-                "max": 1.0
+                "min": 0.1,
+                "max": 0.5
               },
               "add": false
             },
@@ -131,14 +131,14 @@
         },
         {
           "type": "minecraft:item",
-          "weight": 6,
+          "weight": 12,
           "functions": [
             {
               "function": "minecraft:set_damage",
               "damage": {
                 "type": "minecraft:uniform",
-                "min": 0.8,
-                "max": 1.0
+                "min": 0.1,
+                "max": 0.5
               },
               "add": false
             },
@@ -147,47 +147,6 @@
             }
           ],
           "name": "minecraft:diamond_boots"
-        },
-        {
-          "type": "minecraft:item",
-          "weight": 6,
-          "name": "minecraft:diamond_sword"
-        },
-        {
-          "type": "minecraft:item",
-          "weight": 5,
-          "name": "minecraft:diamond_chestplate"
-        },
-        {
-          "type": "minecraft:item",
-          "weight": 5,
-          "name": "minecraft:diamond_helmet"
-        },
-        {
-          "type": "minecraft:item",
-          "weight": 5,
-          "name": "minecraft:diamond_boots"
-        },
-        {
-          "type": "minecraft:item",
-          "weight": 5,
-          "name": "minecraft:diamond_leggings"
-        },
-        {
-          "type": "minecraft:item",
-          "weight": 5,
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": {
-                "type": "minecraft:uniform",
-                "min": 2.0,
-                "max": 6.0
-              },
-              "add": false
-            }
-          ],
-          "name": "minecraft:diamond"
         },
         {
           "type": "minecraft:item",

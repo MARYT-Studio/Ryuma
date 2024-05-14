@@ -56,7 +56,7 @@
             {
               "function": "minecraft:enchant_with_levels",
               "levels": 30.0,
-              "treasure": true
+              "treasure": false
             }
           ],
           "name": "minecraft:book"
