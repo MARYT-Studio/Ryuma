@@ -179,7 +179,7 @@
               "add": false
             }
           ],
-          "name": "minecraft:coal"
+          "name": "minecraft:torch"
         },
         {
           "type": "minecraft:item",
@@ -195,7 +195,7 @@
               "add": false
             }
           ],
-          "name": "minecraft:rotten_flesh"
+          "name": "minecraft:cooked_chicken"
         },
         {
           "type": "minecraft:item",

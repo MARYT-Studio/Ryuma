@@ -26,29 +26,178 @@
         },
         {
           "type": "minecraft:item",
-          "weight": 2,
-          "name": "minecraft:fern"
-        },
-        {
-          "type": "minecraft:item",
-          "weight": 2,
-          "name": "minecraft:large_fern"
+          "weight": 10,
+          "functions": [
+            {
+              "function": "minecraft:set_damage",
+              "damage": {
+                "type": "minecraft:uniform",
+                "min": 0.4,
+                "max": 1.0
+              },
+              "add": false
+            },
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": {
+                "type": "minecraft:uniform",
+                "min": 16.0,
+                "max": 25.0
+              },
+              "treasure": false
+            }
+          ],
+          "name": "minecraft:iron_sword"
         },
         {
           "type": "minecraft:item",
           "weight": 10,
           "functions": [
             {
-              "function": "minecraft:set_count",
-              "count": {
+              "function": "minecraft:set_damage",
+              "damage": {
                 "type": "minecraft:uniform",
-                "min": 1.0,
-                "max": 7.0
+                "min": 0.4,
+                "max": 1.0
               },
               "add": false
+            },
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": {
+                "type": "minecraft:uniform",
+                "min": 16.0,
+                "max": 25.0
+              },
+              "treasure": false
             }
           ],
-          "name": "minecraft:potato"
+          "name": "minecraft:iron_boots"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "minecraft:set_damage",
+              "damage": {
+                "type": "minecraft:uniform",
+                "min": 0.4,
+                "max": 1.0
+              },
+              "add": false
+            },
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": {
+                "type": "minecraft:uniform",
+                "min": 16.0,
+                "max": 25.0
+              },
+              "treasure": false
+            }
+          ],
+          "name": "minecraft:iron_chestplate"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "minecraft:set_damage",
+              "damage": {
+                "type": "minecraft:uniform",
+                "min": 0.4,
+                "max": 1.0
+              },
+              "add": false
+            },
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": {
+                "type": "minecraft:uniform",
+                "min": 16.0,
+                "max": 25.0
+              },
+              "treasure": false
+            }
+          ],
+          "name": "minecraft:iron_leggings"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "minecraft:set_damage",
+              "damage": {
+                "type": "minecraft:uniform",
+                "min": 0.4,
+                "max": 1.0
+              },
+              "add": false
+            },
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": {
+                "type": "minecraft:uniform",
+                "min": 16.0,
+                "max": 25.0
+              },
+              "treasure": false
+            }
+          ],
+          "name": "minecraft:iron_helmet"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "minecraft:set_damage",
+              "damage": {
+                "type": "minecraft:uniform",
+                "min": 0.4,
+                "max": 1.0
+              },
+              "add": false
+            },
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": {
+                "type": "minecraft:uniform",
+                "min": 16.0,
+                "max": 25.0
+              },
+              "treasure": false
+            }
+          ],
+          "name": "minecraft:iron_pickaxe"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "minecraft:set_damage",
+              "damage": {
+                "type": "minecraft:uniform",
+                "min": 0.4,
+                "max": 1.0
+              },
+              "add": false
+            },
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": {
+                "type": "minecraft:uniform",
+                "min": 16.0,
+                "max": 25.0
+              },
+              "treasure": false
+            }
+          ],
+          "name": "minecraft:iron_shovel"
         },
         {
           "type": "minecraft:item",
@@ -58,8 +207,24 @@
               "function": "minecraft:set_count",
               "count": {
                 "type": "minecraft:uniform",
-                "min": 1.0,
-                "max": 7.0
+                "min": 2.0,
+                "max": 16.0
+              },
+              "add": false
+            }
+          ],
+          "name": "farmersdelight:potato_crate"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 8.0,
+                "max": 32.0
               },
               "add": false
             }
@@ -74,24 +239,24 @@
               "function": "minecraft:set_count",
               "count": {
                 "type": "minecraft:uniform",
-                "min": 1.0,
-                "max": 4.0
+                "min": 2.0,
+                "max": 8.0
               },
               "add": false
             }
           ],
-          "name": "minecraft:bread"
+          "name": "farmersdelight:ratatouille"
         },
         {
           "type": "minecraft:item",
-          "weight": 5,
+          "weight": 10,
           "functions": [
             {
               "function": "minecraft:set_count",
               "count": {
                 "type": "minecraft:uniform",
-                "min": 1.0,
-                "max": 5.0
+                "min": 8.0,
+                "max": 16.0
               },
               "add": false
             }
@@ -100,6 +265,7 @@
         },
         {
           "type": "minecraft:item",
+          "weight": 5,
           "name": "minecraft:pumpkin_pie"
         },
         {
@@ -132,11 +298,7 @@
               "add": false
             }
           ],
-          "name": "minecraft:spruce_sapling"
-        },
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:spruce_sign"
+          "name": "sakura:maple_sapling_red"
         },
         {
           "type": "minecraft:item",
@@ -146,8 +308,8 @@
               "function": "minecraft:set_count",
               "count": {
                 "type": "minecraft:uniform",
-                "min": 1.0,
-                "max": 5.0
+                "min": 32.0,
+                "max": 64.0
               },
               "add": false
             }

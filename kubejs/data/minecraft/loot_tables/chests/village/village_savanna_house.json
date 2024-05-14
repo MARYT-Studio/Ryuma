@@ -31,8 +31,51 @@
         },
         {
           "type": "minecraft:item",
-          "weight": 5,
-          "name": "minecraft:tall_grass"
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 1.0,
+                "max": 3.0
+              },
+              "add": false
+            }
+          ],          
+          "name": "farmersdelight:cabbage_crate"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 1.0,
+                "max": 3.0
+              },
+              "add": false
+            }
+          ],          
+          "name": "farmersdelight:tomato_crate"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 1.0,
+                "max": 3.0
+              },
+              "add": false
+            }
+          ],          
+          "name": "farmersdelight:onion_crate"
         },
         {
           "type": "minecraft:item",
@@ -100,7 +143,19 @@
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:saddle"
+          "weight": 3,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 1.0,
+                "max": 4.0
+              },
+              "add": false
+            }
+          ],
+          "name": "minecraft:pumpkin_pie"
         },
         {
           "type": "minecraft:item",

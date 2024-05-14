@@ -39,7 +39,7 @@
               "add": false
             }
           ],
-          "name": "minecraft:coal"
+          "name": "minecraft:torch"
         },
         {
           "type": "minecraft:item",
@@ -65,7 +65,7 @@
         {
           "type": "minecraft:item",
           "weight": 10,
-          "name": "minecraft:rotten_flesh"
+          "name": "minecraft:cooked_chicken"
         },
         {
           "type": "minecraft:item",

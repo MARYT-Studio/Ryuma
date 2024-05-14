@@ -11,7 +11,6 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "weight": 20,
           "name": "minecraft:saddle"
         },
         {
@@ -157,12 +156,12 @@
               "count": {
                 "type": "minecraft:uniform",
                 "min": 1.0,
-                "max": 4.0
+                "max": 8.0
               },
               "add": false
             }
           ],
-          "name": "minecraft:coal"
+          "name": "minecraft:torch"
         },
         {
           "type": "minecraft:item",
@@ -248,7 +247,7 @@
               "add": false
             }
           ],
-          "name": "minecraft:gunpowder"
+          "name": "minecraft:torch"
         },
         {
           "type": "minecraft:item",
@@ -264,7 +263,7 @@
               "add": false
             }
           ],
-          "name": "minecraft:rotten_flesh"
+          "name": "minecraft:cooked_chicken"
         },
         {
           "type": "minecraft:item",

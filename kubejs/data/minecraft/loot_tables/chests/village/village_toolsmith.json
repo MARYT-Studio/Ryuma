@@ -249,7 +249,7 @@
               "add": false
             }
           ],
-          "name": "minecraft:coal"
+          "name": "minecraft:torch"
         },
         {
           "type": "minecraft:item",
